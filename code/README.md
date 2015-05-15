@@ -1,5 +1,7 @@
 # Code Repository
 
+This is publicly-facing code (more forthcoming). For any questions, let [us know](mailto:i2millig@uwaterloo.ca).
+
 ## Unify.py
 
 ```
@@ -13,6 +15,7 @@ This was authored by Jeremy Wiebe and discussed [on Ian's blog here](http://ianm
 There's more information on playing with the workshop [here](http://ianmilligan.ca/2014/12/10/playing-with-the-web-archive-analysis-workshop-a-few-tips-for-fellow-tinkerers/).
 
 ## Plain-Textify.m
+
 ```
 htmlTreeToPlainText[origin,target];
 ```
@@ -22,4 +25,5 @@ This is a Mathematica routine, [derived from an old StackOverflow question](http
 Use cases and specific implementation is [available here](http://ianmilligan.ca/2015/04/14/using-mathematica-to-generate-plain-text-files-of-mirrored-web-site-archives/).
 
 ## Other Things
-If you want to get Gephi working on OS X, and it's breaking, maybey ou need to change some of your settings? See [Getting Gephi Running on OS X Mavericks](http://ianmilligan.ca/2014/07/15/getting-gephi-running-on-os-x-mavericks/).
+
+If you want to get Gephi working on OS X, and it's breaking, maybe you need to change some of your settings? See [Getting Gephi Running on OS X Mavericks](http://ianmilligan.ca/2014/07/15/getting-gephi-running-on-os-x-mavericks/). We are also working on a Hadoop to GDF converter.
