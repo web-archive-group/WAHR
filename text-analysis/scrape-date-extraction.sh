@@ -19,11 +19,11 @@ sort -n output.txt > sorted-merged.txt
 awk '{print $1}' sorted-merged.txt
 
 # this command extracts all crawls of a certain date and puts them out
-# to a text file. 
-# Presumable, could just take the original output.txt and feed it
-# output of the sort/uniq command?
+# to a text file. First version, with set version; second version with a
+# variable.
 
-sed -n -e '/^200610/p' sorted-merged.txt > 200610.txt
+sed -n -e '/^200610/p' output.txt > 200610.txt
+sed -n -e '/^'$d'/p' output.txt > $d.txt
 
 # putting together:
 
