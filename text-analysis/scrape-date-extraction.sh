@@ -17,3 +17,10 @@ sort -n merged.txt > sorted-merged.txt
 # necessary.
 
 awk '{print $1}' sorted-merged.txt
+
+# this command extracts all crawls of a certain date and puts them out
+# to a text file. 
+# Presumable, could just take the original output.txt and feed it
+# output of the sort/uniq command?
+
+sed -n -e '/^200610/p' sorted-merged.txt > 200610.txt
