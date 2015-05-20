@@ -2,7 +2,8 @@
 # ner-on-extract.sh
 # run in directory w/ date-scrape text
 # to do: remove intermediate files or pipeline?
-# adapted from
+# adapted from http://williamjturkel.net/2013/06/30/named-entity-recognition-with-command-line-tools-in-linux/
+# NOTE: requires locpattr, orgpattr, personpattr in same directory	
 
 for f in *.txt 
 do
