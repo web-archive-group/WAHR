@@ -1,8 +1,8 @@
 # Walkthroughs
 
-## Shine-Walkthrough.md
+## WebArchive-Discovery-and-Shine-Doc.md
 
-In preparation, aiming to deploy by 25 May 2015. Walking users through how to get a local version of the UK Web Archive's Shine browser working on a collection of WARCs.
+Walking users through how to get a local version of the UK Web Archive's Shine browser working on a collection of WARCs.
 
 ## Warcbase-on-OSX.md
 
