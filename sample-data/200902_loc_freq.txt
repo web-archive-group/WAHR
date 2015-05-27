@@ -1,0 +1,2957 @@
+  67107 Canada
+   4897 Ottawa
+   4031 Edmonton
+   3794 Calgary
+   3602 Missinippi
+   3590 Churchill River
+   3112 Toronto
+   2790 California
+   2587 Quebec
+   2572 Guelph
+   2242 Winnipeg
+   2198 Victoria
+   2170 Laval
+   2108 Alberta British Columbia Manitoba New Brunswick Newfoundland
+   2069 Ontario
+   2055 Okanagan
+   1991 Halifax
+   1923 Kingston
+   1914 Montcalm
+   1894 Labrador
+   1893 Wellington-Halton Hills
+   1885 Kelowna
+   1883 London North Centre
+   1881 Oakville
+   1877 Winnipeg South Centre
+   1864 Sudbury
+   1862 Willowdale
+   1857 Peterborough
+   1856 Oshawa
+   1847 Burlington
+   1843 Calgary East
+   1842 Edmonton East
+   1835 Athabasca
+   1834 Nunavut
+   1834 Charlottetown
+   1833 Fredericton
+   1833 Don Valley West
+   1829 West Vancouver
+   1826 South
+   1825 Lethbridge
+   1824 Sherbrooke
+   1823 Ottawa South
+   1818 Sault
+   1815 Longueuil
+   1814 Richmond
+   1814 Kamloops
+   1814 Grey
+   1809 Joliette
+   1809 Fort McMurray
+   1808 Simcoe North
+   1808 Leeds-Grenville
+   1807 Sunshine Coast
+   1807 Richmond Hill
+   1806 Beaches-East York
+   1805 Saanich-Gulf Islands
+   1805 Gatineau
+   1804 Kenora
+   1804 Charlevoix
+   1803 Peace River
+   1803 Cambridge
+   1803 Bonavista
+   1803 Abbotsford
+   1802 Swan River
+   1802 Pontiac
+   1802 Nunavik
+   1802 Durham
+   1802 Beauport
+   1801 North Vancouver
+   1801 Maple Ridge
+   1801 Don Valley East
+   1800 Hamilton Centre
+   1800 Carleton
+   1799 Welland
+   1799 Musquodoboit Valley
+   1799 Cape Breton-Canso
+   1798 St. Catharines
+   1798 Niagara Falls
+   1798 Labrador Northwest Territories Nova Scotia
+   1797 St. James
+   1797 Mount Pearl
+   1797 Mississauga South
+   1797 Hamilton Mountain
+   1797 Cumberland
+   1797 Colchester
+   1796 Oxford
+   1795 Etobicoke
+   1795 Beaumont
+   1794 Vancouver Island North
+   1794 Témiscouata
+   1794 Manicouagan
+   1794 London West
+   1794 Grand Falls
+   1794 Assiniboia
+   1794 Argenteuil
+   1793 Pitt Meadows
+   1793 Nepean-Carleton
+   1793 Dauphin
+   1792 Parry Sound-Muskoka
+   1792 Halifax West
+   1791 Western Arctic
+   1791 Skeena-Bulkley Valley
+   1791 Mississippi Mills
+   1791 Langley
+   1790 York South-Weston
+   1790 Winnipeg South
+   1790 Vancouver East
+   1790 Scarborough Southwest
+   1790 Niagara West-Glanbrook
+   1790 New Westminster-Coquitlam
+   1790 Mississauga-Brampton South
+   1790 Lambton
+   1790 Hamilton East-Stoney Creek
+   1790 Essex
+   1790 Calgary West
+   1790 Brampton West
+   1789 Trois-Rivieres
+   1789 Scarborough-Rouge River
+   1789 Kent
+   1789 Bay-Rainy River
+   1788 Winnipeg North
+   1788 Windsor West
+   1788 Vancouver South
+   1788 St. Paul
+   1788 Richmond-Arthabaska
+   1788 Port Moody-Westwood-Port Coquitlam
+   1788 New Brunswick Southwest
+   1788 Mount Royal
+   1788 Mississauga East-Cooksville
+   1788 London-Fanshawe
+   1788 La Mitis
+   1788 Kootenay-Columbia
+   1788 Etobicoke North
+   1788 Desnethe
+   1788 Bramalea-Gore-Malton
+   1788 Beauce
+   1788 Bas-Richelieu
+   1788 Baie-James
+   1480 West Nova
+   1378 US
+   1211 Afghanistan
+   1116 Alberta
+    893 OTTAWA
+    758 Nova Scotia
+    706 U.S.
+    656 Pictou
+    638 Saskatchewan
+    520 Israel
+    499 United States
+    455 China
+    442 Iraq
+    419 North America
+    389 USA
+    387 Montreal
+    379 Moncton
+    364 Kyoto
+    359 Europe
+    353 London
+    351 Vancouver
+    310 Labrador Northwest Territories Nova Scotia Nunavut Ontario
+    283 Bali
+    265 Germany
+    247 India
+    236 Nanaimo
+    234 Newfoundland
+    219 Russia
+    216 British Columbia
+    198 Manitoba
+    197 Australia
+    196 Iran
+    183 Truro
+    183 Pakistan
+    181 New Glasgow
+    175 St. Louis
+    174 Parksville
+    167 America
+    165 Wellington
+    162 France
+    145 NEW GLASGOW
+    141 Poznan
+    135 Mexico
+    133 Westmount
+    130 Truro-Bible Hill
+    130 Gaza
+    130 Earth
+    128 Japan
+    120 New Brunswick
+    119 Chrystal Ocean
+    118 Santa
+    118 GATINEAU
+    118 Atlantic
+    116 UK
+    116 Poland
+    110 TORONTO
+    108 Africa
+    104 Saskatoon
+    104 Darfur
+    101 Sweden
+    100 Britain
+    100 Atlantic Canada
+     99 Nelson
+     98 Bedford
+     94 Trenton Park Pictou
+     94 Park Falls Pictou
+     94 Mississauga
+     94 Haiti
+     92 Bedford-Birch Cove
+     89 Georgia
+     89 Craighurst
+     88 Middle East
+     83 Washington
+     81 Wellington-Halton Hills EDA Login
+     81 Sackville-Cobequid
+     81 New York
+     80 Sunda
+     79 Osborne St. S Winnipeg
+     79 England
+     78 Pictou County
+     77 Bragg Creek
+     74 Sydney
+     70 Denmark
+     69 Streetsville Library
+     66 Simcoe County
+     64 Norway
+     64 Asia
+     63 Brazil
+     62 Walnut St. City
+     62 Uxbridge
+     61 Nagua
+     60 New Zealand
+     60 Ireland
+     58 EU
+     56 Kandahar
+     54 Georgina Island
+     54 Dorval Crossing East
+     53 Israeli
+     52 Chalk River
+     51 Seattle
+     50 Greenland
+     50 Copenhagen
+     49 Los Angeles
+     49 CANADA
+     48 Zimbabwe
+     47 Guantanamo
+     47 Geneva
+     46 Kabul
+     45 Sarnia
+     45 Québec
+     44 Tibet
+     44 Thailand
+     44 Rwanda
+     43 Sudan
+     43 Saudi Arabia
+     43 HALIFAX
+     42 Guantanamo Bay
+     41 South Africa
+     41 San Francisco
+     40 Egypt
+     40 Dorval
+     39 Berlin
+     38 North American
+     37 VANCOUVER
+     37 Cape Breton
+     37 Canada OTTAWA
+     36 Vietnam
+     36 Trenton
+     36 Rotterdam
+     36 Italy
+     35 Netherlands
+     35 Florida
+     35 Finland
+     35 Afganistan
+     34 Rome
+     34 Paris
+     33 canada
+     33 Brampton
+     32 Riverview
+     32 Quebec City
+     32 Estonia
+     32 Cuba
+     32 Colombia
+     31 Suburbia
+     31 Chicago
+     31 Beaches East York
+     30 South America
+     30 Nova Scotia Login
+     30 Indonesia
+     30 Georgienne
+     29 Toronto Centre
+     29 Hamilton
+     29 Americas
+     28 Walkswithcoffee Login
+     28 River Park
+     28 North
+     28 Jerusalem
+     28 BQ
+     28 Bonn
+     28 Antarctica
+     27 Saanich
+     27 Northumberland
+     27 Korea
+     27 Hiroshima
+     27 Congo
+     26 Guatemala
+     26 Columbia
+     26 Central Nova
+     25 Waterloo
+     25 Ukraine
+     25 Soviet Union
+     25 Southern Afghanistan
+     25 MONTREAL
+     25 Burnaby
+     25 Ancaster
+     24 Windsor
+     24 Venezuela
+     24 Vancouver Island
+     24 Switzerland
+     24 Saanich Gulf Islands
+     24 Muskoka
+     24 Kitchener
+     24 CALGARY
+     24 Beijing
+     23 New York City
+     23 Detroit
+     23 Costa Rica
+     23 Aurora
+     22 U.S
+     22 Sri Lanka
+     22 São Paulo
+     22 Orillia
+     22 Moscow
+     22 GUELPH
+     22 Ecuador
+     21 Sao Paulo
+     21 Queen St. S.
+     21 Owen Sound
+     21 Nagasaki
+     21 Lebanon
+     21 Barriere Lake
+     20 Southern Ontario
+     20 São Paolo
+     20 Ohio
+     20 Nepean
+     20 Montpellier
+     20 Midland
+     20 Keswick
+     20 Baghdad
+     19 Walkswithcoffee
+     19 Syria
+     19 Stellarton
+     19 South Korea
+     19 Royal City
+     19 Nicaragua
+     19 European
+     19 Ethiopia
+     19 Eastern Ontario
+     19 Dalhousie
+     19 Chad
+     18 Spain
+     18 Parliament Hill
+     18 Orangeville
+     18 Mitchikanibikok Inik
+     18 Mississauga Brampton
+     18 Dieppe
+     18 Burma
+     18 Alaska
+     17 Yamaska
+     17 Vancouver-Quadra
+     17 Stratford
+     17 Saint-Lambert
+     17 Latin America
+     17 European Union
+     17 Dartmouth Cole Harbour
+     17 Bangladesh
+     16 Woodstock
+     16 Walkerton
+     16 Uganda
+     16 Tennessee
+     16 Philippines
+     16 Nairobi
+     16 Malaysia
+     16 Linspire
+     16 Jamaica
+     16 Antarctic
+     15 Vienna
+     15 Souris
+     15 Singapore
+     15 Serbia
+     15 SBSTA
+     15 Sandy Cove
+     15 Norfolk
+     15 Manipur
+     15 Jordan
+     15 Iceland
+     15 Hungary
+     15 Hong Kong
+     15 Guelph Ontario
+     15 Fort Chipewyan
+     15 Eastern Europe
+     15 Colorado
+     15 Canberra
+     15 Belgium
+     15 Athabasca Tar Sands
+     15 Alberta Greens
+     14 Turkey
+     14 Texas
+     14 Taiwan
+     14 St. Thomas
+     14 Scotland
+     14 Richmond Street
+     14 Northwest Territories
+     14 North Island
+     14 Mother Earth
+     14 Kamouraska
+     14 Great Lakes
+     14 Caribbean
+     14 Asian
+     13 St. Lawrence River
+     13 Picton
+     13 Ottawa West Nepean
+     13 New Orleans
+     13 Mumbai
+     13 Lake Simcoe
+     13 Chapman Creek
+     13 Cape Breton Island
+     13 Ben West View
+     13 Belleville
+     13 Aden
+     12 Yugoslavia
+     12 West Bank
+     12 United Kingdom
+     12 South Ossetia
+     12 POZNAN
+     12 Peru
+     12 Persian Gulf
+     12 Pennsylvania
+     12 Parry Sound
+     12 Orleans
+     12 Nanticoke
+     12 Nanoose Bay
+     12 Lake Ontario
+     12 James-Assiniboia Login
+     12 Heiligendamm
+     12 Hampton
+     12 Gulf Islands
+     12 Glasgow Square
+     12 Chatham
+     12 Austria
+     11 Yellowknife
+     11 Thunder Bay
+     11 Spadina
+     11 Ottawa Centre
+     11 North Korea
+     11 Montebello
+     11 Mississippi
+     11 London Fanshawe
+     11 Kenya
+     11 FREDERICTON
+     11 Egoyan
+     11 Central America
+     11 Bruce Grey Owen Sound
+     11 Boulder
+     11 Banff
+     11 Amazon
+     10 Whitby
+     10 Western Canada
+     10 Wales
+     10 Téléfilm Canada
+     10 Skeena
+     10 Saltspring Island
+     10 Reddit
+     10 Prairies
+     10 Portugal
+     10 Portage
+     10 Palestine
+     10 Niagara
+     10 Moose River
+     10 Lesotho
+     10 Lac St Louis
+     10 Iqaluit
+     10 Ipperwash
+     10 Guelph Mercury
+     10 Greece
+     10 Gaza Strip
+     10 Fraser Valley
+     10 Etobicoke Lakeshore
+     10 El Salvador
+     10 EDMONTON
+     10 Chile
+     10 Chicoutimi
+     10 Cartagena
+     10 Cambodia
+     10 Brussels
+     10 Bosnia
+     10 Arctic Ocean
+      9 West
+      9 U.K.
+      9 Streetsville Cenotaph
+      9 Stockholm
+      9 Stirling
+      9 Siberia
+      9 Scandinavia
+      9 Port Alberni
+      9 Penticton
+      9 Pacific
+      9 N.S.
+      9 North Island Philip Stone
+      9 Nfld
+      9 Newton
+      9 Montréal
+      9 Massachusetts
+      9 Manhattan
+      9 Magnolia Ave. Wellington-Halton Hills
+      9 Lac-Saint-Louis
+      9 Kosovo
+      9 Kootenay
+      9 Kitchener Centre Login
+      9 Gustafson Lake
+      9 Guelph Green
+      9 East Timor
+      9 Drummondville
+      9 Cumberland-Colchester-Musquodoboit Valley
+      9 Cronenburg
+      9 Chernobyl
+      9 Canada Login
+      9 Caledonia
+      9 Atlanta
+      9 Argentina
+      9 american
+      9 Abkhazia
+      8 Winnipeg Centre
+      8 West River Road Pictou
+      8 Western Europe
+      8 Western Antarctic
+      8 United Way
+      8 St Louis
+      8 St. Lawrence
+      8 St. George Blvd.
+      8 South Moresby
+      8 Somalia
+      8 Scotia Login
+      8 Saint-Maurice
+      8 Rio Earth Summit
+      8 Rhodesia
+      8 Quadra Island
+      8 Prentice
+      8 Poznan Poland
+      8 Perth
+      8 Ottawa Valley
+      8 Northwest Passage
+      8 Northern Ireland
+      8 New Glasgow Elizabeth
+      8 Montana
+      8 MONCTON
+      8 Manitoulin
+      8 Maldives
+      8 Madawaska
+      8 Lac St. Louis
+      8 Kirkland
+      8 Kingston Peninsula
+      8 KINGSTON
+      8 Kensington Market
+      8 Kawartha Lakes
+      8 Kapuskasing
+      8 Halton
+      8 Granby
+      8 GLASGOW
+      8 Fairview Street
+      8 East York
+      8 Drina
+      8 Dartmouth
+      8 Cloverdale
+      8 Canada Westmount
+      8 Burlington Greens
+      8 Brockville
+      8 Boston
+      8 Beaufort Sea
+      8 Athabasca River
+      8 Arctic
+      8 alberta
+      7 York
+      7 Wolfville
+      7 Westmount-Ville
+      7 U.S.A.
+      7 Tsawwassen
+      7 Tokyo
+      7 Tanzania
+      7 Surrey
+      7 Springhill
+      7 SK
+      7 Silicon Valley
+      7 Russian
+      7 Rocky Mountains
+      7 Richmond East
+      7 North Vancouver Island
+      7 Northern Ontario
+      7 Niagara Region
+      7 New Delhi
+      7 Nanaimo-Alberni
+      7 Mount Fitzwilliam
+      7 Middlesex
+      7 Miami
+      7 Malawi
+      7 Mackenzie Valley
+      7 Lumby
+      7 Libya
+      7 Kitsilano
+      7 Isreal
+      7 Holland
+      7 Health Canada
+      7 Hawaii
+      7 Great Britain
+      7 Fraser River
+      7 Farsi
+      7 Dublin
+      7 Democratic Republic of Congo
+      7 Czech Republic
+      7 Central African Republic
+      7 Best New Blog
+      7 Benin
+      7 BC
+      7 Balkans
+      7 Amsterdam
+      7 Alberta Green
+      7 African Union
+      7 afghanistan
+      6 Yarmouth
+      6 Whistler
+      6 Westwood
+      6 Weston Road
+      6 Western
+      6 West Coast
+      6 Waterloo Ontario
+      6 Vancouver Island North northislandgreens.ca Login
+      6 Vancouver Centre
+      6 Trinity-Spadina
+      6 Terrebonne
+      6 Telefilm Canada
+      6 Sussex
+      6 Stoney Creek
+      6 Stirling ON
+      6 Springdale
+      6 Scarborough
+      6 Sarnia-Lambton
+      6 Saanich-Gulf Islands EDA Login
+      6 Rio de Janeiro
+      6 Rio
+      6 Regina
+      6 Queens
+      6 quebec
+      6 Port Elgin
+      6 Panama Canal
+      6 Oslo
+      6 Okanagan-Shuswap
+      6 Northern Saskatchewan
+      6 Northern Alberta
+      6 North Dakota
+      6 Nigeria
+      6 New Westminster
+      6 New Jersey
+      6 New England
+      6 Nepal
+      6 Nashville
+      6 Myanmar
+      6 Montreal Gazette
+      6 middle east
+      6 Michigan
+      6 Mexican
+      6 Matane
+      6 Manotick
+      6 Laird Drive
+      6 Lacombe-Ponoka
+      6 Kelly Lake
+      6 Katrina
+      6 Inuvik
+      6 Hudson
+      6 Houston
+      6 Honduras
+      6 Highgate
+      6 Harvester Road
+      6 Hamilton East
+      6 Halton Hills
+      6 Halifax Fairview
+      6 Haldimand-Norfolk
+      6 Guelph Eramosa Township
+      6 Greens HALIFAX
+      6 Grand River
+      6 Golan Heights
+      6 Fort Senneville
+      6 Esquimalt
+      6 Desnethé
+      6 Cornwall
+      6 Compton-Stanstead
+      6 CODCO
+      6 Churchill
+      6 Centralia
+      6 C.C.
+      6 Burin
+      6 Bulkley Valley
+      6 British
+      6 Brantford
+      6 Bloc Quebecois
+      6 Bloc
+      6 B.C.
+      6 Barrie
+      6 Banks Island
+      6 Atlantic Ocean
+      6 Asia-Pacific Partnership
+      6 Asian Garden
+      6 Arctic sea
+      6 Annapolis Valley
+      6 Amherst
+      5 York West
+      5 York Centre
+      5 Whitehorse
+      5 Weyburn
+      5 Westlock
+      5 Wellesley
+      5 Washago
+      5 Vimy Ridge
+      5 Van East
+      5 Va.
+      5 US Iraq
+      5 U.S. Iraq
+      5 Unionville
+      5 Trowell Ave. York
+      5 Tel Aviv
+      5 SUDBURY
+      5 Stanstead
+      5 Stanley Park
+      5 South Surrey White Rock Cloverdale
+      5 Sharbot Lake
+      5 Scarborough Rouge River
+      5 San Diego
+      5 Russow
+      5 Rowland Road
+      5 Romania
+      5 Riverton Avenue
+      5 Quebec MONTREAL
+      5 Pinewood
+      5 Pigeon Lake
+      5 Papua New Guinea
+      5 Pacific Ocean
+      5 Outaouais
+      5 Ottawa Centre Submitted
+      5 Oka
+      5 North Western Pakistan
+      5 North Frontenac
+      5 Northern Europe
+      5 New Hampshire
+      5 Mount Allison
+      5 Monfort
+      5 Mississauga East
+      5 Miramichi
+      5 Métis
+      5 Melbourne
+      5 Mediterranean
+      5 Markham
+      5 Manley
+      5 Maine
+      5 Lincolnville
+      5 Le Parti Vert du Canada
+      5 Lake Huron
+      5 Lake Country
+      5 Kiribati
+      5 Kentucky
+      5 Kansas
+      5 india
+      5 Huron
+      5 Hidden Valley
+      5 Hemmingford
+      5 Heinberg
+      5 Harper-Ignatieff
+      5 Harare
+      5 Haliburton
+      5 Haida
+      5 Greater Sudbury
+      5 Goose Bay
+      5 GMOs
+      5 French
+      5 Flanders
+      5 Edinburgh
+      5 East Jerusalem
+      5 Earth Hour
+      5 Earth Canada
+      5 DIAND
+      5 D.C.
+      5 Danes
+      5 Damascus
+      5 Cyprus
+      5 Compton Stanstead
+      5 Colombian
+      5 Cold Lake
+      5 Chechnya
+      5 Chambly
+      5 Carlsbad Springs
+      5 Canmore
+      5 Canada Canada
+      5 Burrard Bridge
+      5 Burmese
+      5 Brundtland
+      5 Bruce Grey Owen
+      5 Belize
+      5 Baltic Sea
+      5 Atlantic Salmon
+      5 Atlantic Accord
+      5 Asia-Pacific
+      5 Arizona
+      5 Antigonish
+      5 Americans
+      5 American
+      5 Alps
+      5 Alberta Login
+      5 Afghanistan Canada
+      4 Zambia
+      4 Win First Seat
+      4 White Rock
+      4 Westville
+      4 West Vancouver-Sunshine Coast-Sea
+      4 Weston
+      4 Westdale
+      4 Wellington County
+      4 Washington DC
+      4 WASHINGTON
+      4 Warsaw
+      4 Vermont
+      4 Vaughan-King-Aurora
+      4 Uzbekistan
+      4 Urdu
+      4 United States of America
+      4 UK Green
+      4 Turkmenistan
+      4 Thompson
+      4 Tehran
+      4 Summerside
+      4 St. Vancouver
+      4 Strathroy
+      4 St. George Street
+      4 Statistiques Canada
+      4 South Surrey
+      4 Southeast Asia
+      4 South Carolina
+      4 Smithers
+      4 Sherwood Park
+      4 Sherbrooke Ouest Montreal
+      4 Seoul
+      4 SAN DIEGO
+      4 Sachs Harbour
+      4 Rwandan
+      4 Russian Federation
+      4 Russia-Israel
+      4 Rotherham
+      4 Rosetown
+      4 Rosedale
+      4 Rockcliffe Park Village
+      4 Rio Declaration
+      4 Richmond BC Saanich-Gulf Islands BC Skeena-Bulkley Valley
+      4 Rexdale
+      4 Red Deer
+      4 Rabaska
+      4 Qatar
+      4 Port Hope
+      4 Port Dover
+      4 Pictou Nova Scotia
+      4 Philadelphia
+      4 Penn
+      4 Pembroke
+      4 Palestinian Authority
+      4 Oxford County
+      4 Outremont
+      4 Ottawa West
+      4 Ontario Login
+      4 ontario
+      4 Ont.
+      4 OHIO
+      4 Nova Scotian
+      4 North Pole
+      4 North Island Philip Stone 16
+      4 north america
+      4 Niger
+      4 Nicolet
+      4 Newmarket-Aurora
+      4 Napanee
+      4 Mozambique
+      4 Moosonee
+      4 Modbury
+      4 Missouri River
+      4 Minnesota
+      4 Meriter Hospital
+      4 Meadowbrook
+      4 Malton
+      4 Mali
+      4 London North Centre ON London West ON Markham-Unionville ON Lambton
+      4 LONDON
+      4 Layton
+      4 Lanark
+      4 Lake Erie
+      4 Ladakh
+      4 Lacombe
+      4 Lachine
+      4 Khandahar
+      4 Kelly Lake Cree
+      4 Kashechewan
+      4 Karachi
+      4 Kahnawake
+      4 Jonquiere
+      4 Indonesian
+      4 Herzegovina
+      4 Hants
+      4 Haldimand
+      4 Gulf of St. Lawrence
+      4 Guatemala City
+      4 GREEN Gables
+      4 Green
+      4 Grandview
+      4 Grande Prairie
+      4 Ghana
+      4 Georgienne TORONTO
+      4 Georgian
+      4 Fort Erie
+      4 Flamborough
+      4 Fanshawe
+      4 Elmwood-Transcona
+      4 Elliot Lake
+      4 Eglinton West
+      4 Eastern Shore
+      4 Eastern Canada
+      4 East Coast
+      4 Dusseldorf
+      4 Dorchester
+      4 Delta-Richmond East
+      4 Delaware
+      4 Dawson Creek
+      4 Darlington
+      4 Craik
+      4 Connecticut
+      4 congo
+      4 Cochrane
+      4 Cobourg
+      4 Clarington
+      4 Churchill River SK Cypress Hills-Grasslands SK Palliser SK
+      4 Chinese
+      4 Carribbean
+      4 Campbell River
+      4 california
+      4 Cairo
+      4 CA
+      4 Bruce-Grey-Owen Sound
+      4 Botswana
+      4 Bolivia
+      4 Balkan
+      4 Assiniboia MB Churchill MB Dauphin
+      4 Asia Pacific
+      4 Alta
+      4 Alberta Alliance
+      4 Alberni
+      4 Afghanstan
+      4 Afgan
+      3 Yemen
+      3 Wolfe Island
+      3 Wisconsin
+      3 Winnipeg Manitoba
+      3 Winnipeg Center
+      3 Whitchurch
+      3 Westmount-Saint-Louis
+      3 West Highland
+      3 Washington D.C.
+      3 Virginia
+      3 Victoria BC
+      3 Venezuala
+      3 Vancouver-Quadra Drina
+      3 Valencia
+      3 united states
+      3 United Arab Emirates
+      3 UAE
+      3 Turtle Island
+      3 turkey
+      3 Timmins-James Bay
+      3 Tesla
+      3 Tasmania
+      3 Tajikistan
+      3 Surrey North
+      3 Sunbury
+      3 suburbia
+      3 Strasbourg
+      3 St. John 's
+      3 Springfield
+      3 South Vancouver
+      3 Southern Ocean
+      3 south africa
+      3 Souris River
+      3 Smiths Falls
+      3 Slovenia
+      3 Slocan Valley
+      3 Shelburne
+      3 Sheffield
+      3 Sharon Labchuk
+      3 Senneville Rd.
+      3 Scotia Bank Place
+      3 Santa Claus
+      3 Sahara
+      3 Sacramento
+      3 Sackville
+      3 Rosemont
+      3 Romanow
+      3 Riverton
+      3 Queens Park Toronto
+      3 QUEBEC
+      3 Prince Edward Island
+      3 P.R.
+      3 Poznan OTTAWA
+      3 Port Mann Bridge
+      3 Portland
+      3 Port Coquitlam
+      3 Portage Avenue
+      3 Petawawa
+      3 Persia
+      3 Pender Island
+      3 PE
+      3 P.C.
+      3 Parti Quebecois
+      3 Parks Canada
+      3 PARIS
+      3 Paraguay
+      3 Panama
+      3 Ottawa West-Nepean
+      3 Ottawa Vanier
+      3 Ottawa River
+      3 Ottawa Centre Peter Timusk
+      3 Osprey
+      3 Oregon
+      3 Okanagan Shuswap
+      3 NS
+      3 North York
+      3 North Sea
+      3 NFLD
+      3 NEW YORK CITY
+      3 Newfoundland Green
+      3 New Deal
+      3 Nathan Phillips Square
+      3 Nanaimo-Cowachan
+      3 NANAIMO
+      3 Monkland Boulevard
+      3 Mississipi
+      3 Mississauga-Streetsville
+      3 Missisquoi
+      3 Mexico City
+      3 Mauna Kea
+      3 Margaree
+      3 Manitoba Login
+      3 Mackenzie Basin
+      3 Lunenburg Bay
+      3 London North Centre Login
+      3 London England
+      3 London Centre North
+      3 Le Canada
+      3 Lebanese
+      3 Lawson Avenue
+      3 Las Vegas
+      3 Lake Winnipeg
+      3 Lahemaa National Park
+      3 Kuwait
+      3 Kitchener-Waterloo
+      3 Kildonan
+      3 Kashmir
+      3 Kandahar Province
+      3 Kamloops Thompson Cariboo
+      3 James Falcon Province
+      3 Israeli-Lebanon
+      3 Islamic Republic
+      3 Irish Republic
+      3 Iraq NANAIMO
+      3 Iraqi
+      3 IRAQ
+      3 Iowa
+      3 Indiana
+      3 Henderson Hwy
+      3 Helsinki
+      3 Hells Angeles
+      3 Hecate Strait
+      3 Hamilton Login
+      3 Guyana
+      3 Guinea-Bissau
+      3 Guelph Login
+      3 Greens NEW GLASGOW
+      3 Greens BELLEVILLE
+      3 Green Canada
+      3 Greater Victoria
+      3 Glengarry-Prescott-Russell
+      3 Gleneagles
+      3 German
+      3 Gatineau Park
+      3 Fredericton Green
+      3 Fort McKay
+      3 Fiji
+      3 Falun Gong
+      3 Faizabad
+      3 Eglinton
+      3 Edmundston
+      3 Edmonton-Strathcona
+      3 East Montreal Island
+      3 Duncan
+      3 Duluth
+      3 Dufferin Caledon
+      3 DU
+      3 Drina Read
+      3 Downsview
+      3 Don Valley
+      3 Desnethé-Missinippi-Churchill River
+      3 Dartmouth-Cole Harbour
+      3 Daphnia
+      3 Corona
+      3 Chester
+      3 Charlotte
+      3 Central Canada
+      3 Central Asia
+      3 Caucasus Points
+      3 Caucasus
+      3 Carleton-Mississippi Mills
+      3 Cardiff
+      3 Capitol Hill
+      3 Canada MONTRÉAL
+      3 Canada Georgina
+      3 Campbellford
+      3 Calgary Stampede CALGARY
+      3 Calgary Northeast
+      3 Calgary-Edmonton
+      3 Cadman
+      3 Bute Inlet
+      3 Burundi
+      3 Bureau de New Glasgow
+      3 Buffalo
+      3 Brooklyn
+      3 Brooklin
+      3 Brome
+      3 Brésil HALIFAX
+      3 Brandon
+      3 Bradford
+      3 Bombay
+      3 Bloor Street West Toronto
+      3 Bilcon
+      3 BELLEVILLE
+      3 Belarus
+      3 Bear Island
+      3 Bay Street
+      3 Basel
+      3 Barrington Passage
+      3 Bangkok
+      3 Badakhshan
+      3 Aruba
+      3 Arthabaska
+      3 Arteast
+      3 Arkansas
+      3 Arab-Israeli
+      3 Appalachia
+      3 Antigonish County
+      3 Annapolis Royal
+      3 amazon
+      3 Afghani
+      2 Yukon
+      2 Yorkton
+      2 York Simcoe
+      2 Wolseley
+      2 Wokkpash
+      2 Winnipeg WINNIPEG
+      2 WINDSOR
+      2 Willow St. Pictou
+      2 Williams Lake
+      2 Whistler Village
+      2 West Wing
+      2 Westville Canada
+      2 West River Road C.P.
+      2 West River Road
+      2 Westray
+      2 West Quebec
+      2 Weston-Mount Dennis
+      2 Westminster
+      2 West Lincoln
+      2 Westlake
+      2 West Indies
+      2 West Hastings St Vancouver
+      2 Western Quebec
+      2 West End
+      2 West-Central Saskatchewan
+      2 West Broadway
+      2 West Africa
+      2 Waverley
+      2 Waterloo Region
+      2 Waterloo County
+      2 Waterford
+      2 Walnut Grove
+      2 Wakerton
+      2 Vista
+      2 Victoriaville
+      2 Vernon Toronto
+      2 Vaughan Ontario
+      2 Vancouver VANCOUVER
+      2 Vancouver Quadra
+      2 Vancouver Login
+      2 Vancouver City Hall
+      2 Valleyfield
+      2 Valhalla
+      2 Valemount
+      2 Utah
+      2 US Pacific Northwest
+      2 U.S. Gulf
+      2 Upper Canada
+      2 Upgrader Alley
+      2 Umbanda
+      2 Twillingate
+      2 Tunisia
+      2 Trench Town Jamaica
+      2 Tree North Bay
+      2 Trafalgar Square
+      2 Tracadie
+      2 Toronto NEW GLASGOW
+      2 Toronto Cuba
+      2 Toronto-Centre
+      2 Tonga
+      2 Togo
+      2 Toba
+      2 Tillsonburg
+      2 Thunder Bay Superior North
+      2 The Netherlands
+      2 The Earth Charter
+      2 Thames River
+      2 Thames
+      2 Texada Island
+      2 Terre-Neuve-et-Labrador Sharon Labchuk
+      2 Terra Nova Greens
+      2 Technoparc
+      2 Tar Sands
+      2 Taqiyya
+      2 Taoism
+      2 Taliesin
+      2 Taiga Plains
+      2 Sunshine Valley
+      2 Summit Lake
+      2 Summerberry
+      2 St. West Cobourg
+      2 Strawbale
+      2 Strathcona Park
+      2 Strathcona Ave.
+      2 Stornoway
+      2 St. Niagara Falls
+      2 St-Joseph
+      2 St. John 's East
+      2 St. Henri
+      2 St. Gregory
+      2 St. F. X.
+      2 St. Fort Erie
+      2 St. Felix Centre
+      2 Stewardship Oxford
+      2 Stern
+      2 Steeltown
+      2 St. Bartholomew
+      2 Stanley St. London
+      2 St. Albert
+      2 Squamish
+      2 Spring Garden Road Halifax
+      2 Spanish
+      2 Spadina Ave.
+      2 Southwood
+      2 Southwest Ontario
+      2 Southwestern Ontario
+      2 South West Asia
+      2 South Surrey White Rock Coverdale
+      2 South Shore
+      2 South River Partners
+      2 South Park
+      2 South Okanagan
+      2 South-Mount Pearl
+      2 South Granville
+      2 South Frontenac
+      2 South Fraser Perimeter Road
+      2 Southern Shore
+      2 Southern China
+      2 Southeast Michigan
+      2 Southeast Alberta
+      2 South Drive Winnipeg
+      2 Souris Moose Mountain
+      2 Somerset St. East
+      2 Sololá
+      2 Smithville
+      2 SK Login
+      2 Ski Ontario
+      2 Silvercreek Parkway
+      2 SIAST Woodland Campus
+      2 Ship Harbour Long Lake
+      2 Sherburn Street Winnipeg
+      2 Sherbrooke Ouest
+      2 Shediac
+      2 Shawville
+      2 Shanghai
+      2 Seychelles
+      2 Sevilla
+      2 Senneville
+      2 Seatle
+      2 Sea Shepherd
+      2 Scotia
+      2 Scarborough Hospital
+      2 Saudis
+      2 Saskatchewan Parks
+      2 Saskatchewan LA RONGE
+      2 Sarasota
+      2 Salzburg
+      2 Salvador
+      2 Salt Spring Island
+      2 Salmon Arm
+      2 Salaberry
+      2 Saint-Hyacinthe-Bagot
+      2 Sainte-Anne-des-Monts
+      2 Saguenay
+      2 Saara
+      2 Russell Street
+      2 RRSPs
+      2 RR
+      2 Royal York
+      2 Rossland
+      2 Rockeys
+      2 Rocanville
+      2 Rizhao
+      2 River Run Centre
+      2 River Pierre Cloutier De Repentigny Latest
+      2 Riverdale
+      2 Rio Conference
+      2 Rimouski
+      2 Riel
+      2 Ridings West Vancouver
+      2 Ridings Port Moody-Westwood-Port
+      2 Ridings Kitchener
+      2 Ridings Dauphin
+      2 Rideau River
+      2 Richmond Rd.
+      2 Richmond BC Michael Wolfe Saanich
+      2 Richard Florida
+      2 Renfrew
+      2 Quetta
+      2 Queen Street
+      2 Quebec New Brunswick
+      2 Quebec Betty Lizotte Latest
+      2 Que.
+      2 Qana
+      2 Puttalam
+      2 Public Health
+      2 Powell River
+      2 Port Moody
+      2 Port
+      2 Ponoka
+      2 Polynesian Pacific
+      2 Poland Paris
+      2 Planet Earth
+      2 Pittsburgh
+      2 Pitt River
+      2 Pikangikum
+      2 Pierrefonds-Dollard
+      2 Pictou NS Canada
+      2 Pictou County HALIFAX
+      2 Pictou Country
+      2 Piazza Montecitorio
+      2 Phoenix
+      2 Perth County Greenworks
+      2 PEI
+      2 Pearson International Airport
+      2 Peace River Justice Critic
+      2 Pashto
+      2 Parti Vert du Canada Westmount
+      2 Partido Ecologista de Mexico
+      2 PARLIAMENT
+      2 Parkdale-High Park
+      2 Papineauville
+      2 Papineau Street
+      2 Palestiniennes
+      2 Palestine/Israeli
+      2 Pacific Rim
+      2 Pacifica
+      2 Ottawa Hospital
+      2 Ottawa Citizen
+      2 Ottawa Centre Philip Stone Latest
+      2 Osgoode
+      2 Osaka
+      2 Organgeville
+      2 Orange HALIFAX
+      2 Ontario Street
+      2 Ontario Manitoba
+      2 ONTARIO
+      2 Oliver Square
+      2 Okotoks
+      2 Okanagon Valley
+      2 Okanagan Coquihalla
+      2 Ojibwa-French
+      2 Oilistan
+      2 Oilberta
+      2 Oaxaca
+      2 OAKVILLE
+      2 NZ
+      2 Nunatsiaq
+      2 Nova Scotia OTTAWA
+      2 Nova Scotia Highway
+      2 Nova Scotia Greens
+      2 Nova Scotia Green Party
+      2 Notre-Dame-de-Grâce
+      2 North West Region
+      2 North Waziristan
+      2 Northumberland/Quinte West
+      2 Northumberland-Quinte West
+      2 Northumberland Hills
+      2 Northumberland County
+      2 North Shore
+      2 North River Road
+      2 North London
+      2 North Hill
+      2 Northern India
+      2 Northern Canada
+      2 Northern Afghanistan
+      2 Northeastern Congo
+      2 North Centre
+      2 North Battleford
+      2 North Atlantic
+      2 North American Union
+      2 North Ame Login
+      2 Nishma
+      2 Nipissing
+      2 Niagara Falls Riding
+      2 NIAGARA
+      2 NHPPA
+      2 New US
+      2 New Republic
+      2 Newmarket Ontario
+      2 New Libs
+      2 New England States
+      2 New Brunswick South-West
+      2 Nepean-Carleton Login
+      2 N.B.
+      2 Nash Road
+      2 N. America
+      2 Nahanni National Park
+      2 Nahanni
+      2 Mount Robson
+      2 Mount Forest
+      2 Mount
+      2 Moscow Canada
+      2 Morningside
+      2 Montreal OTTAWA
+      2 Mont Orford
+      2 Montmorency-Charlevoix
+      2 Montmagny
+      2 Monte Sollberg
+      2 Montebello Quebec
+      2 Monbiot
+      2 Mogulus
+      2 Mixedwood Plains
+      2 Missouri
+      2 Mississauga East Cooksville
+      2 Miskolc
+      2 Mirabel
+      2 Minto
+      2 Milwaukee
+      2 Miller Lake
+      2 Mile-End
+      2 Milbrook
+      2 mideast
+      2 Middle East Green Party
+      2 Mercer
+      2 Melville
+      2 Mass.
+      2 Marsh Lake
+      2 Marrakech
+      2 Marpole
+      2 Marmora
+      2 Markham-Unionville
+      2 mankind
+      2 Manitou-Darlingford
+      2 Manitou
+      2 Manitoba Wildands
+      2 Malta
+      2 Malpeque Road
+      2 Magdalen Islands
+      2 Madison
+      2 Machu Pichu
+      2 Lyon
+      2 Lunenburg West
+      2 Lower Canada
+      2 Lourdes
+      2 Loudun
+      2 Longeuil
+      2 London West EDA
+      2 London Ontario Canada
+      2 London-Northwest
+      2 London-North Centre Campaign
+      2 London-North-Centre
+      2 London North Center
+      2 London North
+      2 London Green
+      2 London City
+      2 Lomonosov Ridge
+      2 Live Earth
+      2 Little Salmon Carmacks
+      2 Lithuania
+      2 Linfen
+      2 Lincoln County
+      2 Limoilou
+      2 Limewire
+      2 Limerick Lake
+      2 Liberia
+      2 Lévis-Bellechasse
+      2 Lennoxville Please
+      2 Le Gardeur
+      2 Leeds
+      2 Le Devoir
+      2 Leamy Lake Park
+      2 Leamington
+      2 la Russie
+      2 LA RONGE
+      2 La Presse
+      2 Lampi EN
+      2 Lakota
+      2 Lakeshore
+      2 Lake Charlotte
+      2 Lahr
+      2 La France
+      2 Lac La Biche
+      2 Lac Bromont
+      2 Labradorians
+      2 L.A.
+      2 Kyushu
+      2 Kyoto La
+      2 Kremlin
+      2 Koupparis MA
+      2 Konarka
+      2 Knoxville
+      2 Kitchener Waterloo
+      2 Kiribas
+      2 Kings County
+      2 Kincolith
+      2 Kimberley BC
+      2 Kilodanan
+      2 Kijong-Dong
+      2 Kidsfest Canada
+      2 Kerrisdale
+      2 Kentville
+      2 Kelsey SIAST
+      2 Kelowna Lake Country
+      2 Katmandu
+      2 Katimavik
+      2 Kathmandu
+      2 Kanesatake
+      2 Kandahar Province of Afghanistan
+      2 Kampala
+      2 Kaliningrad
+      2 Judique
+      2 Jonquière
+      2 Jericho Beach Park
+      2 James Street South Hamilton
+      2 Jalisco
+      2 Jakarta
+      2 Israeli Greens
+      2 Island
+      2 Islamic Republic of Iran
+      2 Iran-Israel
+      2 Ingersoll Ontario
+      2 Indonesian Borneo
+      2 indonesia
+      2 Indian
+      2 Illinois
+      2 Hunter River
+      2 Hudson Plains
+      2 Hornby Island
+      2 Hollywood
+      2 Helmand
+      2 Hebron
+      2 Haute-Yamaska
+      2 Hatchet Lake
+      2 Harperites
+      2 Hardingsburg
+      2 Harbour
+      2 Hans Island
+      2 Hanford
+      2 Hamilton East Stoney Creek
+      2 Halton Region
+      2 HALTON
+      2 Halifax Atlantic
+      2 Haldimand County
+      2 Haida Gwaii
+      2 Hague
+      2 Haddasah Bazaar
+      2 Gulf Stream
+      2 Gulf of Maine
+      2 Gulf Islands EDA
+      2 Gulf Island
+      2 Guelph Lindsay Jade Eason Latest
+      2 Guelph Greens
+      2 Guelph City
+      2 Guantamamo Bay
+      2 Guadalajara
+      2 Grenelle
+      2 Greenwich
+      2 Green City
+      2 Green California
+      2 Greenbelt
+      2 Green Bay
+      2 Great Lakes-Saint Laurence Basin
+      2 Great Lakes Ottawa
+      2 GRANDVIEW
+      2 Grandmother Earth
+      2 Goreway Drive
+      2 Gordon Street Guelph
+      2 Gordon
+      2 Gondwanaland
+      2 Gloucester
+      2 Glebe
+      2 George Street New Glasgow Nova Scotia
+      2 George Street New Glasgow
+      2 George New Glasgow
+      2 Gaza OTTAWA
+      2 GATINEAU GATINEAU
+      2 Gaspésie
+      2 Gardenview
+      2 Gandhi
+      2 Gander
+      2 Gambia
+      2 Galena
+      2 Gagetown
+      2 Gacaca
+      2 Gabriola Island
+      2 FRANCE
+      2 Foymount
+      2 Fort StVictoria
+      2 Fort St. John
+      2 Fort St John
+      2 Fort Providence
+      2 Fort Nelson
+      2 Fort Garry
+      2 Fort Chip
+      2 Fonthill
+      2 Fleetwood-Port Kells
+      2 Fleetwood
+      2 Flathead
+      2 Faroe Islands
+      2 Far North
+      2 Facer Street
+      2 Etobicoke Centre
+      2 ESTONIA
+      2 Essex County
+      2 Essar
+      2 Eramosa Road
+      2 Eramosa
+      2 Elliot Lake Standard
+      2 Ellesmere Island
+      2 Elizabeth
+      2 Elgin-Middlesex-London
+      2 Elgin Middlesex London
+      2 Eganville
+      2 EEPAC
+      2 Edmonton-Sherwood Park
+      2 Edmonton EDMONTON
+      2 & East Boulevard
+      2 East-Asia
+      2 Earth Day Hamilton
+      2 Durand
+      2 Dundas St. West Trenton
+      2 Drumheller
+      2 Drielen Chilliwack
+      2 Dresden
+      2 Drayton Valley
+      2 Downtown St. Catharines
+      2 Don Valley Ouest
+      2 Don River
+      2 Dome Creek
+      2 Dog Lake
+      2 Dixie Chicks
+      2 Digby Neck
+      2 Derbyshire
+      2 Denoon Street Pictou
+      2 Denoon Street
+      2 Dene
+      2 Delhi
+      2 Dead Sea
+      2 Dayuma
+      2 Davenport Ave.
+      2 Dartmouth South-Portland Valley
+      2 Dari
+      2 Danforth Avenue
+      2 Dalhousie Mountain
+      2 Dakota
+      2 Dahomey
+      2 Cumberland Colchester Musquodoboit Valley
+      2 Cuban
+      2 Crestview
+      2 Credit Valley
+      2 Crary Park
+      2 Cowtown
+      2 Cowichan Valley
+      2 Cow Bay
+      2 Covey Hill
+      2 Courtney Cave
+      2 Courtice
+      2 Courtenay
+      2 County Road
+      2 County
+      2 Cork
+      2 Cook Road
+      2 Condeleeza Rica
+      2 Concordia
+      2 Comox
+      2 Columbine
+      2 Clinton Ontario
+      2 Clear Creek
+      2 Clarksburg
+      2 Clairville
+      2 Cincinnati
+      2 Churchill River SK George Morin Cypress Hills
+      2 Christchurch
+      2 Chinatown
+      2 Chilliwack Fraser Canyon
+      2 Chilliwack
+      2 Chiapas
+      2 Cheyenne Nation
+      2 Cheviot
+      2 Chesterfield Inlet
+      2 Chemical Valley
+      2 Châtelaine
+      2 Chartres
+      2 Charleswood
+      2 Champlain
+      2 Chamberlain
+      2 Central Newfoundland
+      2 Central Europe
+      2 Cedar Creek
+      2 Carling Avenue
+      2 Carleton U along Bronson Avenue
+      2 Carleton Place
+      2 Carleton ON Lori Gadzala Newmarket
+      2 Carcassonne
+      2 Carbon Dioxide
+      2 Cape Breton Highlands-Canso
+      2 CAPE BRETON
+      2 Canadian Guantanamo
+      2 Canadian
+      2 Canada Randy Dos Santos Latest
+      2 Canada Newfoundland
+      2 Canada Le Canada
+      2 Cambridge Station
+      2 California Summitt
+      2 Calgary South West
+      2 calgary
+      2 Calder-MacNutt
+      2 Calcutta
+      2 Burns Bog
+      2 Budapest
+      2 Buckdog
+      2 Brzezinskian
+      2 Bruce-Grey Owen
+      2 Bromont
+      2 Broadview Avenue
+      2 Brighton
+      2 Breton
+      2 Brésil
+      2 Brazil HALIFAX
+      2 Bravo San Francisco
+      2 Brant
+      2 Brampton South
+      2 Bow River
+      2 Boreal Plains
+      2 Borden-Kinkora
+      2 Borden
+      2 Bordeaux
+      2 Bolton
+      2 Blockline Road
+      2 Blane Poland
+      2 Blair Road
+      2 Blainville
+      2 Black Rock City Nevada
+      2 Big City
+      2 Bethlehem NH
+      2 Beslan
+      2 Berwick
+      2 Bermuda
+      2 Bengal
+      2 Bellville
+      2 Belledune
+      2 Beijing Louis
+      2 BC Port Moody-Westwood-Port Coquitlam
+      2 Bay Road
+      2 Bay of Fundy
+      2 Bauline
+      2 Bali Road
+      2 Bahlieda
+      2 Baden Wuerttemberg
+      2 BACCHUS
+      2 Azizabad
+      2 Aylmer
+      2 Aung San Suu Kyi
+      2 Auckland
+      2 Atleo
+      2 Atlantic Seal Harvest
+      2 Atlantic Salmon Fishery
+      2 Atlantic Maritime
+      2 Athens
+      2 Ashkelon
+      2 arizona
+      2 Arctic island
+      2 Arctic Cordillera
+      2 Arabian Sea
+      2 Aoeteroa New Zealand
+      2 Antarctica World Park
+      2 Annapolois Valley
+      2 Annapolis River Project
+      2 Ankara
+      2 Anjou
+      2 Amériques
+      2 American States
+      2 American South
+      2 Alvinston
+      2 Alliston
+      2 Alberta Tar Sands
+      2 Alberta Nova Scotia British Columbia Ontario Manitoba Prince Edward Island Newfoundland
+      2 Alberta Nora Shea
+      2 Alaska Panhandle
+      2 alaska
+      2 Alabama
+      2 Afghanistan Mettre
+      2 Afghanistan Brian Timlick Latest
+      2 Actualité Le Canada
+      2 Aberdeen
+      1 Zurich
+      1 Zoocheck Canada
+      1 Zanzibar
+      1 Zaire
+      1 Yucca Mountain
+      1 Your City
+      1 Yorkshire
+      1 Yaletown
+      1 Xubuntu
+      1 Wpg
+      1 Wortley Roadhouse
+      1 Wortley Road
+      1 Worldwide America
+      1 Wood Buffalo
+      1 Woobine
+      1 Winterpeg
+      1 Winnipeg-Transcona
+      1 Winnipeg South Centre Green
+      1 Winnipeg City Transit
+      1 WINNIPEG
+      1 Wingspread
+      1 Wingham
+      1 Windsor Ontario
+      1 Winchester Ontario
+      1 Wilton
+      1 Williamstown
+      1 Willamette Valley
+      1 Wildrose Alliance
+      1 Wilberforce
+      1 Wikkipedia
+      1 Whyte Avenue Edmonton
+      1 White House
+      1 West Yorkshire
+      1 West Virginia
+      1 West Vancouver-Sunshine Coast
+      1 West see Russia
+      1 Westren
+      1 Weston-Garfield
+      1 West Nova EDA
+      1 West Nile
+      1 Westmount-Ville-Marie
+      1 Westmount-Ville Marie
+      1 Westmount Park
+      1 Westmmount Ville Marie
+      1 Westminster Avenue
+      1 West Kootenays
+      1 West Kootenay
+      1 West Island
+      1 West Hastings
+      1 West Germany
+      1 Western United States
+      1 Western Hemisphere
+      1 West Edmonton Mall
+      1 west coast
+      1 West Canada
+      1 West bank
+      1 Westbank
+      1 West Antarctic
+      1 west Africa
+      1 Wesmen
+      1 Wellington/Halton Hills
+      1 Wellington Halton Hills
+      1 Weczeria
+      1 Waziristan
+      1 Waverly Ouest
+      1 Waverley West
+      1 Waterloo London West Mississauga
+      1 Waterdown
+      1 washington state
+      1 washington
+      1 Wales United Kingdom
+      1 Vladivostok
+      1 viz.
+      1 Vinnicomb
+      1 Vimy
+      1 Viking
+      1 Vieux Montreal
+      1 Victoria Playhouse
+      1 Victoria Hall
+      1 Victoria B.C.
+      1 Victoria A.G.M.
+      1 Victora
+      1 Vermilion
+      1 Venus
+      1 Vendredi
+      1 Vegreville
+      1 Vanuatu Europe
+      1 Van Isle
+      1 Vanier
+      1 Vancover Island
+      1 Vancouver-Sunshine Coast-Sea
+      1 Vancouver Port
+      1 Vancouver Kingsway
+      1 Vancouver Center
+      1 Valois
+      1 Valleyview
+      1 Valley
+      1 Valdez
+      1 US Northwest
+      1 Ushuaia
+      1 US Great Lake states
+      1 US East coast
+      1 Urban Canada
+      1 Uranium City
+      1 Uppsala
+      1 Université Laval
+      1 Unites States
+      1 United Way of Ottawa-Carleton
+      1 United States/Japan
+      1 United States Greens
+      1 united States
+      1 United Nations-mandated
+      1 United Arab Eremites
+      1 UNFCCC
+      1 Ukrainian
+      1 Ubuntu-Linux
+      1 Tyendinaga
+      1 Turner Valley
+      1 Turkménistan
+      1 Turkish
+      1 Turkey Ukraine
+      1 Turkey Turkey
+      1 Tucson
+      1 Trippi
+      1 Trinity Spadina
+      1 Trinity
+      1 Trinidad
+      1 Tricastin
+      1 Toronto Login
+      1 Toronto Danforth
+      1 Toronto-Center
+      1 Toronto Canada
+      1 toronto
+      1 Tonkin
+      1 TOKYO
+      1 Tokaimura
+      1 Tobique Valley
+      1 Tobermory
+      1 TILMA
+      1 Tibet OTTAWA
+      1 Thunder Bay Login
+      1 Thickson Road
+      1 The Land of Anne
+      1 The Hill
+      1 Thai
+      1 Tesla Roadster
+      1 Terra Nova Green
+      1 Terra Nova
+      1 Tbilisi
+      1 Tatamagouche
+      1 Taradale
+      1 Tangier
+      1 Tamworth
+      1 Tampa
+      1 Tahltan
+      1 Tadjikistan
+      1 Syrie
+      1 Sydenham
+      1 Sweden Denmark Finland Norway Iceland Netherlands Germany
+      1 Surrey South
+      1 St. Toronto
+      1 Strong Green
+      1 Streetsville Florist
+      1 Stranka
+      1 St. Pauls
+      1 Stormont-Dundas-South Glengarry
+      1 St. Lucia
+      1 St. Leon
+      1 St-Lazare-Hudson-Rigaud
+      1 St. Lawrence Seaway
+      1 St-Laurent-Cartierville
+      1 St. Laurent
+      1 St. George 's Church Hall
+      1 St. George
+      1 Stéphane Login
+      1 Stéphane
+      1 Stellarton Town
+      1 St. East
+      1 St. Denis
+      1 St. Clair
+      1 St. Charles de Beaconsfield
+      1 St. Barts
+      1 St. Bartholomews Anglican Church
+      1 St. Barbe
+      1 Statistic Canada
+      1 States
+      1 St. Anne
+      1 Srebrenica
+      1 Srebenitza
+      1 Srebenica
+      1 Squanderville
+      1 Squamish valley
+      1 spades
+      1 Soviet State
+      1 Soviet Republic of Ukraine
+      1 Soviet Bloc
+      1 South Yorkshire
+      1 South Woodside
+      1 Southwest Oregon
+      1 South West Margaree
+      1 South Western Ontario
+      1 South Waterloo
+      1 South Pacific
+      1 South Ossetia/Russia
+      1 South of Mexico
+      1 south Florida
+      1 Southern Vancouver Island
+      1 Southern Island
+      1 Southern Gulf of St. Lawrence
+      1 Southern California
+      1 Southern Beaufort Sea
+      1 South Dakota
+      1 South California
+      1 South Australia
+      1 South Asia
+      1 south asia
+      1 South American
+      1 Sorukh Road
+      1 S. Ontario
+      1 Somerset
+      1 Solomon Islands
+      1 Slovakia Slovenia
+      1 Slovakia
+      1 Skydome
+      1 Sky Country
+      1 S. Korea
+      1 Sitka
+      1 Simcoe North Tom Manley
+      1 Silk Road
+      1 Siklab
+      1 Sierra Club
+      1 Sierra
+      1 Sidamo
+      1 siberia
+      1 Short Hills
+      1 Shindand
+      1 Sherbrooke Login
+      1 Shelburn
+      1 Shefford
+      1 Sharia
+      1 Shanty Bay
+      1 Shahran-e-Khash
+      1 Severn River
+      1 Serb Republic
+      1 Serbian
+      1 SENLIS
+      1 Senlis
+      1 Senegal
+      1 Selina Kansas
+      1 Sea Water
+      1 Sderot
+      1 Scugog
+      1 S. China
+      1 Scandanavia
+      1 Sauve Qui Peut
+      1 Saudi Greens
+      1 saudi arabia
+      1 Saudi
+      1 Saskatoon Star Phoenix
+      1 Saskatchewan Roughriders
+      1 Saskatchewan Login
+      1 SASKATCHEWAN
+      1 Sask
+      1 Sao Paulo Brazil
+      1 Sao Paolo
+      1 Santa Parade Sat
+      1 Santa Parade
+      1 Santa Monica California
+      1 Santa Monica
+      1 San Jose
+      1 Sangai
+      1 San Francisco Golden
+      1 San Fran
+      1 Samaria
+      1 Saltspring
+      1 Salt Lake City
+      1 Salmon River Inn
+      1 Salloum
+      1 Saint-Laurent Boulevard
+      1 Saint-Hubert
+      1 Saint-Anne de Bellevue
+      1 Safe Edmonton
+      1 Sackville Drive
+      1 Sable Island
+      1 Saanich South
+      1 Ryan Sparrow
+      1 Rutherford
+      1 Rustico Island
+      1 russia
+      1 Ruskies
+      1 Run Lola Run
+      1 Rouyn-Noranda
+      1 Romania Russia Green Russia Russia Zelenaya Alternativa Serbia
+      1 Rolphton
+      1 Rockyford
+      1 Rockies
+      1 ROCHE
+      1 Roberval-Lac-St-Jean
+      1 Rigaud
+      1 Rhode Island
+      1 Rhine
+      1 Repentigny
+      1 Redwater Leduc Reef
+      1 Red River
+      1 Randle Reef
+      1 Rainy River ON Russ Aegard Thunder Bay
+      1 Rainy River
+      1 Queen St East
+      1 Queens Park
+      1 Queen 's Park
+      1 Queensdale
+      1 Quebece
+      1 Québec City
+      1 Pushtun
+      1 Pugwash
+      1 Pubnico
+      1 PT Katzmarzyk
+      1 Psychopedagogy
+      1 Princeton
+      1 Prince George Peace River
+      1 Presque
+      1 Praires
+      1 Powell River Sunshine Coast
+      1 Potemkin
+      1 Port Hawkesbury
+      1 Porters Lake
+      1 Port-au-Prince
+      1 Port au Prince
+      1 Pomquet
+      1 Pointe Claire
+      1 Plaster Rock
+      1 Plainfield
+      1 Placentia Bay OTTAWA
+      1 Pierrefonds-Dollard Login
+      1 Pictou Island
+      1 Pictou Harbour
+      1 Pickering
+      1 Phuket
+      1 Phillipino
+      1 Philippine
+      1 Petro Canada
+      1 Petra
+      1 Petitcodiac River
+      1 Perthshire
+      1 Perpignan
+      1 Penobscot Bay
+      1 Penns
+      1 Penetang
+      1 Pemberton
+      1 Peachtree
+      1 Peace River valley
+      1 Pascua Lama
+      1 Pasadena
+      1 Parti Ecologiste du Congo
+      1 Partido Verde Ecologisto de Mexico
+      1 Partido Verde
+      1 Parisian
+      1 Paris Hilton
+      1 Papa New Guinea
+      1 Palo Alto
+      1 Pall Mall
+      1 Pakistani Kashmir
+      1 Pail Login
+      1 Pacific Northwest
+      1 Pacific Blvd.
+      1 Pachamama
+      1 Pa.
+      1 Owen Sound Login
+      1 Outremont Login
+      1 Ottawa West Nepean Login
+      1 Ottawa Valley Beef
+      1 Ottawa Sun
+      1 Ottawa Orleans
+      1 Ottawa Mission
+      1 Ottawa Centre Soumis
+      1 OSLO
+      1 Oshawa Greens
+      1 OSHAWA
+      1 Osgoode Hall
+      1 Osborne Village
+      1 Osama Bin Lauden
+      1 Osama Bin Laden
+      1 Oromocto
+      1 Orlando
+      1 Orellana
+      1 Orchard
+      1 Ontario Sheley Lipsey
+      1 Ontario Parry Sound-Muskoka
+      1 Ontario Nova Scotia Quebec
+      1 Ontario Elizabeth
+      1 Ontarians
+      1 ON Login
+      1 Olivia
+      1 Oliver
+      1 Olds
+      1 Old Man River City
+      1 Old Man River
+      1 Olde Orchard Pub
+      1 Oklahoma City
+      1 Okinawa
+      1 Okanagan Highlands
+      1 Okanagan-Coquihalla
+      1 N.Y.
+      1 Nuremberg
+      1 Nueva Loja
+      1 Nubody
+      1 N.S. Nfld.
+      1 Nova Scotia Vous
+      1 Nova Scotia Submitted
+      1 Nova Scotia Pictou
+      1 Nova Scotia NEW GLASGOW
+      1 Nose Hill
+      1 North West Passage
+      1 North West Pakistan
+      1 North Western Ontario
+      1 Northwestern Ontario
+      1 North Wales
+      1 Northumberland Straits
+      1 Northumberland Strait
+      1 North Saskatchewan River
+      1 North Island Greens
+      1 Northern US
+      1 Northern Sahara
+      1 Northern Manitoba
+      1 Northern Island
+      1 Northern Americas
+      1 North East of Calgary
+      1 North East
+      1 NorthCom
+      1 North-Coast
+      1 North Berwick
+      1 North Bay
+      1 north american
+      1 North Africa
+      1 Nkeboleng
+      1 N.J.
+      1 Nis
+      1 N.H.
+      1 New Zealand Spain Belgium Switzerland
+      1 New York State
+      1 New York Review
+      1 New York City Taxi
+      1 new york
+      1 New World
+      1 New West Coquitlam
+      1 New USA
+      1 New Tecumseth
+      1 New Page
+      1 New Mexico
+      1 New Market Aurora
+      1 Newmarket
+      1 New London
+      1 New Green Alliance
+      1 Newfoundland Greens
+      1 New Edinburgh
+      1 New Denver
+      1 Newcastle
+      1 Neva
+      1 Nev.
+      1 Netherland
+      1 Nepean Ottawa
+      1 Nepean Login
+      1 Nepean-Carleton Vous
+      1 nepal
+      1 Nelson-Creston
+      1 Nelson BC
+      1 Nederlands
+      1 Near East
+      1 Nazi Germany
+      1 Nazified Europe
+      1 N.A.T.O.
+      1 Nassau
+      1 Nanos
+      1 Nanaimo-Cowichan
+      1 Nanaimo-Cowicham
+      1 Nackawic
+      1 Muslim Spain
+      1 Murray-Darling river basin
+      1 Murmansk
+      1 Munich
+      1 Mulroney Green
+      1 Mulcaster
+      1 Mui Cheong
+      1 MT USA
+      1 Mount Kilimanjaro
+      1 Mount Everest
+      1 Mountain
+      1 MOSCOW
+      1 moon
+      1 Mont-Saint-Hilaire
+      1 Mont Royal
+      1 Montreal Ontario
+      1 Montreal-North
+      1 Montreal Login
+      1 Montreal Kyoto
+      1 Montreal Island
+      1 Montreal Green
+      1 Montmagny L’Islet Kamouraska Rivière-du-Loup
+      1 Mongolia
+      1 Moncton Public Library Moncton
+      1 Moldova Netherlands De Groenen Netherlands
+      1 Missoula
+      1 Mississauga St.
+      1 Mississauga South Richard Laushway
+      1 Mississauga-Cooksville
+      1 mississauga
+      1 Minas Basin
+      1 Milan
+      1 Mihama
+      1 Midwest
+      1 Midland Ave Midland
+      1 Mid-east
+      1 Mideast
+      1 Middle Rivers
+      1 Middle East Soumis
+      1 Middle-East
+      1 Michigan Avenue
+      1 mexico
+      1 Météo France
+      1 Metcalfe Street
+      1 Merrywood
+      1 Menominee Tribe
+      1 Menahem Begin
+      1 Medway Creek
+      1 Meander River
+      1 Meaford Hall
+      1 Meadowvale
+      1 Meadow Lake
+      1 M.B.
+      1 Mauritius
+      1 Mauritania
+      1 Matapédia Louis Drainville
+      1 Massey Lectures
+      1 Maryland US
+      1 Maryland
+      1 Markham GO
+      1 Marion
+      1 Margaree River
+      1 Mardi
+      1 Maplewood Avenue
+      1 Mansfield
+      1 Manitoban
+      1 Manitoba Greens
+      1 Manitoba Cree
+      1 Manitoba Canada
+      1 Manille
+      1 Manila
+      1 Manchester England
+      1 Manchester
+      1 Malta Alternattiva Demokratika Moldova
+      1 Malpeck Bay
+      1 Malibu
+      1 malawi
+      1 Maindy Stadium
+      1 Mackenzie River
+      1 Mackay
+      1 Macedonia
+      1 Lyons Brook
+      1 Low
+      1 Lovins
+      1 Louisville
+      1 Louis-Saint-Laurent-Québec Login
+      1 Los Verdes de Guatemala
+      1 Long Lake
+      1 Longlac
+      1 Long Beach
+      1 Londres
+      1 London UK
+      1 London-North Centre
+      1 London-Fanshaw
+      1 Londoners
+      1 London-Centre-Nord
+      1 London Central
+      1 lONDON
+      1 Logan Wenham
+      1 Lobo
+      1 Lobie
+      1 Liverpool
+      1 Livermore
+      1 Little Rock
+      1 Little Mountain
+      1 Little Gaza
+      1 Lisgar
+      1 Lions Bay
+      1 Linconville Nova Scotia
+      1 Linconville
+      1 Limoges
+      1 Libs.
+      1 Libs
+      1 Liblogs
+      1 Liberal-Green
+      1 Les USA
+      1 Lennox Island
+      1 Le Ministre
+      1 Le Den
+      1 Lebanon-Israel
+      1 Lebanon-Hezbollah
+      1 Leadership New York City
+      1 Lastewka
+      1 Lasalle
+      1 Large Silvaine Zimmermann Newfoundland
+      1 Langues Officielles
+      1 Languedoc-Roussillon
+      1 Langley BC
+      1 Langevin Block
+      1 Lala
+      1 Lake Tahoe
+      1 Lake Michigan
+      1 Lakelet
+      1 Lakehurst
+      1 Laissez Faire
+      1 LaGuardia Place
+      1 Lagos
+      1 Lafflines
+      1 Lacome
+      1 Labchuk
+      1 Kyoto OTTAWA
+      1 KYOTO Kyoto
+      1 Kuwaiti
+      1 Kushel
+      1 Kurdistan
+      1 Kubuntu
+      1 Korean
+      1 Kootenays
+      1 Konqueror
+      1 Kluela Lake
+      1 Klingon
+      1 Kline
+      1 Kiryat Arba
+      1 Kingston Wed.
+      1 Kingsnorth
+      1 King Login
+      1 Kilsyth
+      1 Khash
+      1 Khandor
+      1 Kenora-Rainy River
+      1 Kenora Liberal Roger Valley
+      1 Kenora Kitchener Centre Kitchener
+      1 Kennedy Road
+      1 KELOWNA
+      1 Kearl
+      1 Katyn
+      1 Karakorams
+      1 Kandhar
+      1 Kandahar City
+      1 Kandadar
+      1 Kananaskis
+      1 Kamenj
+      1 Kairos Canada
+      1 KABUL
+      1 Judea
+      1 Juan de Fuca Strait
+      1 J.S.
+      1 Jordan River
+      1 Jordan Dupuis
+      1 Joliet
+      1 Jockvale Rd.
+      1 Jiminy Cricketism
+      1 James Bay
+      1 Jalalabad
+      1 Jainism
+      1 Ivory Coast
+      1 Italy & Great Britain
+      1 Istanbul
+      1 Israel-Palestinian
+      1 Israeli Israel
+      1 Israel Green
+      1 Island States
+      1 Islands Login
+      1 Islands
+      1 Islamic Sharia
+      1 Islamic Republic of Afghanistan
+      1 ISLAMABAD
+      1 Iroqouis
+      1 Irish
+      1 Ira Zbarsky
+      1 Ira Zabarski
+      1 Iraq OTTAWA
+      1 Iran-Syria
+      1 IRAN
+      1 Inverness County
+      1 Inglewood
+      1 Industrial Parkway
+      1 Indian Ocean
+      1 Imphal
+      1 Ilhabela
+      1 Hyde Park
+      1 Hyannis
+      1 Hunza valley
+      1 Hunza
+      1 Huntingwood Drive
+      1 Humber River
+      1 Humber
+      1 humankind
+      1 Hudson Bay
+      1 Hubbards
+      1 Howe Sound/Squamish
+      1 Howard-Rudd
+      1 Horton
+      1 Horseshoe Bay
+      1 Hollywood North
+      1 Holland Marsh
+      1 Hobart
+      1 Hinduism
+      1 Hindsight
+      1 Himalayas
+      1 Hillerod
+      1 High Park
+      1 Highfield
+      1 Herat
+      1 Hellenistic
+      1 Heathrow
+      1 Hazarajat
+      1 Havana
+      1 Harris Decima
+      1 Harrisburg
+      1 Harperland
+      1 Harpercon
+      1 Harley
+      1 Harar
+      1 Hanuka
+      1 Hamyang
+      1 Hamilton Spectator
+      1 Hamilton Mountain Riding
+      1 Halifax-Dartmouth
+      1 Haitian
+      1 Haïti
+      1 Gulf of Mexico
+      1 Guinea Parti
+      1 Guinea Bissou
+      1 Guinea
+      1 Guernsey
+      1 Guelph Soumis
+      1 Guelph Mercury Guelph
+      1 Guelph Going Green
+      1 Guelph City Council
+      1 Guantanomo
+      1 G.T.
+      1 Grn
+      1 Greystones Inn
+      1 Grey-Bruce-Owen Sound
+      1 Grey Bruce Owen Sound
+      1 Grey-Bruce Ontario
+      1 Greenwood
+      1 Green Party of Nova Scotia
+      1 Green Party-in British Columbia
+      1 Green New Deal
+      1 Greenlands
+      1 Gree
+      1 Great Lakes Region Security
+      1 Greater Vancouver
+      1 Grande Baleine
+      1 Gori
+      1 Gordon Street
+      1 Golden Lake Algonquin
+      1 Golan
+      1 Gnutella
+      1 Glasgow Street
+      1 Gland
+      1 Glanbrook
+      1 Girouard Park
+      1 GHG Canada
+      1 Ghazni
+      1 GERMANY
+      1 Germanwatch
+      1 Geraldton Ontario
+      1 Georgia Strait
+      1 Georgian Bay
+      1 GEORGENA MACDONALD
+      1 Gentoo
+      1 Gazan
+      1 Gaspe
+      1 Gardez
+      1 Ganges
+      1 Galabuzi
+      1 Gaïa
+      1 Gagnonville
+      1 Fundy
+      1 Friendster
+      1 French Republic
+      1 French Canada
+      1 Freiburg
+      1 FreeBSD
+      1 Fredericton Login
+      1 Franklin Delano Roosevelt
+      1 Fort McMurray Athabasca
+      1 Fort Henry
+      1 Fort Chippewon
+      1 Forest Hills
+      1 Forest Hill
+      1 Forbes Rd.
+      1 florida
+      1 Flora
+      1 Flin Flon
+      1 Far East
+      1 Falklands Island
+      1 Fairview
+      1 Exeter
+      1 Everglades National Park
+      1 Everfy
+      1 Euroasian
+      1 Eurasian
+      1 Eurasia
+      1 Euorpe
+      1 E.U.
+      1 Etc.
+      1 Estonian
+      1 Esquimalt Juan de Fuca
+      1 Eritrea
+      1 English Mountain Road Coldbrook
+      1 Enginee Login
+      1 Emerg
+      1 El Salvador En
+      1 Elmwood
+      1 Elgin
+      1 Einsteinian
+      1 E.H.
+      1 Eglinton Ave East
+      1 Edward Island
+      1 Edmonton Sherwood Park
+      1 Edmonton Mon
+      1 Edmonton Login
+      1 Edmonton Glenora
+      1 Edmonton Centre
+      1 EDA Parksville
+      1 East Vancouver
+      1 East River
+      1 East Pakistan
+      1 East Interlake
+      1 Eastern Tennessee
+      1 Eastern States
+      1 Eastern Russia
+      1 Easter Island
+      1 East Berlin
+      1 East Asia
+      1 East
+      1 Earth Middle East
+      1 Earth Day-Kyoto
+      1 Early Republic
+      1 Durisol
+      1 Durban
+      1 Dundas Street
+      1 Dundas Square
+      1 Dufferin-Caledon
+      1 Downtown Vancouver
+      1 Downtown Guelph
+      1 Downsview National Park
+      1 Dovercourt
+      1 Donlea Drive
+      1 Dominican Republic
+      1 Dominica
+      1 District
+      1 Director Midwest Region B'nai Brith Canada
+      1 Digg.com
+      1 Dhaka
+      1 Deux-Montagnes
+      1 Desnethe-Missinippi-Churchhill River
+      1 Derry Road West
+      1 Derek Andrews Nova Scotia Login
+      1 Denver
+      1 Demokratia
+      1 Delta-Richmond East Richard Mathias
+      1 Decima
+      1 D.C. Sonia
+      1 Dayuma Calls
+      1 Dayton
+      1 Davenport
+      1 Daughton Nova Scotia
+      1 Das Kapital
+      1 Dartmouth Cole Harbour Soumis
+      1 Dallas Road
+      1 Dallas
+      1 Dalhousie Mountian
+      1 Czechoslovakia
+      1 Curitiba
+      1 Cumberland County
+      1 Cumberland-Colchester Musquodoboit Harbour
+      1 Cumberland-Colchester-Musquodobit Valley
+      1 Cromwell
+      1 Croatia
+      1 Crémazie
+      1 Cree
+      1 Crawford Texas
+      1 Crawfordsville
+      1 Crawford
+      1 Cowansville
+      1 Côte Saint-Luc
+      1 Corner Brook
+      1 Coquihalla
+      1 Condorcet
+      1 Comox Valley
+      1 Commonwealth Summit
+      1 Columbus Centre
+      1 Columbia Prince Edward Island
+      1 Colombo
+      1 Collingwood
+      1 Cole Harbour Eastern Passage
+      1 Cole Harbour
+      1 Cold Lake Alberta
+      1 Cochrane Alberta
+      1 Coal River Valley
+      1 Coal River Mountain
+      1 Coal River
+      1 CO
+      1 Civi
+      1 CISEPO
+      1 Churchill River UPDATE Saskatchewan
+      1 Churchill River Lib
+      1 Churchill River George Morin Where
+      1 Churchill River George Morin
+      1 Churchill Meadows Boulevard
+      1 Christendom
+      1 Chomedey
+      1 China India
+      1 CHINA
+      1 china
+      1 Chicago River
+      1 chicago
+      1 Chevy
+      1 Cheshire
+      1 Cherryhill Mall
+      1 Chernushenko
+      1 Chernuschenko
+      1 Chelsea Green
+      1 Chechan
+      1 Chatham-Kent-Essex Login
+      1 Châteauguay Valley
+      1 Charlottetown Greens
+      1 CHARLOTTETOWN
+      1 Charlotte Street
+      1 Charing Cross Road
+      1 Chapman Creek Area
+      1 Chambres
+      1 Chambly-Borduas
+      1 Chaghcharan
+      1 Central Mexico
+      1 Cdn
+      1 Cayuga
+      1 Catalonia
+      1 Castlegar B.C.
+      1 Castlegar BC
+      1 Casson
+      1 Caspian Sea
+      1 Casey Street
+      1 Casey
+      1 Carleton U
+      1 Caribbean Basin
+      1 Carbon
+      1 Cape Porcupine Quarry
+      1 Cape Porcupine
+      1 Cape Horn
+      1 Cape Cod
+      1 Cape Breton Highlands National Park
+      1 Cape Breton Highlands/Canso
+      1 Cape-Breton Canso
+      1 Cape Breton Canso
+      1 Cape
+      1 Cantley
+      1 Canotaph
+      1 Canajoharie
+      1 Canadian North
+      1 Canadian Midwest
+      1 Canadawho
+      1 Canada Vous
+      1 Canada Green
+      1 Canada Gazette
+      1 Canada ANTIGONISH
+      1 Canada Alberta
+      1 CAnada
+      1 Cana
+      1 Camp Kwomais
+      1 Cameroon
+      1 Californie
+      1 Calif.
+      1 Cali
+      1 Calgary-Elbow
+      1 Calgary Elbow
+      1 Calagary
+      1 Caddilac
+      1 Cabbagetown
+      1 Burrard Street
+      1 Burnaby New Westminster
+      1 Burkina Faso Cameroon
+      1 Bulgaria
+      1 Buckingham Hospital
+      1 Buckingham
+      1 Bruce Peninsula
+      1 Bruce-Grey Owen Sound
+      1 Bruce Grey
+      1 Bruce
+      1 Brookfield
+      1 Bronx
+      1 British-Columbia
+      1 Brith Canada
+      1 Britan
+      1 britain
+      1 Bristol Road East
+      1 Brimley Road
+      1 Brighton Mon.
+      1 Bridgeview
+      1 Bridas
+      1 Brentwood
+      1 brazil
+      1 Braybick Bistro
+      1 Bratislava
+      1 Brasil
+      1 Brampton South ON Grace Yogaretnam Mississauga East
+      1 Brampton Soumis
+      1 Boynton Road
+      1 Boulevard Montréal
+      1 Boularderie Island
+      1 Bosnian
+      1 Boreal Forest
+      1 Bogota
+      1 Bloor Sts
+      1 Bloor Street West
+      1 Bloor
+      1 Bloomfield
+      1 Blackwater US
+      1 Black Sea
+      1 Black Rock
+      1 Birmingham
+      1 Big Coal River Valley
+      1 BIBLE HILL
+      1 Bible Hill
+      1 Bhutan
+      1 Bethlehem
+      1 Bethel Drive
+      1 Berlin Wall
+      1 Berkeley
+      1 Bering Strait
+      1 Bejing
+      1 Beirut
+      1 Beersheva
+      1 Beaverdell
+      1 Beaurepaire Drive
+      1 Beauce SK
+      1 Beauce Lieu
+      1 Beatlemania
+      1 Beaconsfield
+      1 Beachville
+      1 Beaches East York EDA
+      1 Bayview Ave.
+      1 Bayview
+      1 Bay Street North
+      1 Bay St.
+      1 Bay Area Indymedia
+      1 Bay
+      1 Bathurst Street
+      1 Barton Street East
+      1 Barrie Login
+      1 Barbados
+      1 Bamian
+      1 Bali Road Map
+      1 Bairdsian
+      1 Bahamas Bangladesh
+      1 Babylon
+      1 Babel
+      1 Azrieli Theatre
+      1 ayahuasca
+      1 Australian
+      1 australia
+      1 austin texas
+      1 Auschwitz Survivor
+      1 Aurora OTTAWA
+      1 Aurora North Site
+      1 Augusta Avenue
+      1 Augusta
+      1 Atlatic Canada
+      1 Atlantic Superstore
+      1 Atlantic Region
+      1 Atlantic Organizer
+      1 Atlantic Monthly
+      1 Atlantic Huron
+      1 Atlantic Canadians
+      1 Atlantica
+      1 Athabasca River basin
+      1 Athabasca river
+      1 Assiniboia Brian Timlick
+      1 Assam
+      1 Ashqelon
+      1 Armagh
+      1 Aral Sea
+      1 Appalachian Mountains
+      1 Antartica
+      1 Antarctic Peninsula
+      1 ANTARCTICA
+      1 Annapolis Valley of Nova Scotia
+      1 Annapolis River
+      1 Anglican Church of Tanzania
+      1 Andyz
+      1 Anand Mathura
+      1 Amsterdam Netherlands
+      1 AMHERST
+      1 Amex
+      1 america
+      1 Amchitka
+      1 Ambruzzo
+      1 Alsaka
+      1 Alma-Ata
+      1 Allen Gardens
+      1 Algonquin Park
+      1 Algoma
+      1 Algeria
+      1 Alexandria
+      1 Aldous Huxley
+      1 ALCORN
+      1 Albuquerque
+      1 Alberta & Saskatchewan
+      1 Alberta Paulo Falvo
+      1 Alberta Calgary
+      1 ALBERTA
+      1 Albania Andora Andorra
+      1 Albania Albania
+      1 Albania
+      1 Alaskan Arctic
+      1 Aichi
+      1 Agra
+      1 Aghanistan
+      1 africa
+      1 AFGHANISTAN
+      1 Afghan
+      1 Afganistani
+      1 afganistan
+      1 Accueil Quebec
+      1 Accueil La Marche
+      1 Accueil Green
+      1 Accueil Canada
+      1 Accueil
+      1 Acadia
+      1 academia
+      1 Aborignal
+      1 Aborigi

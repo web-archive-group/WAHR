@@ -1,0 +1,583 @@
+   1241 Jim Harris
+    998 Harris
+    423 Martin
+    407 David Chernushenko
+    209 Mark MacGillivray
+    203 Manley
+    171 Jim
+    166 Tom Manley
+    133 Sharon Labchuk
+    121 Gomery
+    119 Van Ferrier
+    115 Paul Martin
+    109 Labchuk
+    101 Cherfi
+    100 Dundas
+     94 Carr
+     90 Chernushenko
+     89 Judith
+     79 Andrew Lewis
+     73 Derek Pinto
+     71 Lynette Tremblay
+     67 Green
+     67 Emery
+     66 Dietrich
+     62 David
+     57 Paul
+     54 Gibbons
+     54 Beth MacKinnon
+     53 Bruce Abel
+     48 Brown
+     45 Rick
+     45 Peter Ellis
+     45 Christopher Coggan
+     44 Walton
+     43 Bill
+     42 Eric Walton
+     41 Whelan
+     40 Joan
+     39 Joan Johannson
+     39 Debbie Wood
+     37 Sheila Richardson
+     36 Tom
+     36 Tewolde
+     36 Stephen Harper
+     36 Smith
+     36 Schiller
+     36 Luca Palladino
+     36 Layton
+     36 Goodman
+     36 Ed Broadbent
+     36 David Fletcher
+     36 Dan King
+     36 Adriano Caldi
+     33 Newton Robinson
+     33 Max
+     33 Julie Baribeau
+     33 Jessica Fracassi
+     33 Chris Alders
+     33 Caroline King
+     33 Beeton
+     31 David Suzuki
+     31 Bush
+     30 Tom Clarke
+     30 Sheila
+     30 Mohamed Cherfi
+     30 Lee-Anne McAlear
+     30 Gareth
+     30 François Pilon
+     30 Broadbent
+     30 Amanda
+     27 Richard De Smet Ride Posse
+     27 Michael Oddy
+     27 Glen Lawerence
+     25 Marc-André
+     24 Tommy Montpetit
+     24 Simon Lapointe
+     24 Sherwood Park
+     24 Sheppard
+     24 Peter Graham
+     24 Patrick Tierney
+     24 Mel Lastman
+     24 Junker
+     24 John Billings
+     24 Joe Foster
+     24 Joe
+     24 Jan Triska
+     24 James Wisener
+     24 Grace
+     24 Gladstone
+     24 Finch
+     24 Edward Island
+     24 Diana
+     24 David Maracle
+     24 Dave Martin
+     24 Beecroft Ave
+     23 Raphaël Thierrin
+     22 Mike Nickerson
+     20 Marc-André Gadoury
+     20 Chris Paré
+     19 Lynette Tremblay Andrew Lewis Tom Manley
+     19 Edward
+     18 Stronach
+     18 Stephane Dion
+     18 Sharolyn Vettese
+     18 Roger Benham
+     18 Robert
+     18 Lynn Lau
+     18 Kevin Colton
+     18 Katie
+     18 Jeff
+     18 Jack Layton
+     18 Heather Sim
+     18 Eric B. Walton
+     18 Doug
+     18 Dion
+     18 Cochrane
+     18 Chris Lackner
+     18 Chris Bradshaw
+     18 Camille Labchuk
+     18 Bruce
+     18 Bromwich
+     18 Belinda Stronach
+     18 Adriane Carr
+     17 Sharon
+     16 Thomas
+     16 Jim Harris Jim Harris
+     15 Steve
+     15 Scott Vokey
+     15 Rob Newman
+     15 Richard
+     15 Rebecca
+     15 Pigeon Lake Tim
+     15 Pauline Richards
+     15 Pape
+     15 Jim Harris Basement
+     15 James O'Grady
+     15 Gus Gutoski Calgary-Southeast
+     15 Gibbons Jim Harris
+     15 Gamble
+     15 Eric
+     15 Danforth
+     15 Chris
+     15 Carlton
+     15 Cam Wakefield
+     15 Beth
+     15 Allan Gardens
+     14 Tom Goodman
+     14 Judith Hamel
+     14 Andrea Prazmowski
+     12 William Street N. Chatham
+     12 Wayne Smith
+     12 Vaudreuil
+     12 Tooker Gomberg
+     12 Tooker
+     12 T. J. BLAIR
+     12 Tim
+     12 Terri Kemball
+     12 St. Clair
+     12 Simon Rosenblum
+     12 Simon
+     12 Shifra Soria Tobiasch
+     12 SERENA POSTEL
+     12 Scott Brison
+     12 Scarborough Guildwood EDA
+     12 Sandy Hill
+     12 Saint-Lambert
+     12 Saint-Jean-Baptiste
+     12 Ry Smith
+     12 Rymal Smith
+     12 Ryerson
+     12 Rosalee Doering
+     12 Rosalee
+     12 Rockin
+     12 Robin
+     12 Rebecca Bromwich
+     12 Ralph Goodale
+     12 Purves
+     12 Peters
+     12 Pavillon Alexandre-Taché
+     12 Patrimoine
+     12 Paehlke
+     12 Miriam Cunha
+     12 Michael Grant
+     12 Meredith Luce
+     12 Medhi Hamdad
+     12 McIntyre
+     12 Markus Lahtinen
+     12 Marc Payette
+     12 Marcelo Padre
+     12 Mamma Rosa
+     12 Le Regroupement
+     12 Lau
+     12 Lake Tim
+     12 Kristin Bell-Murray
+     12 Kevin Donak
+     12 Kent
+     12 Ken Bell
+     12 Kay Green
+     12 KATELYN SAWATSKY
+     12 Julie C. Baribeau
+     12 Joseph Volpe
+     12 Jose Alejandro Yak
+     12 Jennifer Hanna
+     12 Jean-François Pinel
+     12 Jean-François Dumas
+     12 Jean Coutu
+     12 Henry
+     12 Harper
+     12 Greg Enns
+     12 Gibbons Gibbons Jim Harris
+     12 Gatineau
+     12 Garry Sanipass
+     12 Garry
+     12 Fred Sexsmith
+     12 Foster
+     12 Federico Sanchez
+     12 Edith Smeesters
+     12 Dolan
+     12 Dermod Travis
+     12 derek pinto
+     12 De Montigny
+     12 David Englis
+     12 Daniel Yeulett
+     12 Cody Torgerson
+     12 Cochrane Doug McIntyre
+     12 Claude Brun
+     12 Chris Lea
+     12 Bonaventure
+     12 Bob Rae Ontario
+     12 Bill C-38
+     12 Beth McKinnon
+     12 Bernard Besancenot
+     12 Bennett
+     12 Barry Fraser
+     12 Barbara Dalziel
+     12 Aynsley Smith
+     12 Arnold Schwarzenegger
+     12 Anthony Germaine
+     12 Angela Bischoff
+     12 Andrew Lewis Mayne Island
+     12 Andrea Horan
+     12 Alberteen Spence
+     12 ABRAHAM
+     11 Otto Casanova
+     11 Montréal
+     11 Marco Calliari
+     11 Julie Roy
+     11 Albert Einstein
+     10 Edwin Erickson
+      9 Yukon
+      9 Straw
+      9 Steve Kisby
+      9 Scott Willing
+      9 Roblin
+      9 Moncion
+      9 Michael White
+      9 Métis
+      9 Lynette Tremblay Andrew Lewis David Chernushenko
+      9 Larry Powell
+      9 Kyle Grice
+      9 Kenneth Boulding
+      9 John Anderson
+      9 Johanne Gelinas
+      9 Joe Jordan
+      9 Inky Mark
+      9 Elisabeth Papin
+      9 E. Coli
+      9 Doug Warkentin
+      9 Diana Krall
+      9 Bruce Abel Chair
+      9 Andrew
+      9 Alex Drossos
+      8 Richard Thomas
+      8 Richard Procter
+      8 Raphaël
+      8 Frank de Jong
+      8 Doug Warkentin Alex Drossos Bill Hulet
+      8 Bill Hulet
+      7 Rob Laidlaw
+      7 Margaret Marean
+      7 Jean-Bertrand Aristide
+      7 Edward Island Jeremy Stiles
+      7 Catharine Johannson
+      7 Bill Hulet Gareth White
+      7 Aristide
+      6 Zev Rumstein
+      6 Yvon Godin
+      6 Wortley
+      6 Wendy Francis
+      6 Wendell Cada
+      6 Vrtucar
+      6 VIII
+      6 Victor Lau
+      6 Victoria
+      6 Ujjal Dosanjh
+      6 Trevor Hancock
+      6 Tom Cornwall
+      6 Tingley
+      6 Timothy Feher
+      6 Tim Hearn
+      6 Tewolde Berhan Gebre Egziabher
+      6 Teague
+      6 Suzuki
+      6 Suzanne Boileau
+      6 Steve Gilchrist
+      6 Steve Anderson
+      6 Siobhan Bond
+      6 Simon Doyle
+      6 Shirley Picknell
+      6 Sheila G. Richardson
+      6 Seralini
+      6 Sean O'Neil
+      6 Sean Maw
+      6 Scott Shannon
+      6 Scott Reid
+      6 Sarwer-Foner
+      6 Sara Golling
+      6 Saparno
+      6 Sandra Pareja
+      6 Rudy Koop
+      6 Roy Romanow
+      6 Robinson Rivadeneyra Reategui
+      6 Robin Roberts
+      6 Robin Faye
+      6 Robert Pickton
+      6 Robert Paehlke
+      6 Robert Carty
+      6 Rick Barsky
+      6 Richard Mathias
+      6 Richard Guy Briggs
+      6 Rev
+      6 Raphaël Thierrin Chair
+      6 Prentice
+      6 Pierre Pettigrew
+      6 Pierre Denis
+      6 Pettigrew
+      6 Peter Wlodarczak
+      6 Peter Kent
+      6 Percy Schmeiser
+      6 Penny
+      6 Pendergast
+      6 Pauline Picard
+      6 Otto
+      6 Neil Adair
+      6 Mulroney
+      6 Mitchell
+      6 Mike Marshall
+      6 Michel Guimond
+      6 Michael Starling
+      6 Mell
+      6 Meg Purdy
+      6 Meg
+      6 McMaster
+      6 McDermott
+      6 Maya
+      6 Matt Takach
+      6 Matt Paquette
+      6 Matthew Day
+      6 Matthew Clarke
+      6 Martin Luther King Jr.
+      6 Marilyn Churley
+      6 Marie-Odile Junker
+      6 Maria Minna
+      6 Margaret Blakers
+      6 Marc Richard
+      6 Marc Laporte
+      6 Marc Emery
+      6 Marc André Gadoury
+      6 Malin Hansen
+      6 MacGillivray
+      6 Lynette
+      6 Lundberg
+      6 Luke Lutman
+      6 Lisa Croome
+      6 Lindsay Ferguson
+      6 Lester Pearsons
+      6 Leo Broderick
+      6 Lawrence Martin
+      6 Lawrence
+      6 Lavant
+      6 Larry McDermott
+      6 Larry Gordon
+      6 Kyoto Jim Harris
+      6 Kruger
+      6 Kraft
+      6 Kip Holloway
+      6 Kim Campbell
+      6 Kerry
+      6 Kennedy
+      6 Katie Boudreau
+      6 Kathleen E. DeWitt Newell
+      6 Karen Redman
+      6 Judith Send
+      6 Judi Longfield
+      6 Jovette Cyr
+      6 Jose Alejandro Yac
+      6 Jose
+      6 Jon Cormier
+      6 John Purves
+      6 John F. Kennedy
+      6 John Bennett
+      6 Jim Harris Letter
+      6 Jim Harris David Chernushenko
+      6 Jennifer Teague
+      6 Jennifer Gauthier
+      6 Jeff Rudd
+      6 Jeff Rud
+      6 Jeff Brownridge
+      6 Jean Tingley
+      6 Jay Hill
+      6 Jacquie Fenske
+      6 Jacques Gélineau
+      6 Jacquelyn Spark
+      6 Jack Horner
+      6 Irwin Cotler
+      6 Irme Chan
+      6 Hurtado
+      6 Hummer
+      6 Henry David Thoreau
+      6 Harlan Lundberg
+      6 Gruenen
+      6 Gordon Cobb
+      6 Gordon Campbell
+      6 Glen Lawrence
+      6 Gilles Mercier
+      6 Gilles-Eric Seralini
+      6 Gilles Duceppe
+      6 George W. Bush
+      6 Georges Clemenceau
+      6 George Bush
+      6 Gary Smith
+      6 Gareth White Gareth M. White
+      6 Frank Graves
+      6 François Boivin
+      6 Flor de Maria Hurtado Valdezon
+      6 Felix Murazzo
+      6 Fed Sanchez
+      6 Eric Thank-you
+      6 Eric Schiller
+      6 Eric Gagne
+      6 E.F. Schumacher
+      6 Eduardo Bruce Montes Oca
+      6 Dylan John Perceval-Maxwell
+      6 Doug Warkentin Doug Warkentin
+      6 Doug Gallant
+      6 Doucet
+      6 Don Boudria
+      6 Dominic LeBlanc
+      6 Diana Nunes
+      6 Diana Denny
+      6 Derek
+      6 DENNIS BUECKERT
+      6 Dennis Bueckert
+      6 David Pengelly
+      6 David Dingwall
+      6 David Chernushenko david@greenparty.ca David
+      6 Dave Welsh
+      6 Dave Ferguson
+      6 Danna Glendining
+      6 Dan Biocchi
+      6 Dale Johnston
+      6 Clive Doucet
+      6 Claude William Genest
+      6 Claude Genest
+      6 Chris Coggan
+      6 Chernushensko
+      6 Chas Dietrich
+      6 Chantal Vicha
+      6 Cesar Bello
+      6 Cathy McGregor-Smith
+      6 Catharine Laidlaw-Sly
+      6 Carole Taylor
+      6 Carole Saindon
+      6 Campbell
+      6 Camille
+      6 Caldi
+      6 Caitlin Illustration
+      6 Caitlin
+      6 Buzz Hargrove
+      6 Bruno Vezina
+      6 Bruce Hanson
+      6 Bruce Anderson
+      6 Broderick
+      6 Brison
+      6 Brian Sarwer-Foner
+      6 Brian Gibb
+      6 Brent Jewell
+      6 Bouton
+      6 Booz Allen Hamilton
+      6 Bob Brown
+      6 Bill Hulet Bill
+      6 Bill Casey
+      6 Beth Peterkin
+      6 Bern Haggerty
+      6 Bernard Lord
+      6 Belledune
+      6 B. Abel
+      6 Austin Pendergast
+      6 Audrey Saparno
+      6 Arpad Pusztai
+      6 Arleigh Crawford
+      6 Ariel Lade
+      6 Anna Girouard
+      6 Angela Merkel
+      6 Andy Shadrack
+      6 Anderson
+      6 Amory Lovins
+      6 Allison White
+      6 Allison
+      6 Alicia Ross
+      6 Alex Drossos Raphaël Thierrin Fed Sanchez
+      6 Alejandro Toledo
+      6 Aldo Leopold
+      6 Alan Dunn
+      6 Adrianno Caldi
+      6 Addington
+      6 Adam Popper
+      5 Strangelove
+      5 Shelley Willson
+      5 Sarah Henckel-Sutmoller
+      5 Peter Johnston
+      5 Olivier Adam Parti Vert
+      5 Monika Schaefer
+      5 Mark
+      5 Katalin Sheskay
+      5 John MacDonald
+      5 Jasper
+      5 Ishmael
+      5 Ingrid Thorton
+      5 Harvey Scott
+      5 Greg Selinger
+      5 George Read
+      5 Foote
+      5 Donnie Darko
+      5 Darth Vader
+      5 Colin Fisher
+      5 Chris Foote
+      5 Betty Rainville
+      5 Banff Cochrane
+      5 Andrea Sheridan
+      5 Amanda Penton
+      5 Allan Webber
+      4 Ted Alexander
+      4 Sheila Copps
+      4 Rob Strang
+      4 Raphaël Thierrin Raphaël Thierrin
+      4 Nunavut Nedd Kenney
+      4 John Tory
+      4 Fritjof Capra
+      4 Eves
+      4 Ernie Eves
+      4 Ernie
+      4 De Jong
+      4 David Peterson
+      4 David Emerson
+      4 Capra
+      4 Bob Duncanson
+      3 Norm Greenfield
+      3 Nedd Kenney
+      3 Montérégie
+      3 Michael
+      3 Matthew Bromwich
+      3 Karl
+      3 Karen
+      3 Johanna
+      3 Irene Novaczek
+      3 Helga
+      3 Gareth White
+      3 David Orton
+      3 Christian Vachon
+      3 Casanova
+      3 Alvaro Quijandria Salmon
+      3 Alvaro
+      2 Selkirk-Interlake
+      2 Raquel
+      2 Margaret Mead
+      2 Mahatma Gandhi
+      2 Doug Warkentin Bill Hulet
+      2 Doug Warkentin Alex Drossos
+      2 Carla
+      2 Alex Drossos Bill Hulet
+      1 Trump
+      1 Bill Hulet Gareth White Norm Greenfield

@@ -1,0 +1,2616 @@
+   1987 John
+   1284 George
+   1266 Elizabeth May
+   1263 Paul
+   1241 Papineau
+   1234 Albert
+    860 Harper
+    630 Margaret
+    625 Marie
+    622 Thompson
+    621 Fleetwood-Port Kells
+    620 Davenport
+    620 Bruce
+    619 Bourassa
+    618 Thornhill
+    617 Brant
+    616 Halton
+    616 Addington
+    615 Vaughan
+    615 Saint-Jean
+    615 Macleod
+    615 Drummond
+    615 Boniface
+    614 Provencher
+    614 Beausejour
+    577 Elizabeth
+    247 Stephen Harper
+    166 Green
+    159 Les
+    126 Jim Harris
+    126 Elle
+    115 Layton
+    110 David
+    101 Jim
+     90 Jack Layton
+     83 John Shavluk
+     78 Blair
+     74 Mike
+     60 Peter MacKay
+     57 Dan Grice
+     56 Brian
+     55 Dan
+     53 Erich Jacoby-Hawkins
+     52 Chris
+     50 Peter
+     50 Dion
+     50 Blair Wilson
+     47 Michael
+     46 Bush
+     45 Adriane Carr
+     44 Stephen Leacock
+     44 Stephen
+     44 Peter Graham
+     44 Mike Nagy
+     44 Dylan
+     41 Alan Coxwell
+     40 Eric
+     39 Doug
+     38 Jim Johnston
+     37 Laura
+     36 K. Tyler Nasmith
+     36 Carr
+     36 Al Gore
+     35 Joe Clark
+     34 Louis GREENSTOCK
+     33 Scott
+     33 Richard
+     33 John Baird
+     32 Jacques Tétreault
+     32 Dave
+     32 Claude William Genest
+     31 Marie Martine Bédard
+     31 Erich Jacoby-Hawkins Barrie
+     31 Cliquez
+     30 Ste Anne de Bellevue
+     30 Bill
+     28 Bob
+     27 John Fryer
+     27 Dan Mick
+     26 Stefan
+     26 Philip Stone
+     26 Csaba
+     26 Bill Casey
+     26 Arif Jinha
+     25 Michael J Phillips
+     25 Jane Jacobs
+     25 Cathy
+     24 Street S. Streetsville
+     24 Stephane Dion
+     24 Ralph
+     24 Norbert
+     24 Kate
+     24 Ittinuar
+     24 Chris Tindal
+     23 Steve Paikin
+     23 Robert
+     23 Nicholas Stern
+     23 M. Harper
+     23 Mark Kersten
+     23 Erich
+     23 Charles
+     23 Adrian
+     22 Paul Maillet
+     22 Jean Cloutier
+     22 Amy
+     21 Sylvie Lemieux
+     21 Sandy Cove Innisfil
+     21 Mark
+     21 Jasper
+     21 Hamilton
+     21 Glen
+     21 Eric Walton
+     20 Trey Capnerhurst
+     20 Sam
+     20 Regina
+     20 Petra Kelly
+     20 Natalie
+     20 May
+     20 Jennifer
+     20 Douglas Roche
+     20 Donovan
+     20 Cela
+     20 Brandon
+     19 Lou
+     19 Kelly
+     19 George Bush
+     19 Dundas
+     19 Ben
+     19 Andrew Lewis
+     19 Andrew
+     19 Alison
+     18 Patti
+     18 Parsons
+     18 Nigel
+     18 MacKay
+     18 Ingrid Betancourt
+     18 Gordon
+     18 Chris Alders
+     18 Brendan
+     17 York Simcoe
+     17 Wayne
+     17 Ron
+     17 Glenda
+     17 Cooper
+     17 ALISON MENARD
+     16 Valerie Powell
+     16 Nick
+     16 Morrison
+     16 Michelle
+     16 Matt
+     16 Kevin
+     16 Julien Lamarche
+     16 Gilles Duceppe
+     16 Fred
+     16 Emma
+     16 Chris Aikman
+     16 Brian Gordon
+     16 Allan
+     15 Voici
+     15 Jason Hammond
+     15 Gary Caldwell
+     15 Elizabeth May Elizabeth May
+     15 David Orchard
+     15 Bill Hulet
+     15 Adrian De Jong
+     14 Todd
+     14 Matthew Stevenson
+     14 Marc Emery
+     14 Marc
+     14 Mackenzie
+     14 Larissa
+     14 Karen
+     14 Juan
+     14 Jim Stephenson
+     14 Jessie
+     14 Jen
+     14 Imre
+     14 Hondo
+     14 François
+     14 Erik
+     14 Durant
+     14 Diane
+     14 Craig
+     14 Carrie
+     14 Bill Clinton
+     14 Baird
+     14 Andre
+     14 Amanda
+     13 Rona Ambrose
+     13 Monika
+     13 Lorraine Rekmans
+     13 Kevin Colton
+     13 John Klein
+     13 Gore
+     13 Edward
+     13 David Suzuki
+     13 Colleen
+     13 Claude
+     13 Chretien
+     13 Angus Reid
+     12 Zoran
+     12 Victor Hugo
+     12 Valerie
+     12 Tony
+     12 Scarborough
+     12 Sam Gamble
+     12 Randy
+     12 Nathan
+     12 Mike Carr
+     12 Michael Oddy
+     12 Mary Ann
+     12 Marnie
+     12 Lynne Champoux-Williams
+     12 Keswick
+     12 Georgina Wilcock
+     12 Frances
+     12 Dwayne
+     12 Clinton
+     12 Cameron Wigmore
+     12 Brian Timlick
+     12 Blake
+     11 Sharon
+     11 Nanaimo-Alberni
+     11 Mike Jones
+     11 Margaret Atwood
+     11 Lester B. Pearson
+     11 Kate Storey
+     11 Janine
+     11 Jack
+     11 Derek Blain
+     11 Dawson
+     11 Clark
+     11 Casey
+     11 Adrianne Carr
+     10 Yonnel
+     10 Walker
+     10 Tom McMillan
+     10 Stéphane Dion
+     10 Rosamond Luke
+     10 Rebecca
+     10 Philippe Larochelle
+     10 Nyssa
+     10 Noreen
+     10 Mary Lou
+     10 Mark Roseman
+     10 Mark Pajot
+     10 Marc Jaccard
+     10 Manoussi
+     10 Lou Carcasole
+     10 Lorraine
+     10 Lori
+     10 Leonard
+     10 Juan de Fuca
+     10 Jessica Gal
+     10 Ingrid
+     10 Huguette
+     10 Grohmann
+     10 Glenda Whiteman
+     10 Georgina
+     10 Farley Mowat
+     10 Emily
+     10 Ellen
+     10 Dufort
+     10 David Parker
+     10 David Dolson
+     10 Craig Ketchum
+     10 Collin
+     10 Claude Genest
+     10 Charles Caccia
+     10 Brian Mulroney
+     10 Baldasaro
+     10 Ard
+     10 Alina Abbott
+      9 Wendy
+      9 Victoria Cate
+      9 Stephen LaFrenie
+      9 Ryan
+      9 Ralph Torrie
+      9 Rajendra Pachauri
+      9 Paul Shreenan
+      9 North
+      9 Mike Fornssler
+      9 Marshall
+      9 Le Parti Vert
+      9 Lawrence
+      9 Larry
+      9 Jonathan David
+      9 John Northey
+      9 John Livingstone
+      9 Jim McDonald
+      9 Jeux
+      9 Jean
+      9 Janet Eaton
+      9 Greenstock
+      9 Edward Island
+      9 Diane Joubert
+      9 David Smith
+      9 Ambrose
+      8 Winston Churchill
+      8 Wilson
+      8 Véronik
+      8 Tucker
+      8 Tristan Desjardins Drouin
+      8 Tristan
+      8 Thomas Berry
+      8 Ryan Young
+      8 Russell
+      8 Roy Romanow
+      8 Robson
+      8 Rob Hines
+      8 Robert Boucher
+      8 Richard Florida
+      8 Prescott
+      8 Peter Ellis
+      8 Patrick
+      8 Pat
+      8 Otto Casanova
+      8 Otto
+      8 Nina
+      8 Moe Berrigan
+      8 M. Morrison
+      8 Mike Gildersleeve
+      8 Martin Luther King Jr.
+      8 Lumsden
+      8 Louis Drainville
+      8 Lisa
+      8 Len Sawatsky
+      8 Lennox
+      8 Justin Erdman
+      8 John Streicker
+      8 Johnston
+      8 John Ogilvie
+      8 Jessie Klassen
+      8 Jennifer Mooradian
+      8 Jean-Yves Massenet
+      8 Jeanie
+      8 Jean Charest
+      8 Jamie
+      8 James Morrison
+      8 Jack MacDougall
+      8 Howard
+      8 Hilary Crowley
+      8 Hilary
+      8 Grey
+      8 Greg Chatterson
+      8 Glenn
+      8 Ghanem
+      8 François Pilon
+      8 Doug Anderson
+      8 Donna Dillman
+      8 Dave Aylward
+      8 Claude William
+      8 Clarkson Gordon
+      8 Brian Sarwer-Foner
+      8 Brent
+      8 Bowkett
+      8 Biggar
+      8 Bédard
+      8 Barbara
+      8 Baie-James
+      8 Aylmer
+      8 Attila Nagy
+      8 Attila
+      8 André
+      8 Amanda Judd
+      8 Alexandra
+      7 Ville-Marie
+      7 Vere Scott
+      7 Trey
+      7 Tony Clement
+      7 Tom Ryan
+      7 Tommy Chong
+      7 Ted Warren
+      7 Richard Taylor
+      7 Port Kells
+      7 Pickering
+      7 Obama
+      7 Mordecai Vanunu
+      7 Michael Campbell
+      7 Marc Garneau
+      7 Lynne Champoux
+      7 Lynne
+      7 Lovelock
+      7 Lougheed
+      7 Kelly John Christie
+      7 John Howard
+      7 John A. Macdonald
+      7 Jean Yves Massenet
+      7 Jane
+      7 James
+      7 Jake Cole
+      7 H.L. Mencken Login
+      7 Hitler
+      7 Greg
+      7 Gordon McBean
+      7 Gary
+      7 Flaherty
+      7 Duceppe
+      7 Donald Fletcher
+      7 Daryl Vernon
+      7 Claude Sabourin
+      7 Brossard
+      7 Brandon Kidd
+      7 Angela Reid
+      7 Aden Murphy
+      6 Wade
+      6 Vere
+      6 Tyrell
+      6 Trudy Watts
+      6 Tobi-Dawne
+      6 Thomas Homer Dixon
+      6 Sylvie
+      6 Stephen Brotherston
+      6 Stefan Dixon
+      6 Sonia Ziadé
+      6 Sam Turton
+      6 Saara
+      6 Ryan Watson
+      6 Rupert
+      6 Romeo Dallaire
+      6 Rod Brindamour
+      6 Richard Pietro
+      6 Richard Laushway
+      6 Richard Bachynsky
+      6 Ram
+      6 Pierre Pettigrew
+      6 Philip
+      6 Peter Mackay
+      6 Paul Martin
+      6 Paul Heinbecker
+      6 Pat Martin
+      6 O'Neail
+      6 Olivier Adam
+      6 Nyssa McLeod
+      6 Nora
+      6 Noel
+      6 Nagy
+      6 Mulroney
+      6 M. Rancourt
+      6 Monica
+      6 M. Fournier
+      6 Martin Drapeau
+      6 Marnie Mellish
+      6 Mark MacGillivray
+      6 Maher Arar
+      6 Lynette Tremblay
+      6 Lunney
+      6 Luke MacMichael
+      6 Lui
+      6 Liz Walker
+      6 Lise Bissonette
+      6 Lisa Fox
+      6 Les Parsons
+      6 Leger
+      6 Larry Verner
+      6 Lambton
+      6 Labelle
+      6 Kübler Ross
+      6 Kristina Vitelli
+      6 Kent
+      6 Kate Story
+      6 Karzai
+      6 John Abbott
+      6 Joe Foster
+      6 Jim Elve
+      6 Jeanie Warnock
+      6 Jason Becevello
+      6 Jason
+      6 Jared McCollum
+      6 James Bay
+      6 Ingrid Hein
+      6 Huguette Allen
+      6 Howard Pasternack
+      6 Howard Beale
+      6 Heinbecker
+      6 Grice
+      6 Grenville
+      6 Grace
+      6 Glenn Hubbers
+      6 Glen Hodgson
+      6 Gaëtan Bérard
+      6 Fournier
+      6 Eric Madelein
+      6 Emma Daughton
+      6 Ed Tatuch
+      6 Easton
+      6 Doug Roche
+      6 Doug Perry
+      6 Douglas
+      6 Don Drummond
+      6 Dick Hibma
+      6 David Allan Hrushka
+      6 Daniel
+      6 Dan Bouchard
+      6 Constantine Kri
+      6 Christina
+      6 Chrétien
+      6 Charlie
+      6 Chantal Hébert
+      6 Carleton
+      6 Brian Newbold
+      6 Ben Hoffman
+      6 Bagot
+      6 Asie
+      6 Annie
+      6 Anita Roddick
+      6 Angela
+      6 André Sylvestre
+      6 Andre Papadimitriou
+      5 Witoelar
+      5 Shavluk
+      5 Sharon Labchuk
+      5 Scott Harrison
+      5 Saint-Hubert
+      5 Roche
+      5 Robert McCleave
+      5 Qais Ghanem
+      5 Nick Wright
+      5 Nick Capra
+      5 Monika Schaefer
+      5 Michael Phair
+      5 Megan Dietrich
+      5 Maureen Murphy
+      5 Martin Luther King
+      5 Mark Twain
+      5 Mark Jaccard
+      5 Markham
+      5 Loyola Hearn
+      5 le Danemark
+      5 Kenn Chaplin
+      5 Katimavik
+      5 Judy
+      5 Jim Flaherty
+      5 Jessie Margaret
+      5 Jean Guernon
+      5 Jaymini
+      5 Jason MacDonald
+      5 Holly Dressel
+      5 H.L. Mencken Vous
+      5 Harris
+      5 George Monbiot
+      5 Gary Lunn
+      5 Garth Turner
+      5 Garneau
+      5 Gareth Davies
+      5 Evan Bedford
+      5 Erik Millett
+      5 Elizabeth Speak
+      5 Elizabeth Berman
+      5 Dwayne MacEachern
+      5 Diana Nunes
+      5 David Miller
+      5 David Dolson Waterloo
+      5 Dave Coles
+      5 Dave Barnes
+      5 Dan Kashagama
+      5 Daniel Yeulett
+      5 Craig Kielburger
+      5 Craig Cantin
+      5 Cole
+      5 Catharine Johannson
+      5 Brian Keating
+      5 Becky Smit
+      5 Barrie
+      5 Ariane Blais
+      4 Zoran Markovski Bramalea
+      4 Zoran Markovski
+      4 Zena
+      4 Yukon
+      4 Yonnel Bonaventure Repentigny
+      4 Yollande
+      4 Wendy Walker
+      4 Wayne Scott Don
+      4 Walter
+      4 Vincent Larochelle Saint-Bruno
+      4 Vieux Montréal
+      4 Véronik Sansoucy
+      4 U. McGill
+      4 Tyson Kellermann
+      4 Tyrell Alexander Notre-Dame-de-Grâce
+      4 Trudeau
+      4 Trevor James Mc
+      4 Townsend
+      4 Thrall
+      4 Thomas Suluk
+      4 Thomas Hauk
+      4 Thomas Cromwell
+      4 Téléchargez
+      4 Sylvie Lemieux Bruce
+      4 Suzanne
+      4 Susan
+      4 St. Paul MB Kevan Bowkett
+      4 Story
+      4 Stone
+      4 St. Margaret
+      4 Steven Lewis
+      4 Steve May
+      4 Steve
+      4 Stern
+      4 Stephen Leacock Theater Keswick
+      4 Stephen LaFrenie Vaughan
+      4 Stephen Brotherston Huron
+      4 Stephan Harper
+      4 Stephana Johnston Haliburton
+      4 Stephana Johnston
+      4 Simon Fraser
+      4 Simon Bernier Saint-Hyacinthe
+      4 Simcoe
+      4 Sid
+      4 Shirley Picknell Louis-Hébert
+      4 Shirley Picknell
+      4 Shirley
+      4 Shelley
+      4 Shawn Willick Niagara West
+      4 Shawn Willick
+      4 Shawn
+      4 Scott Cosman Carleton
+      4 Scott Agnew
+      4 Sandy Bay
+      4 Sam Sullivan
+      4 Salaberry
+      4 Saint-Lambert
+      4 Sainte-Marie
+      4 Saint-Constant
+      4 Saddam Hussein
+      4 Russ Aegard
+      4 Rosemary Frei
+      4 Rosemary
+      4 Rod
+      4 Rob Rishchynski Parry
+      4 Robin Orr
+      4 Robert Frost
+      4 Rick Simpson
+      4 Rene Piché Roberval
+      4 Réginald Gagnon Gaspésie
+      4 Rebecca Ridlington
+      4 Rebecca Laplante Richmond
+      4 Ram Myers
+      4 Ralph Nader
+      4 Pierre Tremblay Saint-Lambert
+      4 Pierre Tremblay
+      4 Pierre Cloutier
+      4 Pierre Brassard Brossard
+      4 Pierre Brassard
+      4 Pierre-Boucher
+      4 Petra
+      4 Peter Ormond Barrie ON Erich
+      4 Pearson
+      4 Paul W. Fournier
+      4 Paul Fournier Bas-Richelieu
+      4 Patti Chmelyk Brant
+      4 Patrick Rancourt Outremont
+      4 Pat Gostlin
+      4 Paikin
+      4 Olivier Adam Charlesbourg
+      4 Nubody
+      4 Nova Scotia
+      4 Nord
+      4 Nora Fueten
+      4 Nigel Barriffe Glengarry
+      4 Nicole
+      4 Nicolas Stulberg
+      4 Nicolas Bérard-Nault
+      4 Neville Chamberlain
+      4 Nathan Weatherdon Québec
+      4 M. Yonnel Bonaventure
+      4 M. Wilson
+      4 Munsey Westlock
+      4 M.P. Blair Wilson
+      4 Moses Coady
+      4 Monsieur Corde
+      4 M. MacKay
+      4 M. Jacques Rigal
+      4 Mike Nagy Haldimand
+      4 Mike Duffy
+      4 Michel Paulette Mont-Royal
+      4 Michel Gagné
+      4 Michael Wolfe
+      4 Michael Paskewitz
+      4 Michael Milligan
+      4 M. Fryer
+      4 McMaster
+      4 McCarthy
+      4 McCain
+      4 M. Babinec
+      4 Matthew Smith
+      4 Matthew Klippenstein
+      4 Matthew
+      4 Marylouise Babineau
+      4 Mark Townsend
+      4 Mark Milke
+      4 Mark Emery
+      4 mari
+      4 Marc Payette Selkirk
+      4 M. Adam
+      4 Luke Macmichael Scarborough
+      4 Luke
+      4 Linda
+      4 Lilianna
+      4 L. Hunter Lovins
+      4 Lesley Gore
+      4 Le Pati Vert
+      4 Leonilo G.T. Flor
+      4 Leonard Aitken Lambton
+      4 Lefebvre
+      4 Lawrence ON Andrew James Elgin
+      4 Laurie Arron
+      4 Laura Bisaillon
+      4 Lambton ON Alan McKeown Sault Ste. Marie
+      4 Kristina Vitelli Laurentides
+      4 Kofi Annan
+      4 Karen Garrison
+      4 Kaity Kettenbach
+      4 Kaitlin Wainwright St. John
+      4 Justin
+      4 Julien Leblanc Gatineau
+      4 Jr.
+      4 Jo Jo Holiday Kingston
+      4 Jo Jo
+      4 John NB Michael Richardson Tobique
+      4 John Cowling Peterborough
+      4 John Bithell Kitchener
+      4 John Bithell
+      4 Jocelyn Tremblay Rosemont
+      4 Jen Hunter
+      4 Jen Antony
+      4 Jeffrey Simpson
+      4 Jean-Yves Massenet Verchères
+      4 Jean-Yves
+      4 Jean-Pierre Ducasse Saskatoon
+      4 Jean Guernon Montcalm
+      4 Jean Cloutier Manicouagan
+      4 Jason Merling
+      4 Jared Giesbrecht
+      4 Japon
+      4 Janine Gibson Saint Boniface
+      4 Jamie Kropf Kitchener
+      4 Jamie Kropf
+      4 James Morisson Rivière-des-Mille-Îles
+      4 James Lunney
+      4 James Lovelock
+      4 Jacques Tétreault Saint-Jean
+      4 Jacques Rigal Laurier
+      4 Jacques Legros Châteauguay
+      4 Jacques Gélineau Marc-Aurèle-Fortin
+      4 Jacques
+      4 Jacoby-Hawkins
+      4 Jacob
+      4 Jack Layton de renier
+      4 Ingrid Hein Pierrefonds
+      4 Imre Pallagi Desnethé
+      4 Hurricane Juan
+      4 Howard Story
+      4 Hondo Arendt
+      4 Holland
+      4 Hodgson
+      4 Herbert
+      4 Hastings
+      4 Harry Swain
+      4 Gwynn Berry
+      4 Gro Harlem Brundtland
+      4 Greens
+      4 Gordon Ritchie
+      4 Golder
+      4 George Read
+      4 Gary Caldwell Drummond
+      4 Gary CALDWELL
+      4 Gandhi
+      4 Gaetan Bérard Hull
+      4 Fred Twilley
+      4 Frederick Street
+      4 Frederic
+      4 Frank Monteleone
+      4 Frank De Jong
+      4 François Pilon Papineau
+      4 François Fillion Rimouski-Neigette
+      4 Francois Boucher Brome
+      4 François Bédard Montmorency
+      4 Frances Coates
+      4 Foster
+      4 Fort Simpson
+      4 Fort McPherson
+      4 Flora MacDonald
+      4 Farley
+      4 Evan Hardy
+      4 Ethan
+      4 Eric Madelein Laval
+      4 Eric Donovan
+      4 Emily Berrigan Pickering
+      4 Ellen Michelson
+      4 Ella Ng
+      4 Elizabeth Start
+      4 Elizabeth E. May
+      4 E.F. Schumacher
+      4 Dylan Marando St. Catharines ON Jim Fannon St. Paul
+      4 d'un PEDEN
+      4 Doug Warkentin
+      4 Dorothy
+      4 Donovan Cavers
+      4 Diane Joubert Saint-Léonard
+      4 Derek Andrews
+      4 Denis Lefebvre Bourassa
+      4 Dene
+      4 Dean Carnduff
+      4 David Rawnsley
+      4 David Lewis
+      4 David Inglis Hochelaga
+      4 David Inglis
+      4 David Boyd
+      4 David Blair Surrey North
+      4 Dave Finlay Brampton West
+      4 Dave Finlay
+      4 Dave Barnes Charleswood
+      4 Darryl
+      4 Danielle Moreau Lotbinière
+      4 Daniel Green
+      4 Dan Gardner
+      4 Danforth
+      4 Csaba Gulyas
+      4 Claude Gaumond Rivière-du-Nord
+      4 Claude Gaumond
+      4 Christopher Hrynkow Kildonan
+      4 Christopher
+      4 Cheam
+      4 Charlie Howatt Provencher
+      4 Charles Gordon
+      4 Cathy MacLellan Lanark
+      4 Catharine
+      4 Camille
+      4 Cameron Wigmore Nanaimo
+      4 Cameron
+      4 Caledon ON Ard Van Leeuwen Eglinton
+      4 Caldwell
+      4 Bruno Côté Ahuntsic
+      4 Bruno Côté
+      4 Bruce ON Glen Smith
+      4 Brian Timlick Churchill MB Saara Harvie Dauphin
+      4 Brian Gordon Fleetwood
+      4 Brent Neil Lévis
+      4 Brent Bouteiller Whitby
+      4 Brendan MacNeill Sackville
+      4 Brendan Hughes Timmins
+      4 Bottero
+      4 Bob Deptuck Wascana SK George Wooldridge Yorkton
+      4 Bob Deptuck
+      4 Bobby Kennedy Jr.
+      4 Blainville
+      4 Bishop
+      4 Bill McKibben
+      4 Bill Clary Palliser SK Larissa Shasko
+      4 Bill Clary
+      4 Bill C-26
+      4 Betancourt
+      4 Bernard
+      4 Ben Hoffman Richmond Hill
+      4 Aylward
+      4 Ariel Lade
+      4 Ard Van Leeuwen
+      4 Arcand
+      4 Ann
+      4 Angela Reid Kootenay
+      4 Andy
+      4 Andrew Lewis Skeena
+      4 André Sylvestre Portneuf
+      4 Andree Crepeau
+      4 Amory B. Lovins
+      4 Allan D Cuaresma
+      4 Alison Ménard
+      4 Albert SK Amanda Smytaniuk Regina
+      4 Alan
+      4 Agassi
+      4 Adrian Visentin
+      4 Adrian Molder Scarborough
+      4 Adrian de Jong
+      4 Accueil Elizabeth May
+      3 Yvo de Boer
+      3 Yvette
+      3 Winston Churchill Back
+      3 Wayne Clements
+      3 Wainwright
+      3 Vincent
+      3 Victoria
+      3 Véronik Sansoucy Joliette QC Annie Durette Lac-Saint-Louis
+      3 Verdes
+      3 Trevor James McMullen
+      3 Tournez
+      3 Torrie
+      3 Susan Delacourt
+      3 Stuart Hill
+      3 Stephan Dion
+      3 Stephan Bureau
+      3 Stelly
+      3 Stan
+      3 Sonia
+      3 Shakespeare
+      3 Serge Mongeau
+      3 Sarah Simpson
+      3 Ronald
+      3 Rob Brooks
+      3 Rita
+      3 Richard Belshaw
+      3 Rex Weyler
+      3 Rex Murphy
+      3 Ralph Klein
+      3 Pierre Trudeau
+      3 Phil Jessup
+      3 Philippe
+      3 Peter McKay
+      3 Peter Mansbridge
+      3 Pauline
+      3 Paul George
+      3 Paula Boutis
+      3 Orchard
+      3 Oraclepoll
+      3 Omar Khadr
+      3 Naylor
+      3 Murray Gudmundson
+      3 Mont Bélair
+      3 Mikhail Gorbachev
+      3 Mike Sherrard
+      3 Mike Nickerson
+      3 Michelle Jamieson
+      3 Michel Champagne
+      3 Michael Snow
+      3 M. Cloutier
+      3 McCleave
+      3 Maurice Strong
+      3 Maude Barlow
+      3 Mary Hegan
+      3 Martin
+      3 Maisonneuve
+      3 Macdonald
+      3 Lori Gadzala
+      3 Lisez
+      3 le Japon
+      3 le Brésil
+      3 Le blog de Jim Harris
+      3 Landon Pearson
+      3 Lake Yellowhead
+      3 Killam
+      3 Kells
+      3 Kathleen E.
+      3 Julia Langer
+      3 Judith Sayer
+      3 Josée Verner
+      3 John M. R. Stone
+      3 John Godfrey
+      3 John Fraser
+      3 John Eyler
+      3 John Esposito
+      3 Jimmy Carter
+      3 Jim MacNeill
+      3 Jim Login
+      3 Jim Bruce
+      3 Jesus Christ
+      3 Jesus
+      3 Jeff Bryce
+      3 Jeanette Dietrich
+      3 Jay Fitzsimmons Ottawa Centre
+      3 Jay Fitzsimmons
+      3 Janet Cardiff
+      3 Jane Taber
+      3 Janet
+      3 James Hansen
+      3 Jag Maini
+      3 Jacques Legros
+      3 Ipsos Reid
+      3 Howard Ferguson
+      3 Howard Dean
+      3 Hinton
+      3 Hillier
+      3 Hier
+      3 Hervé Jodoin
+      3 Henry David Thoreau
+      3 Harry Garfinkle
+      3 Harris Decima
+      3 Harpercon
+      3 HARPER
+      3 Guidé
+      3 Greg Morrow
+      3 Godfrey
+      3 Ghandi
+      3 George W. Bush
+      3 Genest
+      3 Garth
+      3 Gareth Davies Nanaimo-Alberni
+      3 Fraser
+      3 Eugene McCarthy
+      3 E. Kaye Fulton
+      3 Einstein
+      3 Edward Ing
+      3 Edward-Hastings
+      3 Ed Moore
+      3 Du Vallon
+      3 Douglas Neil
+      3 Derek
+      3 Debra Eindiguer
+      3 David MacDonald
+      3 David Drake
+      3 David Ben Mark
+      3 Dave Hart Dyke
+      3 Darcy Higgins Login
+      3 Darcy Higgins
+      3 Dan O'Neail
+      3 Cynthia McKinney
+      3 Colleen McCrory
+      3 Cochrane
+      3 Christiane Charrette
+      3 Chantal Hebert
+      3 Cathy Mott
+      3 Brent Neil
+      3 Brenda Roth
+      3 Bob Rae
+      3 Bill C
+      3 Betty Nickerson
+      3 Bertrand Russell
+      3 Berthier
+      3 Becky Smit Ontario Organizer
+      3 Barbara Odenwald
+      3 Barack Obama
+      3 Bachelier
+      3 Arif
+      3 Anne Murray
+      3 Andy Morel
+      3 Andrew Simms
+      3 Andrew Coyne
+      3 Andre Papadimitriou York West
+      3 Allan McKeown
+      3 Allan J. MacEachern
+      3 Algonquin
+      3 Ahmad
+      3 Adam
+      2 Zygmaunt Bauman
+      2 Yorkton
+      2 Yoko
+      2 Woodbridge
+      2 Wolfe
+      2 Willy Nelson
+      2 William Lyon MacKenzie King
+      2 Wildsite
+      2 WildRose
+      2 Wigmore
+      2 Weston Andre Papadimitriou
+      2 Westdale Peter Ormond
+      2 Wendy C. Hamblet
+      2 Waverly Ouest
+      2 Waterloo Cathy MacLellan
+      2 Warren Layton
+      2 Warren
+      2 Ward
+      2 Wanuskewin Tobi-Dawne Smith
+      2 Walter Tucker
+      2 Wainwright Will Munsey
+      2 Wade Davis
+      2 Vincent Larochelle
+      2 Ville-Marie Claude William Genest
+      2 Ville de Kensington
+      2 Victor Lau
+      2 Victoria Serda
+      2 Victoria Collin Harker
+      2 Victoria Adam Saab
+      2 Victor Hugo Nous
+      2 Vianney
+      2 Veronica Furney
+      2 Vaughan Adrian Visentin
+      2 Vanier Akbar Manoussi
+      2 Vancouver
+      2 Val David
+      2 University Glen
+      2 Université de Carleton
+      2 Turei
+      2 Trey Capnerhurst Green
+      2 Trevor Hancock
+      2 Trepassey
+      2 Transcona Christopher Hrynkow
+      2 TONY BLAIS
+      2 Tom Tittel
+      2 Tommy Douglas
+      2 Tom Forcade
+      2 Tom
+      2 Todd Smith
+      2 Tobin
+      2 Tobi-Dawne Smith
+      2 Tim Mak
+      2 Tim Holland
+      2 Thornhill Norbert Koehl
+      2 Thomas J. Henley
+      2 Thomas
+      2 Theodore Tadeson
+      2 Teresa Healy
+      2 Tecumseh Kyle Prestanski
+      2 Tecumseh
+      2 Taxman
+      2 Tamara
+      2 Tai Chi
+      2 Sylverman
+      2 Suzuki
+      2 Sudbury Gordon Harris
+      2 Strezos
+      2 Streetsville
+      2 St. Peter
+      2 St. Paul Kevan Bowkett
+      2 St. Paul Aden Murphy
+      2 Steve Paikin Vous
+      2 Stevenson
+      2 Steven Philip Meyer
+      2 Steven Harper
+      2 Steve May Login
+      2 Steve Kubby
+      2 Steve Kisby
+      2 Steve Gillespie
+      2 Stephen Lewis
+      2 Stephen Leahy Davenport
+      2 Stephen Leahy
+      2 Stephen Easton
+      2 Stephanie Ashle
+      2 Stephanie
+      2 Stéphane Bordeleau
+      2 Stepehen Harper
+      2 Steinbach
+      2 Stefan Dixon Simcoe
+      2 Ste Agathe
+      2 St. Albert Peter Johnston
+      2 Spretnak
+      2 Spadina Stephen LaFrenie
+      2 Sophia Male
+      2 Smithers
+      2 Sinclair
+      2 Simplifieront
+      2 Simcoe North Valerie Powell
+      2 Simcoe John Dewar
+      2 Silver
+      2 Silas
+      2 Sienna
+      2 Sid Frere
+      2 Shuswap Huguette Allen
+      2 Sherwood Park Nina Erfani
+      2 Sheila Richardson
+      2 Shaw
+      2 Shaun Perceval-Maxwell
+      2 Sharon Howarth
+      2 Sharon Goodwin
+      2 Shark
+      2 Selon Vincent
+      2 Sean Holman
+      2 Sean
+      2 Scott Vaughan
+      2 Scott Paper
+      2 Scott Brison
+      2 Schwinghammer
+      2 Schulz
+      2 Saskatoon-Regina
+      2 Saskatoon-Humboldt
+      2 Sarwer-Foner
+      2 Sarah Margolius
+      2 SARA
+      2 Sandra Green
+      2 Salaberry David Smith
+      2 Saint-Michel Frank Monteleone
+      2 Saint-Jean Pierre Tremblay
+      2 Saint-Hubert Simon Bernier
+      2 Sainte-Marie Dylan
+      2 Sainte-Catherine
+      2 Saint-Constant Brian Sarwer-Foner
+      2 Sackville
+      2 Sacha Bond
+      2 Saara Harvie
+      2 Russell Sylvie Lemieux
+      2 Rupert Sheldrake
+      2 Rosetown
+      2 Ron Paul
+      2 Ron Mills
+      2 Ronald Wright
+      2 Romanow
+      2 Roger
+      2 Rob Sinclair
+      2 Rob Rishchynski
+      2 Robert Sylverman
+      2 Robert O'Connor
+      2 Robby
+      2 Rob
+      2 Rick Salutin
+      2 Rick Hillier
+      2 Rick Goldring
+      2 Richmond Michael Wolfe
+      2 Richmond Hill Dylan Marando
+      2 Richelieu Yamaska
+      2 Richard Voigt
+      2 Richard Foot
+      2 Richard Bandler
+      2 Restigouche André Arpin
+      2 Renseignez
+      2 Rena
+      2 Rekmans
+      2 Reckitt Benkiser
+      2 Rebecca Ridlington Malpeque PE Peter Bevan-Baker
+      2 Rebecca Ridlington Malpeque
+      2 Rebecca Laplante
+      2 Ray Anderson
+      2 Raquel
+      2 Raphael
+      2 Ransom Myers
+      2 Ralph Moore
+      2 Raffinerie Jean-Gaulin à St-Romuald
+      2 Québec Hervé Jodoin
+      2 Putin
+      2 Provencher Janine Gibson
+      2 Powell
+      2 Polytechnique
+      2 Pire
+      2 Pietro
+      2 Pierrette Champoux
+      2 Pierre n’en
+      2 Pierre Marc Johnson
+      2 Pierre Claude Nolin
+      2 Pierre-Boucher Danielle Moreau
+      2 Pierre Audette
+      2 Pickering Mike Harilaid
+      2 Pete Seeger
+      2 Peter Riggs
+      2 Peter Reuter
+      2 Peter Ormond
+      2 Peter Munk
+      2 Peter Kent
+      2 Peter Johnston
+      2 Peter Ellis Simcoe North
+      2 Peter Boushy
+      2 Peterborough Emily Berrigan
+      2 Peter Berry
+      2 Perth-Wellington
+      2 Pembroke Ben Hoffman
+      2 Paul Simon
+      2 Paul Revere
+      2 Paul O'Neil
+      2 Paul Login
+      2 Paul Herbert
+      2 Paul Fournier
+      2 Patti Chmelyk
+      2 Pat Mooney
+      2 Participez
+      2 Paradis
+      2 Papineau Ingrid Hein
+      2 Owen Sound Dick Hibma
+      2 Owen Barfield
+      2 Ottewell
+      2 Oscapella
+      2 Orléans Paul Maillet
+      2 Organisez
+      2 Oliver Mowat
+      2 Oka
+      2 N.S.
+      2 Nova Scot
+      2 Nova Sco
+      2 Nova Elizabeth May
+      2 Norman Doyle
+      2 Norman
+      2 Norfolk Stephana Johnston
+      2 Noreen Hartlen
+      2 Norbert Kratchmer Blackstrap
+      2 Norbert Kratchmer
+      2 Norbert Koehl
+      2 Nora Clemons Fueten
+      2 Noel Burgon
+      2 Noël
+      2 Nisansala
+      2 Nina Erfani
+      2 Nicolas Rochette
+      2 Nicolas
+      2 Nick Capra Brandon
+      2 Nelson Mandela
+      2 Nellie Carlson
+      2 Neilson
+      2 Neil McGregor
+      2 Nazereth
+      2 Naviguez
+      2 Nathan Weatherdon
+      2 Nathan Cullen
+      2 Nathan Coates
+      2 Nackawic
+      2 Myers
+      2 Muskoka Glen Hodgson
+      2 Museveni
+      2 M. Trevor Hancock
+      2 Ms Turei
+      2 M. Sarwer-Foner
+      2 M. Roche
+      2 Mr Harris
+      2 Mother Teresa
+      2 MORDECAI VANUNU
+      2 Moose Jaw
+      2 Monty Ahmad
+      2 Montréal
+      2 Montcalm Michel Paulette
+      2 Monsieur Bérard
+      2 Monica Jarabek
+      2 Moncton Eric Millett
+      2 Mollie Fisher
+      2 M. Mike Baninec
+      2 M. Maillet
+      2 M. Layton
+      2 Missisquoi Pierre Brassard
+      2 Miramichi Todd Smith
+      2 Mirabel Pierre Audette
+      2 Miller
+      2 Mike Holmes
+      2 Mike Harris
+      2 Mike Harilaid
+      2 Mike Feinstein
+      2 Mike Duffy Live
+      2 Mike Bradley
+      2 Mika
+      2 Middlesex Jim Johnston
+      2 Michel Williams
+      2 Michelle Aubin
+      2 Michel
+      2 Michael Richardson
+      2 Michael Munday
+      2 Michael Moreau
+      2 Michael Grayson
+      2 Michael-Gerard
+      2 Michael Coren
+      2 Michael Braungart
+      2 Michael Bond
+      2 Michael Bell
+      2 Michael Baldasaro
+      2 Metis
+      2 Metiria Turei
+      2 Messager
+      2 Mercer
+      2 Melville Jen Antony
+      2 Melanie Ransom
+      2 Megan Peters
+      2 McLaren
+      2 Mckay
+      2 McIntyre Street Regina
+      2 McCollum
+      2 McBride
+      2 M. Blair Wilson
+      2 Maxime Bernier
+      2 Matt Stevens
+      2 Matthew Laine
+      2 Maskinongé Denis Lefebvre
+      2 Mary Lou Babineau
+      2 Mary Deveaux
+      2 Martine Bédard Vous
+      2 Marshall Smith
+      2 M. Arpin
+      2 Marni
+      2 Marlin
+      2 Marlene
+      2 Markham Richard Taylor
+      2 Marketwire
+      2 Marion Graham Collegiate
+      2 Marie Martine Bédard Vous
+      2 Marie Luke Macmichael
+      2 Maria
+      2 Margaret Chandler
+      2 Margaret Beckett
+      2 Marc Payette
+      2 Marc Jacccard
+      2 Marcha
+      2 Marcel Massé
+      2 Manicouagan Jacques Gélineau
+      2 Malton Mark Pajot
+      2 Makin Ahmad
+      2 Maillet
+      2 Mahatma Gandhi
+      2 Madelynne
+      2 Maclean
+      2 Mackay
+      2 MacEachern
+      2 Lyndon Johnson
+      2 Lyle E. Craker
+      2 Lutfun Ahmad
+      2 Lumby
+      2 Luke Macmichael
+      2 Lucy Petruccelli
+      2 Luc Côté
+      2 Lou Strezos
+      2 Louis Bertrand
+      2 Lord Roberts
+      2 Lloydminster Norbert Kratchmer
+      2 Liz
+      2 Lisgar Charlie Howatt
+      2 Lise
+      2 Lisa Maria Fox
+      2 Linette
+      2 Lindsay
+      2 Linda Keen
+      2 Libby Davies
+      2 Lewis Landscapes
+      2 le Tchad
+      2 Les Patriotes Annie Morel
+      2 Leslie Main Johnson
+      2 Les Haidas
+      2 Les Créateurs Associés de Val David
+      2 Les Basques James Morisson
+      2 Les Ami
+      2 Le Québec
+      2 Leonard Cohen
+      2 Leonard Aitken
+      2 Leo McKay
+      2 Leo
+      2 Le Nord
+      2 Le Fjord Jean-François Veilleux
+      2 Leeds-Grenville
+      2 Leduc Valerie Kennedy
+      2 Leduc
+      2 Le Devoir
+      2 LeDain
+      2 Le Bercail
+      2 Le Babillard
+      2 Lawrence Andrew James
+      2 Laurier Woods
+      2 Laurie Arron Trinity Spadina
+      2 Laurel Broten
+      2 LARRY CAMPBELL
+      2 Larissa Shasko
+      2 Lara
+      2 La Petite-Patrie Vincent Larochelle
+      2 Langley Patrick Meyer
+      2 Lamont
+      2 Lambton Alan McKeown
+      2 Lambert
+      2 Lakeshore David Corail
+      2 L'affaire Grohmann Knives Elizabeth May
+      2 Lac-Saint-Jean Jocelyn Tremblay
+      2 Lachine Jessica Gal
+      2 Labrador Nyssa McLeod
+      2 Labelle Jacques Rigal
+      2 Kyle Prestanski
+      2 Kyle Grice
+      2 Kyle
+      2 Kristy
+      2 Klein
+      2 Kirby
+      2 Kevin Shaw
+      2 Kevin Marwick
+      2 Kevin Dodd
+      2 Kevin Dale Dodd
+      2 Kevin Booth
+      2 Kevan Bowkett
+      2 Ketchums
+      2 Kenora Jo Jo
+      2 Keltie
+      2 Kelly Christie
+      2 Kells Brian Newbold
+      2 Keith Stroup
+      2 Katie Gibbs
+      2 Katherine
+      2 Karl Hengst
+      2 Karen Durant
+      2 Karen Brown
+      2 Kaitlin Wainwright
+      2 Kaela
+      2 Justine McCabe
+      2 Junior Hockey
+      2 Julie Stewart
+      2 Julien Leblanc
+      2 Julien
+      2 Julia Willebrand
+      2 Juan de Fuca Straits
+      2 Juan de Fuca Straight
+      2 Juan de Fuca Brian Gordon
+      2 Jovite
+      2 Joshua
+      2 Josh Gilbert
+      2 Jose Ramos-Horta
+      2 Joseph Howe
+      2 Joseph G. Foster
+      2 Joseph Conrad
+      2 Jose Goldemberg
+      2 Jordana
+      2 Jones
+      2 Jonathan Meijer
+      2 Jonathan De Serres
+      2 Joliette Annie Durette
+      2 Jo Jo Holiday
+      2 John Wiley
+      2 John Stone
+      2 John Rocket De La Monte
+      2 John Ralston Saul
+      2 John Ogilvie Login
+      2 John Michael Richardson
+      2 John Mckay
+      2 John McCain
+      2 John Kennedy
+      2 John Grinder
+      2 JOHN FRYER
+      2 John Esposito John Esposito
+      2 John Cowling
+      2 John Cavarzan
+      2 John Becevello
+      2 Johnathon
+      2 Joe Trippi
+      2 Joe Public
+      2 Joel Robitaille
+      2 Joel Parkes
+      2 Joe Jordan
+      2 Jo-Anne
+      2 Joan Mcknight
+      2 Jim Fannon
+      2 Jim Benbaruj
+      2 Jeunes
+      2 Jessica
+      2 Jennifer Villebrun
+      2 Jennifer Hlusko
+      2 Jennie
+      2 Jeff Allen
+      2 Jean Paul
+      2 Jean-François Veilleux
+      2 Jean-Francois Pinel
+      2 Jean Chretien
+      2 J. Daniel O'Neail
+      2 Jaymini Bhikha
+      2 Jasmine
+      2 Jarvis
+      2 Jared
+      2 Janssen
+      2 Jane Thrall
+      2 Jamie MacIntyre
+      2 James Tobin
+      2 James Soumis
+      2 James Howard Kunstler
+      2 James Hanson
+      2 James Brooks
+      2 James Bay Larry Verner
+      2 Jake
+      2 Jacques Rigal
+      2 Jacques-Cartier Nathan Weatherdon
+      2 Jackson
+      2 Iva
+      2 Isabelle Boulay
+      2 Inuit
+      2 Interlake Glenda Whiteman
+      2 Imre Pallagi
+      2 Îles-de-la-Madeleine Julien Leblanc
+      2 Ian Reich
+      2 Ian
+      2 Huron
+      2 Humboldt Jean-Pierre Ducasse
+      2 Huma
+      2 Hugo Chavez
+      2 Hubert Reeves
+      2 Howard Deans
+      2 Horst
+      2 Hochelaga Philippe Larochelle
+      2 Hine
+      2 Hibma
+      2 Herman Daly
+      2 Heo Jeong Sun
+      2 Henry Wilson
+      2 Henry Ford
+      2 Helen Caldicott
+      2 Hedy Fry
+      2 Hazel
+      2 Haute-Côte-Nord Jacques Legros
+      2 Hastings St.
+      2 Hastings Alan Coxwell
+      2 Harvey
+      2 harper
+      2 Harold Henn
+      2 Hants Brendan MacNeill
+      2 Hannah
+      2 Halton Hills Brent Bouteiller
+      2 Halifax Darryl Whetter
+      2 Haliburton
+      2 Guelph Mike Nagy
+      2 Grünen
+      2 Gruenen
+      2 Grove Wendy Walker
+      2 Gricey
+      2 Grey Peter Ellis
+      2 Grenville Jeanie Warnock
+      2 Greg Taylor
+      2 Graham
+      2 Graeme Gibson
+      2 Grace Yogaretnam
+      2 Gordon Street Guelph
+      2 Gordon Harris Thornhill
+      2 Gordon Harris
+      2 Gomery
+      2 Golden Horseshow
+      2 Glen Smith
+      2 Glen Pearson
+      2 Glenda passa
+      2 Gisela
+      2 Gillies
+      2 Gilles
+      2 Giboulées
+      2 Gerry Rekmans
+      2 Gerry Rankin
+      2 Gerry Kirk
+      2 Georgina Wilcock Campaign Team
+      2 Georgina Island
+      2 George Wooldridge
+      2 George Washington
+      2 George Street
+      2 George StPrince George
+      2 George Soros
+      2 George Morin
+      2 George Citizen
+      2 George Bernard Shaw
+      2 George Amber van Drielen
+      2 Gary Wenk
+      2 Gaetan Bérard
+      2 Fred Segal
+      2 Fredericton Mary Lou Babineau
+      2 Frederick Twilley
+      2 Frederick
+      2 Frazer
+      2 Fraser Canyon Barbara LeBeau
+      2 Franklin Graham
+      2 Frank de Jong
+      2 Frank deJong
+      2 François Fillion
+      2 Francois
+      2 Francis Ford Coppola
+      2 Fort McMurray
+      2 Florence Nightengale
+      2 Fleetwood Port-Kells
+      2 Fini
+      2 Finch
+      2 Ficher
+      2 Faucher
+      2 Fanshawe Daniel O'Neail
+      2 Evans
+      2 Evan Hardy Collegiate
+      2 Eugene Oscapella
+      2 Esther Lenkinski
+      2 Essex Alina Abbott
+      2 Ernst von Weizsacker
+      2 Ernst von Weizacker
+      2 Erindale Richard Pietro
+      2 Erindale
+      2 Équiterre
+      2 Enviro Mille-Iles
+      2 Emma Stangl
+      2 Emma Daughton Charlottetown
+      2 Emily Berrigan
+      2 Elle parle Anglais
+      2 Ellen Bittner
+      2 Elle donne
+      2 Ella Ng Scarborough
+      2 Ella
+      2 Elizabeth May Queen
+      2 Elizabeth May Nova-Centre
+      2 Elizabeth May Leader
+      2 Elizabeth May Dartmouth
+      2 Elisabeth Kübler Ross
+      2 Eliminer
+      2 Eisenhower
+      2 Eglinton-Lawrence
+      2 Eglinton
+      2 Eeyou Patrick Rancourt
+      2 Edwidge-de-Clifton
+      2 Ed Bell
+      2 Dylan Richards
+      2 Dylan Perceval-Maxwell
+      2 Dylan Marando
+      2 Durham Stephen Leahy
+      2 Dunlop St. E. Barrie
+      2 Duncan
+      2 Dunbar
+      2 Drummond Réginald Gagnon
+      2 Drew Fenwick
+      2 Dre Georgina Wilcock
+      2 Draper
+      2 Doug Woodard St. Catharines
+      2 Doug Neil Nova Scotia Login
+      2 Douglas Woodard
+      2 Douglas Doug Perry
+      2 Doug Catley
+      2 Don Martin
+      2 Donald
+      2 Dollard Ryan Young
+      2 Dollard
+      2 Doidge
+      2 Doc Willoughby
+      2 Dieppe Alison Ménard
+      2 Dick
+      2 Diana
+      2 Devenez
+      2 Desjardins Drouin
+      2 de Scarborough
+      2 Denyse Bégin
+      2 Denys Arcand
+      2 Denis Lefebvre
+      2 Democratisons
+      2 de M. Layton
+      2 de M. Harper
+      2 de Layton
+      2 de Jasper
+      2 de E. F. Schumacher
+      2 Décima
+      2 Deborah Grey
+      2 de Boer
+      2 Dean
+      2 D. Drouin
+      2 David Steinberg
+      2 David Rawnsley Sudbury
+      2 David Price
+      2 David Letterman
+      2 David G. Lewis
+      2 David Cronenberg
+      2 David Cosby
+      2 David Brower Wow
+      2 David Blair
+      2 Dave Zylstra
+      2 Davenport Wayne Scott
+      2 Dauphin-Swan River-Marquette
+      2 Darryl Whetter
+      2 Dan Yes
+      2 Dans Saint-Lambert
+      2 Dans Brome-Missisquoi
+      2 Dan Leger
+      2 Dan King
+      2 Dan Kellar
+      2 Daniel O'Neail
+      2 Daniel Logan
+      2 Danielle Moreau
+      2 Daniel Grice
+      2 Danforth Sharon Howarth
+      2 dana larsen
+      2 DAN
+      2 Dalton McGuinty
+      2 Dalton McGinty
+      2 Dale
+      2 Cyrus Eaton
+      2 Crohn
+      2 Craig Perkins
+      2 Craig Ketchum Hahahaha
+      2 Craig Bridges
+      2 Cowichan Christina Knighton
+      2 Courtney
+      2 Coquihalla Dan Bouchard
+      2 Coppola
+      2 Constantine Kritsonis Vous
+      2 Constantine Kritsonis Login
+      2 Conservative Lunn
+      2 Conrad Black
+      2 Condoleeza Rice
+      2 Collin Harker
+      2 Colin Powell
+      2 Cole Harbour Paul Shreenan
+      2 Coady
+      2 Claude William Genest Ajax
+      2 Clappison
+      2 Claire Mowat
+      2 Ciara
+      2 Chuck Cadman
+      2 Chrystal Weaver
+      2 Chrystal Meth
+      2 Christine Michell
+      2 Christina Knighton
+      2 Christ
+      2 Chris Hrynkow
+      2 Chris Hooymans
+      2 Chris Hoffman
+      2 Chatterson
+      2 Charlie Howatt
+      2 Charles Stimson
+      2 Charles Garnier School
+      2 Chamberlain
+      2 Cégep John-Abbott
+      2 C.D. Howe
+      2 Catharines Jim Fannon
+      2 Caryn
+      2 Carol
+      2 Carl Sagan
+      2 Carl Jung
+      2 Carl Griffin
+      2 Carleton Lori Gadzala
+      2 Carla
+      2 Capra
+      2 Cantley
+      2 Canso Dwayne MacEachern
+      2 Camille Labchuk
+      2 Cameron Good
+      2 Calvert
+      2 Caledon Ard Van Leeuwen
+      2 Burnaby-New Westminster
+      2 Burlington Marnie Mellish
+      2 Burkina Faso
+      2 Buddha
+      2 Bruce Glen Smith
+      2 Brock Michael Bell
+      2 Brock
+      2 Broccoli
+      2 Brian Walter
+      2 Brian Hurley
+      2 Brian Gordon Candidate
+      2 Brent Bouteiller
+      2 Brendan Hughes
+      2 Brendan Connell MacNeill
+      2 Brant Nora Fueten
+      2 Brad Thomson
+      2 Brackley
+      2 Bourque
+      2 Bourassa Francois Boucher
+      2 Borduas Olivier Adam
+      2 Bonnie
+      2 Boniface Marc Payette
+      2 Bob Dylan
+      2 Blake Poland
+      2 Blainville Martin Drapeau
+      2 Bittner
+      2 Biodiver
+      2 Billy Jack Dout
+      2 Billy Graham
+      2 Bill C-51
+      2 Bill C-30
+      2 Bianca
+      2 Bhatt
+      2 Betty Peterson
+      2 Bernard Littlejohn
+      2 Berges de Lévis
+      2 Ben Franklin
+      2 Bellechasse Lynne
+      2 Bella Abzug
+      2 Bella
+      2 Beckie Scott
+      2 Bécancour Rebecca Laplante
+      2 Beauce Nicolas Rochette
+      2 Bear Sterns
+      2 Bathurst Michelle Aubin
+      2 Barry H. Schneider
+      2 Barrie Erich Jacoby-Hawkins
+      2 Barreau
+      2 Barbara Tuchman
+      2 Barbara Lebeau
+      2 Barbara Brown
+      2 Banff
+      2 Bambang Yudhoyono
+      2 Bagot Jacques Tétreault
+      2 Babinec
+      2 Aurora Glenn Hubbers
+      2 Attila Nagy Scarborough
+      2 A.T. Kearney
+      2 Athabasca Dylan Richards
+      2 Associés de Val David
+      2 Asperger
+      2 Arnis
+      2 Arar
+      2 Arab Canadians
+      2 Antonio Gramsci
+      2 Ann Suter
+      2 Annie Durette
+      2 Anne Wilson Schaef
+      2 Anne McLellan
+      2 Anne
+      2 A.N. Myer
+      2 Angus MacLeod
+      2 Andrew James
+      2 ANDREW FIFIELD
+      2 André Arpin
+      2 Andrea
+      2 Amos
+      2 Amanda Smytaniuk
+      2 Amanda Judd Login
+      2 Amador Hill
+      2 Alonzo Bartley Scarborough
+      2 Allen
+      2 Allan J
+      2 Alison Hackney
+      2 Alina Abbott Durham
+      2 Alina Abbott Davenport
+      2 Alina
+      2 Ali
+      2 Alex Jones
+      2 Alexander
+      2 Alexa McDonough
+      2 Albert Gore
+      2 Albert Amanda Smytaniuk
+      2 Alberni John Fryer
+      2 Al Bashir
+      2 Akbar Manoussi
+      2 Ahmad Harun
+      2 Agincourt Adrian Molder
+      2 Afsaneh
+      2 Addington Chris Walker
+      2 Adam Scott
+      2 Adam Saab
+      2 Actualités Harper
+      1 Zoe Caron
+      1 Zoe
+      1 Zena Login
+      1 Zach Paikin
+      1 Yudhoyono
+      1 Yonnel Bonaventure
+      1 Yasemin
+      1 Wright
+      1 Wow Jim
+      1 Wilma
+      1 Will Pickton
+      1 William S Burroughs Cheers
+      1 William Hogg
+      1 Wilfrid Laurier Griffin
+      1 Wilfred Creighton
+      1 Wild Rose
+      1 WF Boyce
+      1 Westray
+      1 Westmount-Ville Marie et Saint-Lambert
+      1 Westmount-Ville Marie
+      1 Weldon
+      1 Wayne Wood
+      1 Wayne Scott
+      1 Wayne Morse
+      1 Warner-Lieberman
+      1 Wangari Matthai
+      1 Wangari Maathai
+      1 Wagner
+      1 Vittinghoff
+      1 Vin Diesel
+      1 Victoria Johnson
+      1 Véronik Sansoucy Joliette
+      1 Veronica Mars
+      1 Vern Janvier
+      1 Van Loan
+      1 Vandanna Shiva
+      1 Valerie Powell Simcoe
+      1 Valcourt
+      1 Université de Waterloo Matt Heppler
+      1 Tyson
+      1 Tyler Nasmith Montreal Login
+      1 Top Elizabeth May Elizabeth May
+      1 Tony Burman
+      1 Tom Shapiro
+      1 Tom Ryan Vous
+      1 Tom Ryan Login
+      1 Tom Ryan Élisons
+      1 Tom Ryan Directeur de Campagne
+      1 Tom Ryan Councillor
+      1 Tompkins
+      1 Tommy Chong Soumis
+      1 Tom King
+      1 Tom d’Aquino
+      1 Tom d'Aquino
+      1 Tina Gibson
+      1 Tina Crouse
+      1 Tim Hortons
+      1 Thomas Ryan Councillor
+      1 Thomas Ryan Conseiller
+      1 Thomas A.
+      1 Theodore
+      1 Terry Fox
+      1 Teneycke
+      1 Téléthon des Étoiles
+      1 TAYLOR OWEN Taylor Owen
+      1 Taylor Owen
+      1 Tara Cullis Suzuki
+      1 Tanner Waldo
+      1 Tadatoshi Akiba
+      1 Sylvie Le
+      1 Svant Arrhenius
+      1 Suzanne Jackson
+      1 Susan Willms
+      1 Susan Dalacourt
+      1 Susan Aglukark
+      1 Stuart Parker
+      1 St. Lawrence
+      1 Steve Oliveira
+      1 Steven Who
+      1 Steve Kisby Conseiller
+      1 Stephen Owen
+      1 STEPHEN MAHER Ottawa Bureau
+      1 Stephen Hazel
+      1 Stephen Hamper
+      1 Stephanie Bennett
+      1 Stéphane Hochelaga Login
+      1 Stéphane
+      1 Stanley Milgram
+      1 Solida
+      1 Soleil
+      1 Sloan
+      1 Skinner
+      1 Simcoe North
+      1 Silvaine Zimmermann Alberta Peter Johnston
+      1 Silvaine Zimmermann
+      1 Sheila Rogers
+      1 Sheila Fraser
+      1 Sheila Copps
+      1 Shane Jolley
+      1 SESCI
+      1 Seat Shane
+      1 Sean Maw
+      1 Scott Simms
+      1 Scott McLarty
+      1 Scott Harrison Login
+      1 Schwarzenegger
+      1 Sarah Regan
+      1 Sarah
+      1 Sara Golling
+      1 Sans-Chemise Richelieu-Yamaska
+      1 Sanders
+      1 Saint-Laurent
+      1 Saint-Hyacinthe-Bagot
+      1 Saint Boniface
+      1 Ryerson Greens
+      1 Ryan Young of Pierrefonds-Dollard
+      1 Ryan Young de Pierrefonds-Dollard
+      1 Rudd
+      1 Rubin Carter
+      1 Routledge
+      1 Roubini
+      1 Ross Landry
+      1 Rosser Avenue Brandon S'impliquerPancarteDons Dave Barnes
+      1 Rosenthal
+      1 Roosevelt
+      1 Ron Toufar
+      1 Ron Joyce
+      1 Ronald MacDonald
+      1 Ronald Cohen
+      1 ROGERS
+      1 Roger Cuzner
+      1 Rob Taylor
+      1 Rob McDonald
+      1 Rob Login
+      1 Robinson
+      1 Robin Bannerman
+      1 Robin
+      1 Rob Ewaschuk
+      1 Robert Kennedy Jr
+      1 Robert Hurst
+      1 Robert Dziekanski
+      1 Robert Deptuck
+      1 Rob Burton
+      1 Rob Brooks Hull-Aylmer Login
+      1 Robbie White
+      1 Rivers
+      1 Rita Kindl Myers
+      1 Ridings
+      1 Rideau Hall
+      1 Ric Smithers Sherbrooke
+      1 Ric Smithers
+      1 Rick Mercer
+      1 Rich Tyssen
+      1 richard don brooks
+      1 Riane Eisler
+      1 Rhonda Connell
+      1 R. Hofrichter
+      1 Renfrew
+      1 Refoulez
+      1 Rebecca Mosher
+      1 Reagan
+      1 Ralph Pentland
+      1 Ralph Goodale
+      1 Rachmat Witoelar
+      1 Rachel Wortzman
+      1 Québec
+      1 Prince Edward-Hastings
+      1 Preston Manning
+      1 Polina Osmerkina
+      1 Pointe Claire
+      1 Pitts
+      1 Pitt Meadows-Maple Ridge-Mission
+      1 Pierre Pettigrew I
+      1 Pierre Dion
+      1 Pierre
+      1 Phillip Adams
+      1 Philip Jessup
+      1 Peter Van Loan
+      1 Peter Ustinov
+      1 Peter Rosenthal
+      1 Peter Lougheed
+      1 Peter Kearvell
+      1 Peter Globensky
+      1 Peter Browne
+      1 Peter Bevan-Baker Conseiller
+      1 Perry White
+      1 Perkins
+      1 P. Eng
+      1 Paul Volcker
+      1 Paul Falvo Login
+      1 Paul Falvo
+      1 Paul Dewar
+      1 Paul Brodeur
+      1 Paula Dobriansky
+      1 Patty
+      1 Pandora
+      1 Olivier
+      1 Oiseaux
+      1 Oda
+      1 O’Connor
+      1 Nova Leathers
+      1 Norma V. Bowen
+      1 Nik Spohr
+      1 Nigel Barriffe
+      1 Nickerson
+      1 Newsnet
+      1 Nero
+      1 Neil Dubois
+      1 Neighbours
+      1 Nathalie Mathieu
+      1 Nat
+      1 Nanos
+      1 Nancy Robertson
+      1 Nakina
+      1 Myron Thompson
+      1 Muslim
+      1 Mr Shavluk
+      1 Mr Duceppe
+      1 M.P. Bill Casey
+      1 Mother
+      1 Morris Strong
+      1 Moose
+      1 Moog
+      1 Montérégie
+      1 M. Miller
+      1 M. Maisonneuve
+      1 M. Kennedy
+      1 M. John Kennedy
+      1 M. John Fryer
+      1 Mirza Masroor Ahmad
+      1 Minster Loyola Hearn
+      1 Milton Friedman
+      1 Milgram
+      1 Mikhail Gorbatchev
+      1 Mike Mullen
+      1 Mike Ivens Ontario Pauline Richards Québec Jacques L. Frenette Saskatchewan Amber Jones
+      1 Mike Ivens
+      1 Mike Baninec Sr.
+      1 Michelle Ferris
+      1 Michael Joseph Kaer
+      1 Michael J. Kaer Login
+      1 Michael Ignatieff
+      1 Michael C Richardson
+      1 Michael Chong
+      1 Michael Byers
+      1 Michael Brylinsky
+      1 M. Genest
+      1 M. Faucher
+      1 Melville SK Jen Antony Fort McMurray
+      1 Meg Purdy
+      1 Megan Walker
+      1 Megan
+      1 M. Doug Roche
+      1 McMurray
+      1 McKenzie
+      1 McGuinty
+      1 McGovern
+      1 M. Blair
+      1 M. Bernard Faucher
+      1 M. Benneth
+      1 May Harper
+      1 Max
+      1 Maureen McTeer
+      1 Matt Laine
+      1 Matthew Begbie
+      1 Matt Campbell
+      1 Mathew Laine
+      1 Matheson
+      1 Mary Jane
+      1 Martin Lavictoire
+      1 Martine Bédard Solidarité
+      1 Martine Bédard Mon
+      1 Martha Stewart
+      1 Martha Hall Findlay
+      1 Marlon Kevlar
+      1 Marlene Wells
+      1 Marky
+      1 Mark Rudolph
+      1 Mark Pyette
+      1 Marjorie LeBreton
+      1 Marion Schaffer
+      1 Marion Dewar Elizabeth May
+      1 Marion Dewar
+      1 Marie Elizabeth May
+      1 Marianne Garah
+      1 Marianne
+      1 Maria Di Danieli
+      1 Maria Coady
+      1 Margaret Purdy
+      1 Marc Lalonde
+      1 Mansbridge
+      1 Manley
+      1 Malcolm X
+      1 Magnus McDermid
+      1 Madeline Evans
+      1 MacGillivray
+      1 Lynne Champoux-Williams Masse
+      1 Lussier
+      1 Lucien Bouchard
+      1 Lovins
+      1 Lovelock Soumis
+      1 Louise Lorefice
+      1 Lorsque M. Kennedy
+      1 Lois James
+      1 Loa Tzu
+      1 Liz Thompson
+      1 Liz May
+      1 Line Beauchamp
+      1 Libéraux
+      1 Libby Davis
+      1 Liam Titcomb
+      1 Lewis Carroll
+      1 Lester Pearson
+      1 Lesley Bradford
+      1 Les gens
+      1 Le Pentagone
+      1 Leo Williams Nepean-Carleton Login
+      1 Leo Williams
+      1 Lennox Island
+      1 Lee-Anne
+      1 Lee Adam Henry
+      1 LeBreton
+      1 layton
+      1 Lawrence Seaway
+      1 Lawrence Martin
+      1 Laurie Hahn
+      1 Laureen Harper
+      1 LAURA CZEKAJ
+      1 Larry Groves
+      1 Landon Pearson Taylor Owen Christine Jones PAUL HEINBECKER Paul Heinbecker
+      1 LANDON PEARSON
+      1 Lambton-Kent-Middlesex Login
+      1 Lambert Drive Courtenay
+      1 Lake Wabamun
+      1 Lakeshore
+      1 Kyoto
+      1 Kwan
+      1 Krause
+      1 Kory Teneycke
+      1 K.L.
+      1 Kitigan Zibi Anishinabeg
+      1 Kitchener-Conestoga
+      1 Kitchener-Centre
+      1 Kim Campbell
+      1 Khadr
+      1 Kevin Taft
+      1 Kevin Shaw Petrolia
+      1 Kevin Krueger
+      1 KEV CORBETT
+      1 Kerry Nelson
+      1 Kerry
+      1 Keith Morvick
+      1 Katrina
+      1 Katherine Hagerman
+      1 Karsten Sach
+      1 Karl
+      1 Karen Kraft Sloan
+      1 Karen J. Cao
+      1 Justin Smith
+      1 Justice Peter Richard
+      1 Julie Van Dusen
+      1 Juliette Lassonde
+      1 Julie Couillard
+      1 Julian Fantino
+      1 Judy ' Rebick
+      1 Judy Rebick
+      1 Judith Peach
+      1 Joubert
+      1 Jonathan Meijer Gatineau Vous
+      1 Jonathan Meijer Gatineau Login
+      1 John Stewart
+      1 John Soumis
+      1 John Paul II
+      1 John Miedema
+      1 john mccain
+      1 John Knight
+      1 John Kenneth Galbraith
+      1 John Irving
+      1 John Howard de l’Australie
+      1 John Hamm
+      1 John Grogan
+      1 John Fryer dans Nanaimo-Alberni
+      1 John Cruikshank
+      1 John Chenery
+      1 John Anthony Vella
+      1 John A. MacDonald
+      1 Joel Robitaille Halifax
+      1 Joel Plaskett
+      1 Joe Dassin
+      1 Jodoin
+      1 Joan Bryden
+      1 Jim Vous
+      1 Jim Prentice
+      1 Jim Bowen
+      1 Jill
+      1 Jeudi
+      1 Jerry
+      1 Jeremy Stiles Manitoba Kate Storey Nouveau-Brunswick Burton Folkins Nouvelle-Écosse Heather Scott Les
+      1 Jennifer Ditchburn
+      1 Jeff Whitehead
+      1 Jeff Watson
+      1 Jeffrey Hutchings
+      1 Jean-Yves Vous
+      1 Jean-Yves Massenet Parti Vert
+      1 Jean-Yves Login
+      1 Jean Rousseau
+      1 Jeannine Sabourin
+      1 Jean Dumont
+      1 Jean Crowder
+      1 Jean Cretien
+      1 Jean Chrétien
+      1 Jay Martell
+      1 Jay
+      1 Jason Merling Toronto
+      1 Jason Hammond Trésorier
+      1 Jason Hammond Male Co-Chair
+      1 Jared Giesbrecht Courriel
+      1 Jared Diamond
+      1 Janet M. Eaton Introduction
+      1 Janet M Eaton
+      1 Jane Jacob
+      1 James Rusk
+      1 James Loss-Wells
+      1 James Hall
+      1 James Connaughton
+      1 James-Assiniboia Login
+      1 James à james@partivert.ca Les
+      1 Jacques Tétreault Maisonneuve
+      1 Jacques Cartier
+      1 Jack McDougal
+      1 Jack Bauer
+      1 Jaccard
+      1 Inprison
+      1 Hydro-Québec
+      1 Hull-Aylmer Fréderic Pouyot
+      1 HUGH CAMERON
+      1 Howze
+      1 Howard Hampton
+      1 Hon Rona Ambrose
+      1 Holly
+      1 Hillary
+      1 Hill
+      1 Herbert Hoover
+      1 Henry Waxman
+      1 Henry Paulson
+      1 Helena Robb
+      1 Hebert
+      1 Heather Sim
+      1 Heather Hotel
+      1 Heather Hollett Vancouver
+      1 Heather Hollett
+      1 Heather Eaton
+      1 Heather
+      1 Hearn
+      1 Hawken
+      1 Harvey A. Venoit
+      1 Harvey A.
+      1 Harlan Watson
+      1 Harkin
+      1 Hansard
+      1 Guysborough
+      1 Guy Dufort
+      1 Gro Harlam Brundtland
+      1 Greg Laxton
+      1 Green Simcoe North
+      1 Greeninfrastructure
+      1 Graeme Cunningham
+      1 Gordon St.
+      1 Gordon Hamilton
+      1 Gordon Brown
+      1 God
+      1 Goar
+      1 Glenn O’Farrell
+      1 Glen Murray
+      1 Glengarry-Prescott-Russell
+      1 Glen Besa Michael Dorsey Fred Heutte Tyla Matteson Steve Mills Emilie Moorhouse Carl Pope
+      1 Gerard Kennedy
+      1 Gerald LaForest
+      1 Gerald Keddy
+      1 George W.
+      1 George Orwell
+      1 George Monibiot
+      1 George H.W. Bush
+      1 George Harrison
+      1 George Duffy
+      1 Geoffrey Pounder
+      1 Geoff Regan
+      1 Gene McCarthy
+      1 Gaylord Nelson
+      1 Gary Doer
+      1 Gareth
+      1 Galabuzi
+      1 Gaile Whelan Enns
+      1 Frohlich
+      1 Fred Knelman
+      1 Fred Huette
+      1 Frédéric Pouyot
+      1 Frederic Pouyot
+      1 Frank Valeriote
+      1 Frank Demont
+      1 François Richard
+      1 François Boucher
+      1 Franco
+      1 Francis Xavier Young
+      1 Francis Scarpelligia
+      1 Fox Harbour
+      1 Flores
+      1 Flora
+      1 Filip Vanicek
+      1 Figueroa
+      1 Ezra Levant
+      1 Estelle Hjertaas
+      1 Estelle
+      1 Esquimalt-Juan de Fuca
+      1 Ernie Eves
+      1 Eric Millett
+      1 Eric B. Walton
+      1 Elmer Laird
+      1 Elizabeth Vous
+      1 Elizabeth Submitted
+      1 Elizabeth Login
+      1 Elizabeth I
+      1 Elizabeth Fry
+      1 Eliot
+      1 Eleanor Roosevelt
+      1 Eden
+      1 Eaton
+      1 Earl
+      1 Dwight Duncan
+      1 Doug Neil Nova
+      1 Doris Mason
+      1 Don Newman
+      1 Donna Dillman Conseiller
+      1 Don Munroe
+      1 Don Mills
+      1 Donald Atwell Zoll
+      1 Dominica Pepe
+      1 Dobriansky
+      1 Dini Petty
+      1 Diefenbaker
+      1 DeWitt Newell
+      1 Devenu
+      1 des Maskoutains
+      1 des Libéraux
+      1 des Congres
+      1 Derek B. Vous
+      1 Derek B. Login
+      1 Depont
+      1 Dennis Hayes
+      1 Dennis Bevington
+      1 Denman
+      1 Denis Agar
+      1 de M. Wilson
+      1 de M. Genest
+      1 de Mansbridge
+      1 Delaney Chisholm
+      1 de Harper
+      1 Dear Jim
+      1 David Usher
+      1 David Scrymgeour
+      1 David Schindler
+      1 David Raheb
+      1 David Orton
+      1 David McGuinty
+      1 David Korten
+      1 David Donnelly
+      1 Dave Parker
+      1 Dave McComiskey
+      1 Dave Drake
+      1 Darrell Wetter
+      1 Daphne Cres.
+      1 Danny Williams
+      1 Dan Mick Vous
+      1 Dan Mick Soumis
+      1 Dan Mick Login
+      1 Daniel William
+      1 Daniel Walker
+      1 Daniel Stanley
+      1 Danielle Roberts
+      1 Danielle
+      1 Daniel D’Entremont
+      1 Daniel Breton
+      1 Dan Delmar
+      1 Dalhousie Jason Pelley
+      1 Dai Kundi
+      1 Cynthia Bragg
+      1 Cris de Kelly Lake
+      1 Craik
+      1 Craig Ketchum Login
+      1 Craig Chandler
+      1 Coyne
+      1 Cory Glass
+      1 Corin
+      1 Constantine Kritsonis Constantine Kritsonis Login
+      1 Constantine Kritsonis
+      1 Connie Clement
+      1 Condoleezza Rice
+      1 Collette
+      1 Clifford Lincoln
+      1 Clifford
+      1 Clement
+      1 Clearinghouse Jake Cole
+      1 Clayton Ruby
+      1 Clay
+      1 Claude Villeneuve
+      1 Claire
+      1 Churchill
+      1 Chrystal Ocean
+      1 Chris Wood Login
+      1 Christopher Wil
+      1 Christopher Ian Bennett
+      1 Christine Todd Whitman
+      1 CHRISTINE JONES
+      1 Christine Jones
+      1 Christie
+      1 Christiane Charrette Lynne Champoux
+      1 Chris Johnson
+      1 Chris Harborne
+      1 Chris Chris Alders Head Organizer
+      1 Chris Aikman Vancouver Island North
+      1 Charles était aussi nerveux
+      1 Charest
+      1 Chapman
+      1 Ceci
+      1 Cecelia Rd.
+      1 Cathy Nesbitt
+      1 Cathy Jones
+      1 Catherine Johansson
+      1 Catharine Johannson Conseiller
+      1 Carolyn Bennett
+      1 Carlton
+      1 Cape Breton-Canso
+      1 Cam Guthrie
+      1 Calhoun
+      1 Cadman
+      1 Byers
+      1 Bryant
+      1 Bruce McArthur
+      1 Bruce Guthro
+      1 Bronte
+      1 Brian Muir
+      1 Brian Jean
+      1 Brett Throop
+      1 Brésil
+      1 Bravo Elizabeth
+      1 Bravo
+      1 Brad Johnson
+      1 Bradford
+      1 Bonser
+      1 Bob Slater
+      1 Bob Senechal
+      1 Bob Mills
+      1 Bob guy
+      1 Bobby Kennedy
+      1 Bob Bancroft
+      1 Blyth
+      1 Bloq
+      1 Blog Elizabeth
+      1 Blais
+      1 Birmanie
+      1 Biographie
+      1 Bill Login
+      1 Bill Gates
+      1 Bill Fulbright
+      1 Bill Blaikie
+      1 Bilcon
+      1 Beverly Thomson
+      1 Bernie Sanders
+      1 Bernier
+      1 Bernie Krause
+      1 Bernard Viau
+      1 Bernard Lord
+      1 Bernard Faucher
+      1 Bernard Bigras
+      1 Ben Rankin
+      1 Ben Bennett
+      1 Bell
+      1 Basil Seaton
+      1 Barry Worm
+      1 Barbara Boxer
+      1 Ban Kin-Moon
+      1 Ban Kin Moon
+      1 Ban Ki-Moon
+      1 Bancroft
+      1 Baldwin
+      1 Ayton
+      1 Ayše Köymen
+      1 Ashley Heaslip
+      1 Arrenhius
+      1 Arianne Faribault de La Pensée de Bagot
+      1 Antigonish
+      1 Ann Murray
+      1 Annie Kidder
+      1 Annie Durette Jonquiere-Alma
+      1 Anne Odell
+      1 Anne Lagacé Dowson
+      1 Anna Maria Tremonti
+      1 Anna Girouard
+      1 Anna
+      1 Ani DiFranco
+      1 Andrzej Chlobowski
+      1 Andrew Nikiforuk
+      1 Andrew Basham
+      1 Andre Sylvestre
+      1 Andrée Crépeau
+      1 Ambrose Heighton
+      1 Al Qaeda
+      1 Alon Wineberg
+      1 Allison
+      1 Allan Rock
+      1 Allan Levine
+      1 Allan J. MacEachen
+      1 Alice Munro
+      1 Alexis MacDonald
+      1 Albert Street Ottawa
+      1 Albert Einstein
+      1 Alan Roocroft
+      1 Alan Rock
+      1 Alanna Dean
+      1 A.J.
+      1 Aiden Abram
+      1 Agassiz
+      1 Adriane Carr Adriane Carr
+      1 Adriane
+      1 Adrian De Jong Membership Chair Nanaimo-Cowichan
+      1 Adrian Carr
+      1 Accueil Layton
+      1 Accueil Kitchener-Centre
+      1 Accueil Elizabeth
+      1 Abu Graib
+      1 Abolissons
+      1 Aaron Freeman

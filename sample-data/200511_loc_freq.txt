@@ -1,0 +1,349 @@
+  97572 Ottawa
+  46487 Montreal Greens
+   2501 Canada
+    537 Alberta
+    490 Montreal
+    475 Kyoto
+    449 US
+    399 Ontario
+    347 Toronto
+    240 Quebec
+    154 Afghanistan
+    152 U.S.
+    141 Manitoba
+    129 Canadian
+    118 Edmonton
+    118 Cana
+    108 North America
+    107 Calgary
+     99 Outaouais
+     99 Nova Scotia
+     99 Guatemala
+     99 Cookstown
+     80 British Columbia
+     74 United States
+     74 Rio de Janeiro
+     66 Gerrard Street East
+     65 New Brunswick
+     60 Iraq
+     60 Boston
+     56 New Zealand
+     51 Saskatchewan
+     48 Lanark Highlands
+     48 Charlottetown
+     48 Ashbridges Bay Park
+     46 Europe
+     45 Pape
+     45 London
+     41 Keele
+     41 Dauphin
+     41 Bloor Street West
+     40 Haiti
+     40 Germany
+     38 Australia
+     36 Sarnia
+     36 Pontiac
+     36 North York
+     36 Japan
+     36 Emery
+     36 California
+     35 Newfoundland
+     35 Labrador
+     34 Winnipeg
+     33 ONTARIO
+     33 Beaches-East York
+     33 Alliston
+     30 Fredericton
+     30 Central America
+     30 Burlington
+     30 Algeria
+     29 Montréal
+     27 Wolfville
+     27 Windsor
+     27 Earth
+     26 Americas
+     25 Denmark
+     25 China
+     24 Victoria
+     24 U.S
+     24 Suburbia
+     24 Outremont
+     24 OTTAWA
+     24 North York Centre
+     24 Longueuil
+     24 Halifax
+     24 Chatham
+     24 Burlington Ontario
+     24 Boulder Rd Gatineau
+     24 Boucherville
+     24 Atlantic Canada
+     22 Finland
+     21 Sherwood Park
+     21 Mexico
+     20 Africa
+     18 Vancouver
+     18 UK
+     18 Swan River EDA
+     18 Peru
+     18 Parks Canada
+     18 North American
+     18 Gatineau Park
+     18 Gatineau
+     18 El Salvador
+     18 Beauce
+     15 Sherbourne Street
+     15 Percy Street
+     15 Nunavut
+     15 Northwest Territories
+     15 Lansdowne
+     15 East York
+     15 Don Mills South
+     15 Donlands Driving Don Valley Parkway
+     15 Cosburn
+     15 Canada Quebec
+     15 Bronson
+     15 Brock Avenue
+     15 Bloor
+     14 Moncton City Hospital
+     13 Mississauga
+     12 Ypres Blvd.
+     12 Yonge Street
+     12 Worthington Ave.
+     12 Windsor Live
+     12 Verdun
+     12 U.K.
+     12 St Hubert Bog
+     12 Ste-Catherine Ouest
+     12 St. Clair SE
+     12 St. Clair
+     12 South
+     12 Sherbrooke
+     12 Sheppard Avenue Toronto
+     12 Saanich Gulf Islands
+     12 Rosemère
+     12 Riverview
+     12 Richmond Hill
+     12 Preston Street
+     12 Pierrefonds
+     12 Perth
+     12 Outaouais Greens
+     12 Ottawa-Centre
+     12 Nova Scotia Green Party
+     12 Northern Ireland
+     12 North
+     12 Mount-Royal Chalet
+     12 Mount-Royal
+     12 Mount Royal
+     12 Montreal Island
+     12 Monterégie
+     12 Mackay
+     12 Lorraine
+     12 London Interested
+     12 Laurentian
+     12 Lanark
+     12 Lakeshore Blvd.
+     12 Kingston
+     12 King Rd.
+     12 Ile Perrot
+     12 Hudson
+     12 Grand Coteau Forest
+     12 GMOs
+     12 Fenway
+     12 Exit St. George
+     12 England
+     12 Des Meurons Winnipeg
+     12 Coxwell Ave.
+     12 Chatham Live
+     12 Caribbean
+     12 Canada Place
+     12 Bridgewater
+     12 Brazil
+     12 Brampton
+     12 Bloomington Rd.
+     12 Belledune
+     12 Aurora
+     12 America
+     12 Albert Street
+     11 Lake Winnipeg
+     11 Asia
+     10 Sweden
+      9 Sherwood Drive
+      9 Riverside South
+      9 River Road
+      9 Niagara Falls
+      9 Milton
+      9 Lowville Park
+      9 Kensington Road NW
+      9 Kashechewan
+      9 Highland Avenue
+      9 Health Canada
+      9 Guelph
+      9 Derry Road
+      9 Dauphin-Swan River
+      9 Canadian Greens
+      9 Boggy Creek
+      8 Middle East
+      7 Zoocheck Canada
+      7 Columbia
+      6 Zambia
+      6 Winchester Ontario
+      6 White Rock
+      6 Wheatley River
+      6 West Bank
+      6 Vancouver-Quadra
+      6 Vancouver Island
+      6 U.S. Gulf
+      6 USA
+      6 United Churches
+      6 Texas
+      6 Tasmania
+      6 Sudan
+      6 St. Thomas/London
+      6 St. Leonard
+      6 St. John River
+      6 Squamish
+      6 Spanish
+      6 Spain
+      6 South America
+      6 Sherbrooke St.
+      6 Scotland
+      6 Saparno
+      6 Saint-Léonard-Saint-Michel
+      6 Saint-Laurent-Cartierville
+      6 Russia
+      6 Richmond
+      6 Reykjavik
+      6 René-Levasseur Island
+      6 Queen 's Park
+      6 Québec
+      6 Psychosynthesis Pathways of Montreal
+      6 Portugal
+      6 Portsmouth
+      6 Plateau
+      6 Peterborough
+      6 Penticton
+      6 Ottawa Centre
+      6 Ontario Grain
+      6 Old Ottawa South
+      6 Norway
+      6 North Sherbrooke
+      6 Northern Ontario
+      6 NorthCom
+      6 North Americans
+      6 Niksu
+      6 New Zealander
+      6 New Westminster
+      6 Netherlands
+      6 Nebraska
+      6 Morocco
+      6 Mont Royal
+      6 Montérégie
+      6 Montana
+      6 Moncton
+      6 Missouri
+      6 Mississauga-Erindale
+      6 Michigan
+      6 Massachusetts
+      6 Markham
+      6 Manicouagan
+      6 Malaysia
+      6 Loreto
+      6 Little Italy
+      6 Lasalle
+      6 Lanark-Frontenac-Lennox
+      6 Kentucky
+      6 Kensington
+      6 Kandahar
+      6 Italy
+      6 Ireland
+      6 Iceland
+      6 Humankind
+      6 Howe St.
+      6 Hebron
+      6 Hamilton Centre
+      6 Hamilton
+      6 Gordon Head
+      6 Gleneagles
+      6 Ghana
+      6 Geneva
+      6 Fraser River
+      6 France
+      6 Fort Erie
+      6 Flin Flon
+      6 European
+      6 Ethiopia
+      6 EL Salvador
+      6 El Salv
+      6 Edmonton-Sherwood Park Green
+      6 Eastern Ontario
+      6 Eastern Europe
+      6 DevelopingCountries Canadian
+      6 Detroit
+      6 Decima
+      6 Dayspring
+      6 Darfur
+      6 Congo
+      6 Columbus Park
+      6 Ciudad Juarez
+      6 Chinese
+      6 Charles River
+      6 Cartagena
+      6 Canberra
+      6 Canadian Security
+      6 Canada Nat'l Green
+      6 Canada Bank
+      6 Canada Aetearoa New Zealand Green
+      6 Cambridge
+      6 Californian
+      6 Café Cafka
+      6 Burnaby
+      6 Britain
+      6 Bowmanville
+      6 Boston Gardens
+      6 Beijing
+      6 Beeches-East York
+      6 Beauséjour
+      6 B.C.
+      6 Bay St.
+      6 Baie-Comeau
+      6 Baffin Island
+      6 Australian
+      6 Austin
+      6 Atlantic Ocean
+      6 Atlantic Huron
+      6 American
+      6 Amazon
+      6 Alta.
+      5 Winnipeg Harvest
+      5 South Hill
+      5 Rosemont
+      5 Pyramid Lake Road
+      5 Opportunity Kingston
+      5 Northern India
+      5 Newfoundland-and-Labrador
+      5 Manitoba Greens
+      5 Lethbridge
+      5 Ladakh
+      5 Foothills Rockview
+      5 Drumheller
+      5 Drayton Valley Calmar
+      5 Cochrane
+      5 Athabasca
+      4 Parry Sound
+      4 Parry
+      4 Orangeville
+      3 Vodden
+      3 Saltsprings
+      3 Saint-Lambert
+      3 Pictou County
+      3 New York City
+      3 London West
+      3 Latin America
+      3 Inglewood
+      3 Gulf of St Lawrence
+      2 Whitby
+      2 Stonewall Manitoba
+      2 Oshawa
+      2 Montréal Kyoto
+      2 Cochrane La ` Asamblea
+      1 Mississauga-Streetsville

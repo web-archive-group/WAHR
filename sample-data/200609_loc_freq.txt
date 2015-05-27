@@ -1,0 +1,366 @@
+    995 Ottawa
+    711 Canada
+    134 Montreal
+    116 US
+    108 Ontario
+     75 Alberta
+     55 Toronto
+     52 Kyoto
+     51 Calgary
+     46 U.S.
+     37 Quebec
+     33 United States
+     29 Saskatchewan
+     27 Edmonton
+     26 Newfoundland
+     25 China
+     24 Saskatoon
+     24 Kingston
+     23 Nova Scotia
+     23 Japan
+     21 Victoria
+     19 Charlottetown
+     19 Afghanistan
+     18 Manitoba
+     18 Guatemala
+     17 Haiti
+     17 Cana
+     16 North America
+     15 New Brunswick
+     14 Earth
+     13 Russia
+     13 Darfur
+     12 Vancouver
+     12 Tibet
+     12 Iqaluit
+     12 British Columbia
+     11 Winnipeg
+     11 Fort McMurray
+     10 London
+     10 Kootenay Lake
+     10 Iraq
+     10 Halifax
+     10 Europe
+     10 Central America
+     10 Boston
+      9 Stratford
+      9 Peterborough
+      9 Moncton
+      8 TORONTO
+      8 Rio
+      8 Lanark Highlands
+      8 California
+      8 Athabasca
+      7 U.S
+      7 Norway
+      6 Taiwan
+      6 Québec
+      6 Northern Alberta
+      6 New Orleans
+      6 Montréal
+      6 Mansfield
+      6 Jordan Dupuis
+      6 Ireland
+      6 El Salvador
+      6 Atlantic Canada
+      6 Asia-Pacific Partnership
+      5 St. East
+      5 St. Clair
+      5 Rochester
+      5 N.A.
+      5 Labrador
+      5 Kootenay-Columbia
+      5 Kokanee Springs
+      5 Kensington Avenue Westmount
+      5 Guelph
+      5 Grey Creek Hall
+      5 Creston
+      5 Crawford Bay
+      5 Canada Quebec
+      5 Bonn
+      5 Algeria
+      4 Walkerton
+      4 U.K.
+      4 UK
+      4 Sydney
+      4 Sweden
+      4 Sudan
+      4 South America
+      4 Sherwood Park
+      4 Port Elgin
+      4 Portage Lisgar
+      4 Planet Earth
+      4 N.S. CBC Nova Scotia
+      4 New York
+      4 Moscow
+      4 Meadowbrook
+      4 Marrakech
+      4 Mackenzie Valley
+      4 Lanark
+      4 Lake Carlton Plaza
+      4 India
+      4 France
+      4 Finland
+      4 Denmark
+      4 Cornwall
+      4 Brazil
+      4 Beaufort Sea
+      4 Athabasca Tar Sands
+      4 Americas
+      4 America
+      3 Wabasca
+      3 Virginia
+      3 Turner Valley
+      3 St. Leon
+      3 Saanich Gulf Islands
+      3 Saanich
+      3 Quebec City
+      3 QUEBEC
+      3 Peru
+      3 Penticton
+      3 OTTAWA
+      3 Nunavut
+      3 Mississauga
+      3 Milton Town Hall
+      3 Mexico
+      3 Germany
+      3 Gatineau Park
+      3 Esquimalt
+      3 Decima
+      3 Chernushenko
+      3 B.C.
+      3 Australia
+      2 Yellowknife
+      2 Yates Street
+      2 Westmount
+      2 Western Antarctic
+      2 West Bank
+      2 Venezuela
+      2 USA
+      2 TORONTO STAR
+      2 Thailand
+      2 Texas
+      2 Tasmania
+      2 Tamworth
+      2 St. Laurent
+      2 St. Denis
+      2 St. Bartholomews Anglican Church
+      2 Spain
+      2 South Moresby
+      2 Southeast Asia
+      2 South
+      2 Siberia
+      2 Scotland
+      2 Saudi Arabia
+      2 Saparno
+      2 Russian Federation
+      2 Russian
+      2 Royal York
+      2 Rome
+      2 Rio Earth Summit
+      2 Queen 's Park
+      2 Portugal
+      2 Port Carling
+      2 Perth
+      2 Parry Sound
+      2 Parks Canada
+      2 Ottawa-Centre
+      2 Ottawa Centre
+      2 Okanagon Valley
+      2 Oakville
+      2 North Sherbrooke
+      2 Northern Sahara
+      2 North American
+      2 North
+      2 New England
+      2 Netherlands
+      2 Mozambique
+      2 Mount Robson
+      2 Mount Fitzwilliam
+      2 Montreal Kyoto
+      2 Massey Lectures
+      2 Mackenzie River
+      2 Libya
+      2 Lanark-Frontenac-Lennox
+      2 Lachine
+      2 Kentucky
+      2 Katrina
+      2 Italy
+      2 Inuvik
+      2 Hebron
+      2 HAWKEN
+      2 HALIFAX
+      2 Grey
+      2 Greenland
+      2 Gower Street
+      2 Fraser River
+      2 Fort Chippewon
+      2 FLORENCE NIGHTENGALE
+      2 Fenway
+      2 Exeter
+      2 European Union
+      2 England
+      2 EL Salvador
+      2 El Salv
+      2 Edmonton-Sherwood Park Green
+      2 Delhi
+      2 DALHOUSIE
+      2 Cree
+      2 Costa Rica
+      2 Congo
+      2 Columbine
+      2 COLORADO
+      2 Chandler
+      2 Caribbean
+      2 Cape Breton Island
+      2 Cape Breton
+      2 Canberra
+      2 Canada East
+      2 CANADA
+      2 Cameron Wigmore British Columbia Ben West bc@greenparty.ca Ben West Yukon
+      2 Britain
+      2 Brantford
+      2 Belledune
+      2 Beaches East York
+      2 Bay St
+      2 Australian
+      2 Atlantic
+      2 Athabasca River basin
+      2 Athabasca River
+      2 Asia
+      2 Arctic
+      2 Alps
+      2 Alberta Cameron Wigmore British Columbia Ben West Yukon
+      1 Zambia
+      1 Winchester Ontario
+      1 White Rock
+      1 Wheatley River
+      1 West Vancouver
+      1 Westminster Avenue
+      1 West Kootenay
+      1 West Africa
+      1 Victoria 's Spiral Café
+      1 Victoria Green
+      1 Vancouver Island
+      1 Vancouver East
+      1 United States/Japan
+      1 United Churches
+      1 Toronto Beaches
+      1 Swanwick Avenue
+      1 Suriname
+      1 Sunshine Coast
+      1 St. West
+      1 St. Leonard
+      1 St. John 's
+      1 St. Jacques Ouest
+      1 St. Brantford
+      1 Stanley Park
+      1 St. Albert
+      1 Slave Lake
+      1 Sidney
+      1 Sherwood Drive
+      1 Sherbrooke St.
+      1 Shediac
+      1 Senegal
+      1 Salt Spring Island
+      1 Saanich-Gulf Islands
+      1 Rio de Janeiro
+      1 Riel Drive
+      1 René-Levasseur Island
+      1 Red Earth Creek
+      1 Québec City
+      1 Port Moody-Westwood-Port Coquitlam
+      1 Pitt St
+      1 Parry
+      1 Paris
+      1 Pape Ave.
+      1 Orangeville
+      1 Opportunity Kingston
+      1 Ont.
+      1 Old Ottawa South
+      1 Okanagan Highlands
+      1 Okanagan
+      1 Oakville Beaver
+      1 Northwest Territories
+      1 North Saanich
+      1 Northern India
+      1 NorthCom
+      1 North Americans
+      1 Niagara Falls
+      1 New Zealand
+      1 Nanaimo
+      1 Muskoka District Road 118W Port Carling
+      1 Muskoka
+      1 Morocco
+      1 Moosejaw
+      1 Montana
+      1 Missouri
+      1 Mississauga-Streetsville
+      1 Middle East
+      1 Meaford
+      1 Massachusetts
+      1 Markham
+      1 Manicouagan
+      1 Malaysia
+      1 Loreto
+      1 London West
+      1 Little Italy
+      1 Linbrook Road
+      1 Lasalle
+      1 Ladakh
+      1 Kensington
+      1 Kelowna
+      1 Kashechewan
+      1 Kandahar
+      1 Juan de Fuca Strait
+      1 Jasper Avenue
+      1 Iquitos
+      1 Howe St.
+      1 Health Canada
+      1 Haida Arsenault-Antolick.
+      1 Great White North
+      1 Granville Street
+      1 GMOs
+      1 Gleneagles
+      1 Galleria London
+      1 Fort Street Victoria
+      1 Fort Henry
+      1 Fort Erie
+      1 Flin Flon
+      1 Fairmont Royal York
+      1 Fairfield Plaza
+      1 EU
+      1 Ethiopia
+      1 East York Community Centre
+      1 Eastern Europe
+      1 Eastern Canada
+      1 Douglas Street
+      1 Deux-Montagnes
+      1 Detroit
+      1 Deep Cove
+      1 Danforth Ave.
+      1 Dallas Road
+      1 Côte Saint-Luc
+      1 Columbus Park
+      1 Columbia
+      1 Cochrane
+      1 Charles River
+      1 Central Ave.
+      1 Cartagena
+      1 Canada Place
+      1 Canada Nat'l Green
+      1 Canada Bank
+      1 Calling Lake
+      1 Brentwood
+      1 Brampton
+      1 Boston Gardens
+      1 Big Lake
+      1 Belleville
+      1 Beaverdell
+      1 Beacon Avenue
+      1 Bay St.
+      1 Bay Room
+      1 Baie-Comeau
+      1 Atlantic Organizer
+      1 Amazonian River
+      1 Africa
