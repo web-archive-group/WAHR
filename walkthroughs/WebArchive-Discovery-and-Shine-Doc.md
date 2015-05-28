@@ -84,6 +84,17 @@ Note that the play framework was replaced with typesafe-activator. From here on 
 
 Initialize shine by `cd shine/shine` and `activator run`
 
+On the default installation, the "random results" on the Trend page won't work. If you change line 180 of `/shine/shine/app/controllers/Shiner.java` from `random_12` to the actual field name of `id`, the issue will work. The new code block shoudl look like in part:
+
+```
+// Grab the baseline data:
+params.put("sort",Arrays.asList(new String[] { "id" } ));
+params.put("facet.in.crawl_years", Arrays.asList(new String[] { year } ));
+Query sample = new Query(query,params);
+// Do the search:
+sample = solr.search(sample,100);
+```
+
 **Postgresql**
 
 Initialize the Postgres server by running `pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start`. You can also manually stop the server at any time with `pg_ctl -D /usr/local/var/postgres stop -s -m fast`. 
