@@ -125,6 +125,16 @@ Opening shine in the browser (http://localhost:9000), you should have a button t
 
 Navigate to <http://localhost:9000/shine> to begin using. Note that simply using http://localhost:9000/ will lead to errors. 
 
+## Notes
+
+If the Solr index grows too large (mine is about 80GB), you may need to pass some more memory parameters to get it running on some machines. On a laptop with 16GB of memory, this command did the trick when initializing the server:
+
+```
+MAVEN_OPTS='-Xmx12g -Xms1g -XX:+UseParNewGC -XX:+CMSParallelRemarkEnabled -XX:+UseConcMarkSweepGC -XX:ParallelGCThreads=4' mvn jetty:run-exploded
+```
+
+Thanks to @ruebot, @anjackson, @tokee.
+
 ## Questions?
 
 If you run into any questions, please let us know. You can contact Ian Milligan at <i2millig@uwaterloo.ca>, or fork and submit a pull request.
