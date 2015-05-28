@@ -138,6 +138,8 @@ Navigate to <http://localhost:9000/shine> to begin using. Note that simply using
 
 ## Notes
 
+### Solr Indexing Heap Space Issues
+
 If the Solr index grows too large (mine is about 80GB), you may need to pass some more memory parameters to get it running on some machines. On a laptop with 16GB of memory, this command did the trick when initializing the server:
 
 ```
@@ -145,6 +147,19 @@ MAVEN_OPTS='-Xmx12g -Xms1g -XX:+UseParNewGC -XX:+CMSParallelRemarkEnabled -XX:+U
 ```
 
 Thanks to @ruebot, @anjackson, @tokee.
+
+### Default Search Query
+
+By default, the query will be "big data" between 1996 and 2010. You might want to change that for your collections. To do so, open: `shine/shine/target/scala-2.10/src_managed/main/routes_routing.scala` and change the default query on line 280. i.e. mine now reads:
+
+```
+// @LINE:28
+case controllers_Search_plot_graph10(params) => {
+   call(params.fromQuery[String]("query", Some("recession,depression")), params.fromQuery[String]("year_start", Some("2005")), params.fromQuery[String]("year_end", Some("2015"))) { (query, year_start, year_end) =>
+        invokeHandler(controllers.Search.plot_graph(query, year_start, year_end), HandlerDef(this, "controllers.Search", "plot_graph", Seq(classOf[String], classOf[String], classOf[String]),"GET", """""", Routes.prefix + """graph"""))
+   }
+}
+```
 
 ## Questions?
 
