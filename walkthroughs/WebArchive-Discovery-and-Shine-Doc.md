@@ -136,6 +136,8 @@ Opening shine in the browser (http://localhost:9000), you should have a button t
 
 Navigate to <http://localhost:9000/shine> to begin using. Note that simply using http://localhost:9000/ will lead to errors. 
 
+If in the future, you want to re-active it, you can use this collection of easy-to-use scripts here: <https://github.com/ianmilligan1/WAHR/tree/master/scripts/shine>. Simply download the files, give them privileges with `chmod +x shine-execute-on.sh` and `chmod +x solr-execute-on.sh` and then run `execute.sh`. It will launch two terminal windows for the application to run.
+
 ## Notes
 
 ### Solr Indexing Heap Space Issues
