@@ -1,0 +1,403 @@
+  23863 Canada
+    954 Toronto
+    483 Ontario
+    449 Kyoto
+    394 Ottawa
+    352 Halifax
+    347 Iraq
+    305 Alberta
+    298 Israel
+    296 Beaches-East York
+    268 Canada Central Nova
+    236 Orangeville
+    195 London
+    190 Nova Scotia
+    185 Fredericton
+    184 Guelph
+    173 Dartmouth-Cole Harbour
+    158 Saltspring Island
+    157 Charlottetown
+    146 Cumberland-Colchester-Musquodoboit Valley
+    145 Quebec
+    134 Afghanistan
+    129 Moncton
+    121 Madawaska
+    115 Sherbrooke
+    115 Labrador
+    110 US
+    107 Cape Breton-Canso
+    105 Napanee
+     99 Musquodoboit Valley
+     99 Cumberland
+     99 Colchester
+     87 Riverview
+     87 Dieppe
+     86 Manitoulin
+     86 Kapuskasing
+     75 Montreal
+     72 Bay Street North
+     69 Waterloo
+     64 Southern Ontario
+     64 Peterborough
+     64 Belleville
+     60 Masham
+     58 Wolfville
+     58 Rio de Janeiro
+     58 Orleans
+     57 Woodlawn Road
+     57 Dartmouth-Cole Harbour EDA
+     48 Kitsilano
+     47 Newmarket
+     46 Germany
+     43 New Glasgow
+     41 OTTAWA
+     41 Edmonton
+     40 Truro
+     40 Saskatchewan
+     36 North River Road
+     36 Mardi
+     33 Malpeque Road
+     31 Shediac
+     31 Kitchener
+     31 Blockline Road
+     30 Victoria
+     30 South West Margaree
+     30 Saskatoon
+     30 Inverness County
+     29 U.S.
+     28 London West EDA
+     25 Darfur
+     24 New Brunswi
+     24 Granby
+     23 London North Centre
+     22 SBSTA
+     22 Europe
+     22 Calgary
+     22 Antarctica
+     21 USA
+     20 Haiti
+     19 Parksville
+     18 Elliot Lake
+     18 China
+     18 British Columbia
+     17 Vendredi
+     17 Manitoba
+     16 Vancouver
+     14 Kelowna
+     14 Japan
+     14 GMOs
+     13 Whitby
+     13 Western
+     13 Stratford
+     13 South Carolina
+     13 Montreal Gazette
+     12 Washington
+     12 Scotia Bank Place
+     12 Mississauga South
+     12 Mississauga
+     12 Middle East
+     12 Greenfield Park
+     12 Flanders
+     12 Burlington
+     11 United States
+     11 The Land of Anne The Land of Anne
+     11 Rockcliffe Park Village
+     11 Rideau Centre
+     11 Nova Scotia Commun
+     11 India
+     11 GREEN Gables
+     11 Craik
+     11 Antarctic
+     10 North America
+     10 Mount Fitzwilliam
+     10 Kandahar
+     10 Estonia
+      8 New Brunswick
+      8 Iran
+      8 Cape Breton
+      8 Britain
+      7 UK
+      7 Sudan
+      7 Nairobi
+      7 Jamaica
+      7 Greenland
+      6 Wellington-Halton Hills
+      6 London West
+      6 Le Parti Vert du Canada
+      6 Eastern Township
+      6 Earth
+      6 Caribbean
+      6 Berlin
+      5 Winnipeg
+      5 Newfoundland
+      5 Australia
+      4 Sherbrooke Eastern Township
+      4 Russia
+      4 Pourquoi
+      4 Persian Gulf
+      4 Nanoose Bay
+      4 Meriter Hospital
+      4 Lebanon
+      4 Grandview
+      4 France
+      4 EU
+      4 Denmark
+      3 Venezuela
+      3 Switzerland
+      3 Saanich-Gulf Islands EDA Login
+      3 Paris
+      3 North
+      3 New Zealand
+      3 New York
+      3 Hamilton Centre
+      3 Goose Bay
+      3 California
+      3 Breton
+      3 Bangladesh
+      3 Atlantic Canada
+      3 Africa
+      2 Windsor Ballroom
+      2 Western Europe
+      2 West Coast
+      2 Vista
+      2 TORONTO
+      2 Tibet
+      2 Territoires Ben West bc@partivert.ca Organisateur
+      2 Sweden
+      2 Stockholm
+      2 Spain
+      2 South Africa
+      2 Sevilla
+      2 Saltspring
+      2 Saanich
+      2 Rwanda
+      2 Rio Conference
+      2 Qana
+      2 Paraguay
+      2 Panama
+      2 Pakistan
+      2 Nunavut
+      2 North Korea
+      2 Montréal
+      2 Mexico
+      2 Madison
+      2 Kenya
+      2 Kabul
+      2 Jordan Dupuis
+      2 Ireland
+      2 Holland
+      2 Great Lakes Ottawa
+      2 Great Lakes
+      2 Gondwanaland
+      2 German
+      2 Finland
+      2 England
+      2 Egale
+      2 Cold Lake
+      2 Canadian
+      2 Canada London
+      2 Brazil
+      2 Bonn
+      2 Beijing
+      2 Baltic Sea
+      2 Atlantic
+      2 Asia-Pacific Partnership
+      2 Asia
+      2 America
+      1 Xubuntu
+      1 Whitehorse
+      1 Western Hemisphere
+      1 Western Canada
+      1 Wellington-Halton Hills EDA Login
+      1 Weczeria
+      1 Walkerton
+      1 Vietnam
+      1 Vienna
+      1 Vermont
+      1 Venezuala
+      1 Van Isle
+      1 Vancouver Island
+      1 US Great Lake states
+      1 U.S
+      1 University Avenue
+      1 United Way
+      1 United Kingdom
+      1 UNFCCC
+      1 U.K.
+      1 Ubuntu
+      1 Trippi
+      1 Tony Mass.
+      1 TOKYO
+      1 Tokyo
+      1 The Netherlands
+      1 Thames
+      1 Thailand
+      1 Texas
+      1 Syria
+      1 Sydney
+      1 Suburbia
+      1 St. Lucia
+      1 St. George Street
+      1 St. George 's Church Hall
+      1 Srebenica
+      1 Soviet Union
+      1 Southwest Ontario
+      1 South Waterloo
+      1 South Pacific
+      1 South Moresby
+      1 Southern Ocean
+      1 south asia
+      1 Somalia
+      1 Siberia
+      1 Seychelles
+      1 Scandinavia
+      1 Saudi Arabia
+      1 San Francisco
+      1 Salt Spring Island
+      1 Saanich-Gulf Islands
+      1 Romania
+      1 Rio Declaration
+      1 Red River
+      1 Queen Street
+      1 Quebec MONTREAL
+      1 Prairies
+      1 Portugal
+      1 Port au Prince
+      1 Port
+      1 Poland
+      1 Penn
+      1 Parliament Hill
+      1 Palestine
+      1 Pacific
+      1 Ottawa Centre
+      1 Osler
+      1 Oakville
+      1 Norway
+      1 Northern Europe
+      1 North American
+      1 north american
+      1 north america
+      1 Nigeria
+      1 Nicaragua
+      1 Niagara Region
+      1 NFLD
+      1 New York Review
+      1 New Westminster
+      1 New Jersey
+      1 New Delhi
+      1 Netherlands
+      1 Nelson BC
+      1 Nagasaki
+      1 Mother Earth
+      1 Monte Sollberg
+      1 Mono
+      1 Mile-End
+      1 Middle East Green Party
+      1 middle east
+      1 Michigan
+      1 Mansfield
+      1 Maldives
+      1 Maindy Stadium
+      1 Machu Pichu
+      1 Londres
+      1 London-North-Centre
+      1 London North Center
+      1 Londoners
+      1 London Centre North
+      1 Lincolnville
+      1 Les USA
+      1 Lesotho
+      1 Langues
+      1 Lahemaa National Park
+      1 Kyoto Start
+      1 Kyoto Soumis
+      1 KYOTO Kyoto
+      1 Klingon
+      1 Kline
+      1 Kiribati
+      1 Kiribas
+      1 Kandhar
+      1 Kandahar City
+      1 KABUL
+      1 Jerusalem
+      1 Jalalabad
+      1 Italy
+      1 Israeli-Lebanon
+      1 Israeli Israel
+      1 Israeli
+      1 Islander
+      1 Iran-Syria
+      1 Iran Ottawa
+      1 Indonesia
+      1 Iceland
+      1 Hunter River
+      1 Hungary
+      1 Howe Street
+      1 Houston
+      1 Hong Kong
+      1 Hockley Valley Road
+      1 Hiroshima
+      1 Hamilton
+      1 Halton
+      1 Greece
+      1 Golan Heights
+      1 Geneva
+      1 French
+      1 Fraser Valley
+      1 Facebook
+      1 European
+      1 Endocrine
+      1 Eastern States
+      1 Eastern Europe
+      1 Earth Canada
+      1 Dresden
+      1 Dominica
+      1 Crawford Texas
+      1 Crawford
+      1 Cow Bay
+      1 Costa Rica
+      1 Cornwall
+      1 Copenhagen
+      1 Columbia
+      1 Cochrane Alberta
+      1 Chilliwack
+      1 Chicago
+      1 Charlotte Street
+      1 Central America
+      1 Cartagena
+      1 Cardiff
+      1 Cape Breton Island
+      1 Cape Bretoners
+      1 Cape
+      1 Canadas
+      1 Canada Gregoire Dube
+      1 Canada East
+      1 Cambridge
+      1 Brussels
+      1 Bravo
+      1 Boynton Road
+      1 Boularderie Island
+      1 Bethel Drive
+      1 Bellville
+      1 Belgium
+      1 Belarus
+      1 B.C.
+      1 Bali
+      1 Austria
+      1 Atlantic Seal Harvest
+      1 Atlantic Salmon Fishery
+      1 Atlantic Salmon
+      1 Atlantic Organizer
+      1 Arizona
+      1 Argentina
+      1 Arctic
+      1 Antarctica World Park
+      1 Annapolis Valley
+      1 Amsterdam Netherlands
+      1 American
+      1 Albania
+      1 Airdrie
+      1 Aghanistan
+      1 Afghanistan Kingston
+      1 Afganistan
+      1 afganistan

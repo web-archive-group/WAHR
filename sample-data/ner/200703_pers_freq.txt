@@ -1,0 +1,811 @@
+  19671 Elizabeth EventType
+   9926 Elizabeth May
+   1831 Elizabeth
+   1702 Blogues
+    943 David
+    937 Garth
+    924 Pourquoi Bloguer
+    721 Hier
+    708 Jasper
+    664 Edmo Soumis
+    403 Stephen LaFrenie
+    400 Elizabeth May Elizabeth May
+    337 Cochrane
+    295 Dimanche
+    269 Colbert
+    260 Samedi
+    231 Gareth Davies
+    194 Bill McKibben
+    182 John
+    167 Gregoire Dube
+    155 Stéphane Bordeleau
+    145 Regina
+    134 Thomas Homer Dixon
+    121 Harper
+    119 Pierre M Denis
+    116 Margaret
+    109 Lacombe
+    108 Rona Ambrose
+    107 Michelle Corcos
+     93 Hon James Flaherty
+     90 Brian Smallshaw
+     89 Paul
+     85 Felix Robitaille
+     84 Plourde
+     79 Noël
+     78 Richard Belshaw
+     77 Peter MacKay
+     77 Mark Viitala
+     77 Chris Alders
+     72 Heather Eaton
+     72 Hamilton
+     71 Jeudi
+     70 Refoulez
+     69 Elizabeth May Address
+     69 Donald Fletcher
+     67 Garth Turner
+     65 Sean Maw
+     65 Heure
+     63 Salle Desjardins
+     61 Nan Boothby Library
+     60 Nathan Cullen
+     59 Mike Nickerson
+     58 David McGuinty
+     58 Carriere
+     57 Ecole Secondaire Garneau
+     57 Cameron Wigmore
+     56 Peter Gzowski
+     56 Liste Dimanche
+     55 Al Gore
+     51 Peter
+     51 James
+     51 Graeme Cunningham
+     50 Liste Samedi
+     50 Graeme
+     48 John Dewar
+     44 Lakoff
+     44 Ambrose
+     43 John Knight
+     42 Peter Johnston
+     42 Allen
+     40 Andrew Lewis
+     39 Mercredi
+     39 John Doe
+     35 Jared Giesbrecht
+     35 James Brooks
+     34 David Chernushenko
+     34 Ceci
+     33 Dawson
+     33 Addington
+     32 Stephen Harper
+     31 Lundi
+     31 Jeff Johns
+     31 David Lewis
+     30 May
+     30 Mark MacGillivray
+     30 Digby Museum
+     30 Digby
+     29 Lisa Croome Siobhan Bond
+     29 Carrie McLaren
+     28 Tanner Waldo
+     28 Matthew Smith
+     28 Lori Gadzala
+     27 Victoria Serda
+     26 Sarah
+     26 Dave
+     26 Caroline Law Erica Maier David MacMillan
+     25 Leo Williams
+     25 Chris Aikman
+     24 Sackville
+     24 Michel Champagne
+     24 Cowie
+     23 Phil Spidle Laurie Arron Benjamin Rankin Marie Brosseau Kim Turner
+     23 Peter Graham
+     23 Camille Labchuk Attachée
+     22 Stéphane Dion
+     22 Ralph M.
+     22 Lisa Croome Edward Ing
+     22 Henry Wilson
+     21 Peter Tretter Jim Johnston
+     21 Liste Jeudi
+     21 Jim Johnston
+     21 Harper Soumis
+     21 Donald Earl Harron Craig Cantin Siobhan Bond Kim Turner Pierre M Denis Van Ferrier Craig Cantin
+     20 Neil Adair
+     20 Marie Brosseau Kim Turner Phil Spidle Pierre M Denis Donald Earl Harron Craig Cantin Siobhan Bond Van Ferrier
+     20 Mardi
+     19 John Chenery
+     19 Cathy MacLellan
+     18 Paul Duchastel
+     18 John Baird
+     18 Ingrid Hein
+     18 Carl Bovell
+     18 Apartmen
+     17 Kate Storey
+     17 Darin Otte
+     17 Dan Grice
+     16 Jim Harris
+     16 Green
+     16 Dion
+     15 Vic Toews
+     15 Murray Reeves
+     15 Les
+     15 Kevin Marwick
+     15 Gareth
+     15 Elle
+     15 Edward Ing
+     15 Chernushenko
+     15 Camille Labchuk
+     15 Bill
+     14 Craig Cantin Lisa Croome Siobhan Bond
+     14 Alexander Duncan
+     13 Ryan Scheie
+     13 R. Buckminster Fuller
+     13 John Irving
+     13 Hon Rona Ambrose
+     13 Harris
+     13 Bill Clinton
+     12 Taschereau
+     12 Stephen
+     12 Soleil
+     12 Ryan Smyth
+     12 Jane Bagnell
+     12 George Read
+     12 Derek Pinto
+     12 Collège Dawson Elizabeth
+     12 Chantal Hebert
+     12 Carr
+     12 Alec
+     11 Siobhan Bond
+     11 Kim Turner Marie Brosseau Phil Spidle Pierre M Denis Donald Earl Harron Craig Cantin Siobhan Bond Van Ferrier
+     11 James Rusk
+     10 Tom Axworthy
+     10 Rebecca Bromwich
+     10 M. Harper
+     10 Megan Dietrich
+     10 Macdonald
+     10 Lake Yellowhead
+     10 Fannon
+     10 Daphne Wysham
+     10 Benoît Sauvageau
+     10 Adriane Carr
+      9 Melanie Ransom
+      9 Donald
+      9 Claude William Genest
+      9 Baird
+      8 Storey
+      8 Lisa Croome
+      8 Eric Walton
+      8 Benjamin Rankin Craig Cantin
+      7 Vendredi
+      7 Steve Kisby
+      7 Steve
+      7 M. Jean Langlois
+      7 McKibbon
+      7 Joe Foster
+      7 Chuck Strahl
+      7 Camille Labchuk Agente
+      7 Bush
+      7 Brian
+      7 Arron
+      7 Andrea Horan
+      6 St. Paul
+      6 Penn
+      6 M. Jean Langlois Ottawa
+      6 M. Dion
+      6 Mark Taylor
+      6 Highway Elizabeth May
+      6 Guy Dauncey
+      6 Genest
+      6 Dan Baril
+      5 Van Ferrier Siobhan Bond Lisa Croome Marie Brosseau Laurie Arron Pierre M Denis Mark MacKenzie Diana Nunes
+      5 Mordecai Vanunu
+      5 Michael Oddy
+      5 Marie Brosseau Kim Turner Phil Spidle Pierre M Denis Donald Earl Harron Craig Cantin Siobhan Bond Van Ferrier Craig Cantin
+      5 Laurie Arron
+      5 Kim Turner Donald Earl Harron Craig Cantin Siobhan Bond Pierre M Denis Van Ferrier Craig Cantin
+      5 John Godfrey
+      5 Joel
+      5 Edward Ing Peter Tretter
+      5 Claude Genest
+      5 Chris Tindal
+      5 Adrianne Carr
+      4 Toews
+      4 Siobhan Bond Marie Brosseau Jo Wilk Pierre M Denis Rob Schmidt Lisa Croome
+      4 M. Measner
+      4 Measner
+      4 M. Chernushenko
+      4 M. Arron
+      4 Marie Brosseau
+      4 Lori
+      4 Lisa Croome Van Ferrier Pierre M Denis Siobhan Bond Marie Brosseau Laurie Arron Mark MacKenzie Diana Nunes
+      4 Lewis
+      4 Justes
+      4 John Clarke
+      4 Jean
+      4 Jason Hammond
+      4 James Hansen
+      4 Jake Cole
+      4 Jack Layton
+      4 George W. Bush
+      4 Foster
+      4 Dufferin
+      4 Brian Smallshaw Saanich-Gulf
+      4 Bernard Bigras
+      4 Baril
+      4 Adriane
+      3 Wigmore
+      3 Victoria Cate May Burton
+      3 Victoria Cate
+      3 Van Ferrier
+      3 Tableau Jeudi
+      3 Stephen LaFrenie Traps
+      3 Siobhan Bond Marie Brosseau Pierre M Denis Rob Schmidt Lisa Croome
+      3 Siobhan Bond Lisa Croome
+      3 Sauvageau
+      3 Richard Pereira
+      3 Richard Guy Briggs
+      3 Richard
+      3 Read
+      3 Ransom
+      3 Rae
+      3 Prescott Bush
+      3 Pierre Denis
+      3 Peter Foster
+      3 Pearson
+      3 Pandora
+      3 Osama bin Laden
+      3 M. Langlois
+      3 Mike Jones
+      3 McGraw
+      3 M. Baird
+      3 Maurice Strong
+      3 Marie Brosseau Van Ferrier Lisa Croome Laurie Arron Siobhan Bond Pierre M Denis Mark MacKenzie Diana Nunes
+      3 Maher Arar
+      3 MacKay
+      3 Loretta Pellizzari
+      3 Le Parti Vert
+      3 Leo
+      3 Kim Turner
+      3 Kevin
+      3 Keith Bradsher
+      3 Katie Gibbs
+      3 Julie Baribeau
+      3 Jo Wilk
+      3 John Shavluk
+      3 Jimmy
+      3 Jim Fannon
+      3 Jean-Pierre Kingsley
+      3 Janet Eaton
+      3 Jan Egeland
+      3 Helen Caldicott
+      3 Hausser
+      3 George Bush
+      3 Gary Lunn
+      3 Flaherty
+      3 Erich Jacoby-Hawkins
+      3 Egeland
+      3 Edward Island
+      3 Diana Nunes
+      3 Debra Eindiguer
+      3 Craig Cantin
+      3 Claude
+      3 Brian Mulroney
+      3 Benjamin Rankin Craig Cantin Laurie Arron
+      3 Becky Smit
+      3 Accueil Elizabeth May
+      2 Yukon
+      2 Wild Rose
+      2 Walton
+      2 Walters
+      2 Van Ferrier Marie Brosseau Lisa Croome Laurie Arron Siobhan Bond Pierre M Denis Mark MacKenzie Diana Nunes
+      2 Trey
+      2 Tony Maas
+      2 Tony Clement
+      2 Tom
+      2 Tindal
+      2 Thomas Homer-Dixon
+      2 Supprimez
+      2 Stephane Dion
+      2 Siobhan Bond Van Ferrier Lisa Croome Marie Brosseau Laurie Arron Pierre M Denis Mark MacKenzie Diana Nunes
+      2 Siobhan Bond Pierre M Denis Marie Brosseau Mark MacKenzie Lisa Croome Van Ferrier Diana Nunes Jo Wilk
+      2 Sharon Labchuk
+      2 Sethi
+      2 Rosie
+      2 Rogol
+      2 Robert
+      2 Pierre M Denis Mark MacKenzie Siobhan Bond Marie Brosseau Lisa Croome Van Ferrier Diana Nunes Jo Wilk
+      2 Phil Spidle Marie Brosseau Kim Turner Pierre M Denis Donald Earl Harron Craig Cantin Siobhan Bond Van Ferrier
+      2 Pereira
+      2 Osama
+      2 Nunziata
+      2 Nova Scotia
+      2 M. Layton
+      2 Milburn
+      2 Mike Nagy
+      2 Mike Duffy
+      2 Michael M. Miller
+      2 Michael Miller
+      2 Michael Grayson
+      2 Michael Connors
+      2 McKibben
+      2 Mark Warawa
+      2 Mark
+      2 Marie Brosseau Siobhan Bond Jo Wilk Pierre M Denis Rob Schmidt Lisa Croome
+      2 Manuel Erickson
+      2 Luc Harvey
+      2 Lisa Croome Siobhan Bond Mark MacKenzie Van Ferrier Pierre M Denis Marie Brosseau Diana Nunes Jo Wilk
+      2 Lisa Croome Pierre M Denis Van Ferrier Diana Nunes Marie Brosseau Siobhan Bond Jo Wilk
+      2 Lisa Croome Mark MacKenzie Pierre M Denis Van Ferrier Diana Nunes Marie Brosseau Siobhan Bond Jo Wilk
+      2 Lesley Bradford
+      2 Lennoxville
+      2 Leland
+      2 Laurie
+      2 Langlois
+      2 Jim Flaherty
+      2 Jean Langlois
+      2 Jay
+      2 Huma
+      2 Hugh Esco Équipe
+      2 Hilary Osborne
+      2 Hansard
+      2 Guy Gautreau
+      2 Gore
+      2 Goodman
+      2 George
+      2 Gaston Nadeau
+      2 Frederick Street
+      2 Erich
+      2 Elisabeth May
+      2 Edward Hotel
+      2 Edward
+      2 Don Martin
+      2 Diane Finley
+      2 Désirée McGraw
+      2 Derek
+      2 David Scrymgeour
+      2 Cela
+      2 Bruce Abel
+      2 Bromwich
+      2 Briony Penn
+      2 Brian Glueck
+      2 Biodiver
+      2 Bin Laden
+      2 Ben West
+      2 Ben Rankin
+      2 Arthur Conan Doyle
+      2 Ann Dale
+      2 Andrew Telegdi
+      2 Adam Welton
+      1 Zev Rumstein
+      1 Winston Churchill
+      1 Willy
+      1 William Neikirk
+      1 Will Craddock
+      1 Watt
+      1 Voici
+      1 Vista
+      1 VIII
+      1 Veronica Mars
+      1 Van Ferrier Pierre M Denis Siobhan Bond Lisa Croome Marie Brosseau Laurie Arron Mark MacKenzie Diana Nunes
+      1 Valerie Powell
+      1 Turner
+      1 Trey Capnerhurst
+      1 Trevor Hanna
+      1 Tracy Lynn Shaw
+      1 Tony
+      1 Tom McMillan
+      1 Tom Goodman
+      1 Tom d’Aquino
+      1 Tom Coghlan
+      1 Ted Sargent
+      1 Taylor Owen
+      1 Tanner Waldo Blogue Récent
+      1 Talibani
+      1 Svensmark
+      1 Susan Delacourt
+      1 Sue Davis
+      1 Subventionner
+      1 St. Vincent
+      1 Straw
+      1 Steve Paikin Progress
+      1 Steven
+      1 Steve Kisby Conseillère
+      1 Steve Harper
+      1 Steve Edwards
+      1 Stephen Lewis
+      1 Stephen Harper/Jean Chretien/Paul Martin
+      1 Stephanie Bennett
+      1 Stephan Harper
+      1 Solida
+      1 Siobhan Bond Lisa Croome Mark MacKenzie Van Ferrier Pierre M Denis Marie Brosseau Diana Nunes Jo Wilk
+      1 Siobhan Bond Lisa Croome Marie Brosseau Laurie Arron Van Ferrier Pierre M Denis Mark MacKenzie Diana Nunes
+      1 Simon Pele
+      1 Simcoe
+      1 Silvaine Zimmerman Conseiller
+      1 SIGNE
+      1 Siân Berry
+      1 Shodja Ziaian
+      1 Shirley Picknell
+      1 Sherwood Park
+      1 Sherlock Holmes
+      1 Sheila Fraser
+      1 Shakespeare
+      1 Seaton
+      1 Sean McFee
+      1 Sean Junor
+      1 Scott Paper
+      1 Sara Golling
+      1 Sanders
+      1 Samuel Moisan-Domm
+      1 Saddam Hussein Osama Bin Laden Taliban Omar Kaddafi
+      1 Ryan Scheie Blogue Récent
+      1 Ruth Goldblum
+      1 Rudolph Diesel
+      1 Rudolf Bahro
+      1 Rosie Emery
+      1 Ronald
+      1 Ron
+      1 Rodman
+      1 Roche
+      1 Robson
+      1 Robin Paynter
+      1 Rob Ford
+      1 Robert Newman
+      1 Rick Howe
+      1 Rick Hoines
+      1 Richard Homme
+      1 Rice
+      1 Rhonda Connell
+      1 Ressentez
+      1 Réorienter
+      1 Renseignez
+      1 Renforce
+      1 Rehausser
+      1 Regina Siobhan Bond
+      1 Ralph M. Medjuck
+      1 Rajendra Pachauri
+      1 Quentin Chiotti
+      1 Québec
+      1 Prince
+      1 Pot
+      1 Pinel Remarque
+      1 Pierre M Denis Van Ferrier Siobhan Bond Lisa Croome Marie Brosseau Laurie Arron Mark MacKenzie Diana Nunes
+      1 Pierre M Denis Blogue Récent
+      1 Pierre Juneau
+      1 Phil Spidle Benjamin Rankin Marie Brosseau Kim Turner Pierre M Denis Donald Earl Harron Craig Cantin Siobhan Bond
+      1 Philippe Gosset
+      1 Peter Tretter
+      1 Peter Rodman
+      1 Peter Milliken
+      1 Peter Mackay
+      1 Peter Ellis
+      1 Paul McCartney
+      1 Paul Martin
+      1 Paul Heinbecker
+      1 Paul Duchastel Blogue Récent
+      1 Paul Bernardo
+      1 Paula Boutis
+      1 Osler
+      1 Orwell
+      1 Odette Boivin
+      1 Norman Ruff
+      1 Nord
+      1 Noam Chomski
+      1 Nigel Calder
+      1 Nicholas Burns
+      1 Naviguez
+      1 Nat
+      1 Narconon Narconon
+      1 Myron Thompson
+      1 Muslims
+      1 M. Trevor Hancock
+      1 M. Toews
+      1 M. Pereira
+      1 Mother Nature
+      1 Mordecai Richler
+      1 Montréal
+      1 Monika Schaefer
+      1 Monika
+      1 Moira Howes
+      1 Mme McGraw
+      1 M. Laurie Arron
+      1 Mikhail Gorbachev
+      1 Mike Splinter
+      1 Mike Harris
+      1 Michelle Cottreau
+      1 Michelle Corcos Blogue Récent
+      1 Michaels
+      1 Michael Rogol
+      1 Michael O'Brien
+      1 Michael Ng
+      1 Michael Manley
+      1 Michael Fortier
+      1 Michael Chong
+      1 Merci
+      1 Melissa Arseniuk
+      1 Melanie Ransom Conseillère
+      1 Mehdi Mollahasani
+      1 M. David Scrymgeour
+      1 McGibbon
+      1 McCain
+      1 M. Ban Ki-moon
+      1 Maude Barlow
+      1 Matt Smith
+      1 Matthew Soumis
+      1 Matthew Clarke
+      1 Matthew
+      1 Mary May Simon
+      1 Mary Hegan Passez
+      1 Mary Ann Caldwell Joel Parkes Miriam Stucky
+      1 Martha Hall Findlay
+      1 Mark Pyette
+      1 Mark MacKenzie Lisa Croome Van Ferrier Siobhan Bond Pierre M Denis Marie Brosseau Diana Nunes Jo Wilk
+      1 Mark Coffin
+      1 Marina Tench
+      1 Marie Brosseau Siobhan Bond Pierre M Denis Rob Schmidt Lisa Croome
+      1 Marianne Garah
+      1 Maria Coady
+      1 Marc Beauchamp
+      1 Mama
+      1 Malgré
+      1 M. Adrian Measner
+      1 Madeleine Parent
+      1 MacLean
+      1 Lynne Champoux-Williams
+      1 Lutter
+      1 Lunn
+      1 Lumina
+      1 Loyola Hearn
+      1 Louise Arbour
+      1 Lorsque M. Harper
+      1 Lori Vous
+      1 Lori Soumis
+      1 Lloyd Axworthy
+      1 Liz Thompson
+      1 Lisa Khoo
+      1 Lisa Croome Van Ferrier Siobhan Bond Marie Brosseau Laurie Arron Pierre M Denis Mark MacKenzie Diana Nunes
+      1 Libby Davies
+      1 les Verts de Jasper
+      1 Les Parsons
+      1 Le Soleil
+      1 Les Jeunes
+      1 Les Ami
+      1 Lequel
+      1 Leo Soumis
+      1 Leland Thomas
+      1 Leger
+      1 le Danemark
+      1 Layton
+      1 Lawrence Paul de Millbrook
+      1 Laurent
+      1 Larry Campbell
+      1 Landon Pearson
+      1 LaFrenie
+      1 Lac Sergent Soumis
+      1 Kyle Rae
+      1 Kofi Annan
+      1 Kelvin
+      1 Kathleen E.
+      1 Karzai
+      1 Karin Cope
+      1 Karen Cao
+      1 Kapstein
+      1 Justin Trudeau
+      1 Julie Van Dusen
+      1 Julien Rodrigue
+      1 Judes
+      1 Joshua Slocum
+      1 Jordan
+      1 Jolly Jack
+      1 John Walters
+      1 John McCrae
+      1 John McCain
+      1 John Livingstone
+      1 John Ibbitson
+      1 John Chris Alders
+      1 Joel Janeus
+      1 J.K. Rowling
+      1 Jiselle Bakker
+      1 Jim
+      1 Jill
+      1 Jesus Christ
+      1 Jeroen Van der Veer
+      1 Jeremy Stiles Manitoba Kate Storey Nouveau-Brunswick Erik Millet Nouvelle-Écosse Thomas Trappenberg Nunavut William Gawor
+      1 Jennifer Ditchburn
+      1 Jeff Johns Blogue Récent
+      1 Jean-Marcel
+      1 Jean Langlois Ottawa
+      1 Jaymini
+      1 Jay Fitzsimmons Ottawa-Vanier
+      1 Jay Fitzsimmons
+      1 Jared Giesbrecht Directrice
+      1 Jared Giesbrecht Blogue Récent
+      1 Janina Komaroff
+      1 Jane Taber
+      1 James Vous
+      1 James Thurber
+      1 James Brooks Rédactrice
+      1 James Brooks Dude
+      1 Jama Said Korshel
+      1 Jacques Racine
+      1 Jacques
+      1 Jack
+      1 Israël
+      1 Irving
+      1 Invitez
+      1 Ignatieff
+      1 Hugh Esco Youth Team
+      1 Horan
+      1 Hitler
+      1 Hill
+      1 Herbert Hoover
+      1 Henry Waxman
+      1 Heinbecker
+      1 Harper Ambrose
+      1 Halton
+      1 Gwen May
+      1 Gwen
+      1 Grünen
+      1 Gregoire Dube Mon
+      1 Grégoire Dubé
+      1 Grant
+      1 Graham Greene
+      1 Graeme Pearman
+      1 Grâce
+      1 Gordon Tootoosis
+      1 Gordon O'Connor
+      1 Gordon Brown
+      1 Gerhard Kennedy
+      1 George W.
+      1 Georges
+      1 George Orwell
+      1 Gavin
+      1 Gary Caldwell
+      1 Garth Elizabeth
+      1 Garneau
+      1 Gareth Davies Nanaimo-Alberni
+      1 Ganja
+      1 Fraser
+      1 Francis Scarpallegia
+      1 Forman
+      1 Flisom
+      1 Fiona Roe Territoires
+      1 Ethan Kapstein
+      1 Erich Jacoby-Hawkins Barrie
+      1 Elmer Laird
+      1 Elizabeth Peloza
+      1 Elizabeth May Traversée
+      1 Elizabeth May Sur
+      1 Elizabeth May Siobhan Bond
+      1 Elizabeth May Rona Ambrose
+      1 Elizabeth May Refoulez
+      1 Elizabeth May Leo Williams
+      1 Elizabeth May Garth
+      1 Elizabeth May Collège Dawson
+      1 Eli Berman
+      1 Edmunston
+      1 Edmonton Sherwood Park
+      1 Ed Broadbent
+      1 ED
+      1 E. Coli
+      1 Durabilité
+      1 Dumbledore
+      1 Douglas Roche
+      1 Doug Anderson Conseillère
+      1 Donnez
+      1 Don Houston
+      1 Donald Soumis
+      1 Donald Fletcher Corn
+      1 Devenez
+      1 de Tuktu
+      1 des Métis
+      1 Derek Wall
+      1 Derek Pieper
+      1 Denis
+      1 de Garth
+      1 de E. F. Schumacher
+      1 Deanna Kirk
+      1 David Miller
+      1 David Hapgood
+      1 David Emerson
+      1 David Chernushenko-runner
+      1 David Anderson
+      1 Dave Parker
+      1 Dave Bagler
+      1 Dauncey
+      1 Darryl Whetter
+      1 Darrel Reid
+      1 Darcy Higgins
+      1 Daphne
+      1 Daniel Walker
+      1 Daniel Robitaille
+      1 Daniel A. Reifsnyder
+      1 Crowfoot
+      1 Cronyn
+      1 Craik
+      1 Craig Cantin Marie Brosseau Craig Cantin Siobhan Bond Laurie Arron Lisa Croome
+      1 Collin Potter Bonar
+      1 Collette
+      1 Collège Dawson
+      1 Colin Griffiths
+      1 Cody Torgerson
+      1 Cochrane Siobhan Bond
+      1 Cliquez
+      1 Clintion
+      1 Claude saura
+      1 Claude Genest Présidente
+      1 Chris Vous
+      1 Christopher Ian Bennett Conseiller
+      1 Christopher Ian Bennett
+      1 Christine Jones
+      1 Christine Freeman-Roth
+      1 Chris Soumis
+      1 Chris Harborne
+      1 Chris
+      1 Chretien
+      1 Choisissez
+      1 Charles Lynch
+      1 Catharine Johansson
+      1 Carleton
+      1 Cape Breton
+      1 Camille Labchuk Rélations
+      1 Camille Labchuk Clabchuk@greenparty.ca
+      1 Camille Labchuck
+      1 Cameron Stiff
+      1 Burns
+      1 Bruxelles
+      1 Bruce
+      1 Bronte
+      1 Broadbent
+      1 Breton
+      1 Braun Woodfield
+      1 Bob Ray
+      1 Bob Curran
+      1 bin Laden
+      1 Beverly McLachlin
+      1 Beverley Woodfield
+      1 Beverley McLachlin
+      1 Betty
+      1 Bernie Sanders
+      1 Bérnard Bigras
+      1 Ben Polley David McAuley Frank de Jong
+      1 Bell
+      1 Becky Smit Conseillère
+      1 Barton Jeffrey Cutten
+      1 Barry Commoner
+      1 Barbara Boxer
+      1 Barack Obama
+      1 Ayer
+      1 Audrey McLaughlin
+      1 Ardyth
+      1 Anneka
+      1 Anne Dan Grice
+      1 Anne Chris Alders
+      1 Anil Sethi
+      1 Angela Reid Conseillère
+      1 Andrew Potter
+      1 Andrew Livingstone
+      1 Andrew
+      1 Andrea Caulfield Conseiller
+      1 Ambrose Evans-Pritchard
+      1 al Qaeda
+      1 Alors
+      1 Alon Wineberg
+      1 Almaz Aladas
+      1 Allan Morin
+      1 Allan J. MacEachern
+      1 Allan J. MacEachen
+      1 Alison
+      1 Alex Strachan
+      1 Alexa Pitoulis Yukon
+      1 Alberta Cameron Wigmore
+      1 Alan Tonks
+      1 Aidez
+      1 Adrianne
+      1 Adrian Measner
+      1 Adam Sommerfeld
+      1 Adam Beach
+      1 Achim Steiner
+      1 Accueil Harper
+      1 Abel

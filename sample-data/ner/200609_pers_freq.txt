@@ -1,0 +1,683 @@
+    755 Elizabeth May
+    220 Harris
+    219 Jim Harris
+    137 David Chernushenko
+     52 Harper
+     52 Green
+     46 May
+     44 Martin
+     44 Bush
+     40 Derek Pinto
+     32 David Kay
+     28 Gomery
+     26 Paul Martin
+     26 John
+     24 Chernushenko
+     23 Jim
+     23 Elizabeth
+     22 Manley
+     22 Dietrich
+     21 Chandler
+     18 David
+     18 Cherfi
+     17 Stephane Dion
+     16 Eric Walton
+     16 Chretien
+     16 Brown
+     14 Tom Manley
+     14 Lougheed
+     14 Jasper
+     13 Walton
+     13 Thornhill
+     13 Stephen Harper
+     13 Pierre Pettigrew
+     13 Jim Harris Speech
+     12 Schiller
+     12 Labchuk
+     12 Dion
+     11 Sharon Labchuk
+     11 Mackenzie
+     10 Steve White
+     10 Steve
+     10 Mona Elaine Adilman Lectureship
+     10 Elizabeth Peloza
+     10 Bruce Abel
+     10 Amélie Gingras
+     10 Adrianne Carr
+      9 Victoria
+      9 Thomas Homer-Dixon
+      9 Peter Foster
+      9 Paul
+      9 Cameron Wigmore
+      8 Milliken
+      8 Mark MacGillivray
+      8 Mark Brooks
+      8 Layton
+      8 Junker
+      8 Edward Hotel
+      8 David Suzuki
+      8 Clinton
+      8 Camille Labchuk
+      8 Bill Clinton
+      8 Bill
+      8 Becky Smit
+      7 Rona Ambrose
+      7 Julie Baribeau
+      7 George Bush
+      7 Ed Broadbent
+      7 Doucet
+      7 Andrew Lewis
+      7 Al Gore
+      6 Van Ferrier
+      6 Tewolde
+      6 Suzanne Laberge
+      6 Sauvageau
+      6 Ralph Klein
+      6 Rafe Mair
+      6 Mulroney
+      6 Michael Robinson
+      6 Lori Gadzala
+      6 Kathryn Holloway
+      6 Halton
+      6 George Read
+      6 Frank De Jong
+      6 Elizabeth May Frank De Jong
+      6 Edward
+      6 David Drake
+      6 Chris Lackner
+      6 Alexa Pitoulis
+      5 Tom Clarke
+      5 St. John
+      5 Regina
+      5 Rebecca
+      5 Ralph Torrie
+      5 Mohamed Cherfi
+      5 Lydia Dotto
+      5 Lawrence Redfern
+      5 Kootenay-Columbia Join
+      5 Jose Etcheverry
+      5 Joe
+      5 Jack Layton
+      5 Ian
+      5 Francois Desgroseillier
+      5 Denise Savoie
+      5 David Chern
+      5 Cochrane
+      5 Clements Verhoeven
+      5 Claude Béchard
+      5 Broadbent
+      5 Bill Hulet
+      5 Ben West
+      5 Allan Gribbin
+      4 William Gawor
+      4 Victoria Cate
+      4 Trey
+      4 Thomas
+      4 Terri Kemball
+      4 Tamsyn Burgmann
+      4 Stronach
+      4 Shirley Picknell
+      4 Scott Reid
+      4 Ronald Wright
+      4 Ray Anderson
+      4 Putin
+      4 Purves
+      4 Paul O'Neil
+      4 Pauline
+      4 Paehlke
+      4 Melanie Ransom
+      4 Melanie
+      4 McIntyre
+      4 McCully
+      4 Matt Takach
+      4 Martin C. Barry
+      4 Martha Stewart
+      4 Lorne Stelmach
+      4 Lloyd Helferty
+      4 Laurel Broten
+      4 Lau
+      4 Klein
+      4 Kevin Colton
+      4 Jones
+      4 John Hamm
+      4 John Divinski
+      4 John Bennett
+      4 Joe Foster
+      4 Jim Birchard
+      4 Jill Morningstar-Janzen
+      4 Jeremy Stiles
+      4 Jean Chretien
+      4 Ian Elliot
+      4 Frederick Street
+      4 Frank de Jong
+      4 Frank deJong
+      4 Fort McMurray
+      4 Fiona Roe
+      4 Erik Millet
+      4 Edward Island
+      4 Doug Anderson
+      4 Don Descoteau
+      4 derek pinto
+      4 Deirdre McMurdy
+      4 David Smith
+      4 David Chenushenko
+      4 Dave
+      4 Cochrane Doug McIntyre
+      4 Christopher Ian Bennett
+      4 Casey Korstanje
+      4 Carr
+      4 Brian Mulroney
+      4 BETTY PETERSON
+      4 Bennett
+      4 Belinda Stronach
+      4 Barbara Yaffe
+      4 Anne McLellan
+      4 Angus Reid
+      4 Angela Reid
+      4 Andrew Carkner
+      4 Andrea Prazmowski
+      4 Andrea Caulfield
+      4 Almaz Aladas
+      4 Alexa Pitoulis Nunavut William Gawor
+      4 Adriano Caldi
+      3 Vanessa Long
+      3 Sonya Chandler
+      3 Silvaine Zimmermann
+      3 Sherwood Park
+      3 Rebecca Bromwich
+      3 Peter Johnston
+      3 Paul Dewar
+      3 Pamela Munroe
+      3 Otto
+      3 Nelson
+      3 Mike Robinson
+      3 Mike Nagy
+      3 Megan Dietrich
+      3 Lee-Anne McAlear
+      3 Larry Gordon
+      3 Kyle Grice
+      3 Jullian Mug
+      3 Jude Larkin
+      3 JOHN ABBOTT
+      3 Jim Harris Jim Harris
+      3 Jean-François Pinel
+      3 Fannon
+      3 Eric
+      3 E. Coli
+      3 Dermod Travis
+      3 Chuck Guité
+      3 Casanova
+      3 Carolyn Bennett
+      3 Bromwich
+      3 Bernard Lord
+      3 Bea Holland
+      3 Barbara Dalziel
+      3 Ariel Lade
+      3 Alan Lowe
+      3 Adam Welton
+      2 Wright
+      2 Wilma
+      2 William H. Kemp
+      2 Wendy Mesley
+      2 Wayne Smith
+      2 Wayne Gretzky
+      2 Wayne Crookes
+      2 Trey Capnerhurst
+      2 Toronto Elizabeth May
+      2 Tom McMillan
+      2 Tom d'Aquino
+      2 Thomas Trappenberg New Brunswick Erik Millet
+      2 Thomas Trappenberg
+      2 Ted Alexander Raphael Thierrin Elisabeth Marsollier Gregory Hemming
+      2 Svant Arrhenius
+      2 Steve Mertl
+      2 Steve Kisby
+      2 Steve Anderson
+      2 Sterk
+      2 Stephen Owen
+      2 Stephen Hazel
+      2 Stan
+      2 Simon Doyle
+      2 Shirley
+      2 Sharon
+      2 Sean Maw
+      2 Scott Paper
+      2 Scott Brison
+      2 Schwarzenegger
+      2 Saparno
+      2 Russell
+      2 Rudy Koop
+      2 Roy MacGregor
+      2 Roy Ball
+      2 Rogers
+      2 Roger Benham
+      2 Robin Stubbs
+      2 Rob Hutchison
+      2 Robert Paehlke
+      2 Rnd Paul David Steve Daryl Mike NOTA
+      2 Rita
+      2 Richard Thomas
+      2 Richard Procter
+      2 Richard
+      2 Rebecca Bromwich Candidate Silvaine Zimmermann
+      2 Raphaël Thierrin
+      2 Ram Meyers
+      2 Québec
+      2 Pierre Pettigrew I
+      2 Pierre Albert Sévigny
+      2 Petra Kelly
+      2 Peter Wlodarczak
+      2 Peters
+      2 Peter Milliken
+      2 Peter McKiernan
+      2 Peter MacKay
+      2 Peter Lougheed
+      2 Paul Simon
+      2 Paul Okalik
+      2 Pauline Richards
+      2 Paul George Candidate Steve Kisby
+      2 Paula Boutis
+      2 Patrick Brethour
+      2 Pat Binns
+      2 Parry
+      2 Otto Casanova
+      2 Ottawa Jim Harris
+      2 Nova Scotia
+      2 Neil Sinclair
+      2 Monika Schaefer
+      2 Monika
+      2 Mona Elaine Adelman
+      2 Mikhail Gorbachev
+      2 Mike Nickerson
+      2 Michel Cogger
+      2 Mesley
+      2 Mell
+      2 McMurray
+      2 McKenzie
+      2 McDermott
+      2 McCain
+      2 Maurice Strong
+      2 Maude Barlow
+      2 Matthew Clarke
+      2 Martha Hall Findlay
+      2 Marky
+      2 Mark Taylor Candidate Jean-François Pinel
+      2 Mark Pyette
+      2 Marie-Odile Junker
+      2 Marianne Garah
+      2 Margaret Beckett
+      2 Maher Arar
+      2 MacLean
+      2 MacGillivray
+      2 Macdonald
+      2 Lynn Lau
+      2 Lynette Tremblay
+      2 Lynette
+      2 Lowe
+      2 LOVINS
+      2 Lou Grimshaw
+      2 Lorne Calvert
+      2 Lori Gadzala Manitoba Kate Storey
+      2 Lori Ann Martino
+      2 Lester Pearsons
+      2 Les Parsons
+      2 Leslie MacKinnon
+      2 Lee-Anne
+      2 Lavant
+      2 Larry Zepp
+      2 Larry McDermott
+      2 Lake Wabamun
+      2 Labrador Fiona Roe Nova Scotia Thomas Trappenberg Nunavut William Gawor
+      2 Labrador Fiona Roe
+      2 Kyoto
+      2 Kristen Vernon
+      2 KILLAM
+      2 Killam
+      2 Kevin Catherine Constantine Melanie
+      2 Kent
+      2 Kenneth Boulding
+      2 Katrina
+      2 Kathryn Holloway Katheryn Holloway
+      2 Kathleen Harris
+      2 Kate Story
+      2 Kate Storey
+      2 Kate Dubinski
+      2 Kashechewan
+      2 Juliet Burgess
+      2 Judy Monchuk
+      2 Juan de Fuca
+      2 Juan
+      2 Joseph Volpe
+      2 Joseph Handley
+      2 Jose Alejandro Yak
+      2 John Turner
+      2 John Purves
+      2 John Kenneth Galbraith
+      2 John Johnson
+      2 John Ibbitson
+      2 John Godfrey
+      2 John Dauvergne
+      2 John Clements
+      2 John A. Macdonald Boulevard
+      2 Joan
+      2 Jimmy Carter
+      2 Jim Harris Charles Lynch
+      2 Jill
+      2 Jesus
+      2 Jeremy Stiles Nova Scotia Thomas Trappenberg
+      2 Jeff Rudd
+      2 Jeff Holubitsky
+      2 Jeff Brownridge
+      2 Jean Charest
+      2 Jared Diamond
+      2 James Falcon Candidate Ben West
+      2 James Brooks
+      2 James
+      2 Jacquie Fenske
+      2 Jacquelyn Spark
+      2 Ian Hopfe
+      2 Hummer
+      2 Howard Hampton
+      2 Holly Dressel
+      2 Holly
+      2 Herbert Hoover
+      2 Harlan Watson
+      2 Gro Harlem Brundtland
+      2 Gro Harlam Brundtland
+      2 Gore
+      2 God
+      2 Glen Lawrence
+      2 Glen Clark
+      2 Gerard Kennedy
+      2 George W. Bush
+      2 George H.W. Bush
+      2 Geoff Regan
+      2 Gary Wilson
+      2 GANDHI
+      2 Gaile Whelan Enns
+      2 Foster
+      2 FLORENCE NIGHTENGALE
+      2 Flora MacDonald
+      2 Floatie
+      2 FARLEY MOWAT
+      2 Eric Thank-you
+      2 Eric Schiller
+      2 Eric B. Walton
+      2 Edward Island Jeremy Stiles
+      2 Eden
+      2 Dwight Duncan
+      2 Dougherty
+      2 Don Rogers
+      2 Donna Dillman
+      2 Don Martin
+      2 Don Cameron
+      2 Derek
+      2 Dennis Fentie
+      2 Dennis Bueckert
+      2 Debbie Hartley
+      2 David Schindler
+      2 DAVID KORTEN
+      2 David Greenfield
+      2 David Chernsuhenko
+      2 Dave Stupich
+      2 Dave Pullen
+      2 Dave Parker
+      2 Dave Drake
+      2 Daryl Manning
+      2 Daniel Girard
+      2 DALTON
+      2 Collette
+      2 Colin Griffiths
+      2 Clive Doucet
+      2 Chu Chai
+      2 Christopher Waddell
+      2 Christopher Ian Bennett Christopher Ian Bennett
+      2 Christopher Ian Bennet
+      2 Christine Todd Whitman
+      2 Christine Ellis
+      2 Christie
+      2 Chris Milburn Candidate Thomas Trappenberg
+      2 Chip Martin
+      2 Chas Dietrich
+      2 Charles Lynch
+      2 Célestin Bouchard
+      2 Catherine Johansson
+      2 Catharine Johannson
+      2 Carol Goar
+      2 Carly Weeks
+      2 Camille
+      2 Caitlin Illustration
+      2 Caitlin
+      2 Buzz Hargrove
+      2 Burgess
+      2 Bruce Anderson
+      2 BROWN
+      2 Brent Jewell
+      2 Bonsoir
+      2 Bonser
+      2 Bob Brown
+      2 Blair MacLean
+      2 Bill Hulet Candidate Christopher Ian Bennett
+      2 Bill Blaikie
+      2 Beth Peterkin
+      2 Beth MacKinnon
+      2 Bertrand Russell
+      2 Benoît Sauvageau
+      2 Becky Smit Becky Smit
+      2 Basil Seaton
+      2 Barrie
+      2 Audrey Saparno
+      2 Arrenhius
+      2 Arnold Schwarzenegger
+      2 Angus
+      2 Andrew Mills
+      2 Andrea Horan
+      2 Anderson
+      2 Al Qaeda
+      2 Alon Wineberg
+      2 Allan Rock
+      2 Allan J. MacEachern
+      2 Alison
+      2 Alan Dunn
+      2 Alaeldin Kangam
+      2 Adriane Carr
+      2 Addington
+      2 Adam
+      1 Yvon Godin
+      1 Yates
+      1 Wortley
+      1 Wild Rose
+      1 Wendy Francis
+      1 Ward
+      1 Vic West
+      1 Vachon
+      1 Tommy Schnurmacher
+      1 Tom
+      1 Tingley
+      1 Timothy Feher
+      1 Tim Hearn
+      1 Tewolde Berhan Gebre Egziabher
+      1 Ted Alexander
+      1 Teague
+      1 Tania Briceno
+      1 Stratégie
+      1 St Paul
+      1 St. Leon
+      1 Stephon Dion
+      1 Stéphane Dion
+      1 Stan Hunter
+      1 Stan Cosack
+      1 Sonya Gracey
+      1 Sidney
+      1 Sheila Copps
+      1 Scott Leyland
+      1 Scott Kadwell
+      1 Sarwer-Foner
+      1 Roy Chandler
+      1 Rob Strang
+      1 Rob McDonald
+      1 Robinson Rivadeneyra Reategui
+      1 Rick Smith
+      1 Richard Mansfield
+      1 Rex Benning
+      1 Raquel
+      1 Ranchman
+      1 Ralph Goodale
+      1 Pointe du Chene
+      1 Pinel Jean-François Pinel
+      1 Pierre Sadik
+      1 Philippe Lucas
+      1 Pettigrew
+      1 Peter Kent
+      1 Peter Graham
+      1 Pendergast
+      1 Paul Warnet
+      1 Pauline Picard
+      1 Nancy Robertson
+      1 Montréal
+      1 Mitchell
+      1 Mike Cohen
+      1 Michel Guimond
+      1 Michael Rosen
+      1 Michael
+      1 Metcalfe
+      1 Meg Purdy
+      1 Meg
+      1 Meadowbrook
+      1 McMaster
+      1 Maya
+      1 Matthew Bromwich
+      1 Martin Drapeau
+      1 Mark Taylor
+      1 Mari-Martin
+      1 Marie Martine Bédard
+      1 Marie-Martine Bedard
+      1 Marie Brosseau
+      1 Margaret Atwood
+      1 Marc Lépine
+      1 Marc André Gadoury
+      1 Macleod
+      1 Lucas
+      1 Lola
+      1 Lisse Bissonnette
+      1 Leo Broderick
+      1 Lee-Anne Date
+      1 Lawrence Martin
+      1 Lawrence
+      1 Larry Ashmore
+      1 Lafleur
+      1 Lade
+      1 Kruger
+      1 Kip Holloway
+      1 Kim Campbell
+      1 Kerry
+      1 Kay Green
+      1 Karen Redman
+      1 Julie Gelfand
+      1 Jules Blais
+      1 Judi Longfield
+      1 Joyce
+      1 Jose Alejandro Yac
+      1 Jose
+      1 Jonquière
+      1 John Tory
+      1 John MacRitchie
+      1 Johanne Gelinas
+      1 Joe Jordan
+      1 Jim Harris Elizabeth May
+      1 Jim Haris
+      1 Jim Fannon
+      1 Jennifer Teague
+      1 Jean Tingley
+      1 Jean Lafleur
+      1 Jean-François Pinel Jean-François Pinel
+      1 Jean-Bertrand Aristide
+      1 Jay Hill
+      1 Jane Sterk
+      1 Jacques Gélineau
+      1 Jack Horner
+      1 Ilona Dougherty
+      1 Hurtado
+      1 Helen Hughes
+      1 Heather Sim
+      1 Harold Henn
+      1 Gordon Cobb
+      1 Gilles Duceppe
+      1 George St.
+      1 Fulford Hall
+      1 Frank Graves
+      1 François Boivin
+      1 Flor de Maria Hurtado Valdezon
+      1 Felix Murazzo
+      1 Eves
+      1 Evan Hughes
+      1 Ernie Eves
+      1 Ernie
+      1 Elliot Lake
+      1 Elizabeth May Biography Elizabeth May
+      1 Eglington
+      1 Eduardo Bruce Montes Oca
+      1 Doug Warkentin
+      1 Douglas Street
+      1 Doug Gallant
+      1 Don Toffaletto
+      1 Don Boudria
+      1 Dominic LeBlanc
+      1 Dida Berku
+      1 Diane Smith
+      1 De Jong
+      1 David Wright
+      1 David Peterson
+      1 David Pengelly
+      1 David Dingwall
+      1 David Chernushenko Meet Jim Fannon
+      1 David Chernushenko Jim Harris
+      1 David Chernushenko david@greenparty.ca David
+      1 Dave Welsh
+      1 Daniel
+      1 Dan Biocchi
+      1 Dale Johnston
+      1 Dalai Lama
+      1 Cody
+      1 Claude William Genest
+      1 Claude Genest
+      1 Chutes-de-la-Chaudière Ridin
+      1 Chris Coggan
+      1 Chernushensko
+      1 Charles W. Stockey Centre
+      1 Charles Lynch Room
+      1 Cesar Bello
+      1 Catharine Laidlaw-Sly
+      1 Carole Taylor
+      1 Carla
+      1 Cam Wakefield
+      1 Caldi
+      1 Bruce Abel Chair
+      1 Brooke Finlayson
+      1 Broderick
+      1 Brison
+      1 Brian Sarwer-Foner
+      1 Brian Gibb
+      1 Booz Allen Hamilton
+      1 Bob Duncanson
+      1 Bill Hulet Gareth White
+      1 Bill Hulet Bill Hulet Bill
+      1 Bill Casey
+      1 Bernard Bigras
+      1 Bernard
+      1 Belledune
+      1 Beaudin
+      1 B.C. Christie
+      1 B. Abel
+      1 Austin Pendergast
+      1 Aristide
+      1 Anthony Germaine
+      1 Anne St.
+      1 Alvaro
+      1 Alicia Ross
+      1 Alex Drossos Raphaël Thierrin Fed Sanchez
+      1 Alexandre Beaudin
+      1 Alejandro Toledo
+      1 Albert Rousseau
+      1 Albert
+      1 Adam Room

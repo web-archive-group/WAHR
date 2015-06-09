@@ -1,0 +1,303 @@
+    968 Ottawa
+    534 Canada
+    131 Calgary
+     89 Montreal
+     86 Ontario
+     48 US
+     39 Alberta
+     38 U.S.
+     35 Victoria
+     35 Toronto
+     35 Kyoto
+     29 Quebec
+     27 Saskatchewan
+     24 Newfoundland
+     23 Edmonton
+     21 United States
+     20 Afghanistan
+     19 Vancouver
+     19 Charlottetown
+     18 Guatemala
+     18 Cana
+     17 Japan
+     17 Haiti
+     17 China
+     16 Montréal
+     16 Kingston
+     15 New Brunswick
+     15 London
+     14 North America
+     13 Saanich
+     12 Tibet
+     12 Oakville
+     12 Manitoba
+     12 Kootenay Lake
+     12 Iqaluit
+     11 Europe
+     11 British Columbia
+     10 N.W.
+     10 Iraq
+     10 Chernushenko
+     10 Central America
+     10 Boston
+      9 Peterborough
+      9 Moncton
+      9 Kootenay-Columbia
+      9 Cornwall
+      8 Saanich Gulf Islands
+      8 Lanark Highlands
+      8 Guelph
+      8 Atlantic Canada
+      7 OTTAWA
+      7 Nova Scotia
+      7 Mansfield
+      7 Beaches East York
+      6 Winnipeg
+      6 Taiwan
+      6 Sidney
+      6 Québec
+      6 Oakville Beaver
+      6 N.A.
+      6 Linbrook Road
+      6 Kokanee Springs
+      6 Ireland
+      6 Grey Creek Hall
+      6 El Salvador
+      6 Creston
+      6 Crawford Bay
+      6 California
+      6 Beacon Avenue
+      6 Americas
+      5 U.S
+      5 Germany
+      5 Galleria London
+      5 Canada Quebec
+      5 Brentwood
+      5 Algeria
+      4 Walkerton
+      4 U.K.
+      4 Sweden
+      4 St. Leon
+      4 South America
+      4 Sherwood Park
+      4 Saskatoon
+      4 QUEBEC
+      4 Portage Lisgar
+      4 Parry Sound
+      4 Ottawa Citizen
+      4 N.S. CBC Nova Scotia
+      4 Meadowbrook
+      4 Lanark
+      4 Halifax
+      4 Fort Street Victoria
+      4 Finland
+      4 Earth
+      4 Denmark
+      4 America
+      3 Wabasca
+      3 Virginia
+      3 Turner Valley
+      3 Surrey
+      3 Salt Spring Island
+      3 Quebec City
+      3 Peru
+      3 Penticton
+      3 Nunavut
+      3 North Saanich
+      3 North American
+      3 Mississauga
+      3 Mexico
+      3 Metcalfe Street
+      3 Labrador
+      3 Gatineau Park
+      3 Esquimalt
+      3 Decima
+      3 B.C.
+      3 Australia
+      2 Yates Street
+      2 West Bank
+      2 USA
+      2 UK
+      2 Tasmania
+      2 Sudbury
+      2 Spain
+      2 Southeast Asia
+      2 South
+      2 Scotland
+      2 Saparno
+      2 Royal York
+      2 Queen 's Park
+      2 Portugal
+      2 Port Carling
+      2 Perth
+      2 Parks Canada
+      2 Ottawa-Centre
+      2 Ottawa Centre
+      2 North Sherbrooke
+      2 North
+      2 New Orleans
+      2 Netherlands
+      2 Lanark-Frontenac-Lennox
+      2 Lachine
+      2 Kentucky
+      2 Hebron
+      2 Green P.A. Sévigny
+      2 Gower Street
+      2 Geneva
+      2 France
+      2 Fenway
+      2 European Union
+      2 EL Salvador
+      2 El Salv
+      2 Edmonton-Sherwood Park Green
+      2 Congo
+      2 Chandler
+      2 Caribbean
+      2 Canberra
+      2 Britain
+      2 Brantford
+      2 Belledune
+      2 Bay St
+      2 Australian
+      2 Atlantic
+      2 Asia
+      2 Arctic
+      2 Alberta Margaret Marean British Columbia
+      1 Zambia
+      1 Winchester Ontario
+      1 White Rock
+      1 Wheatley River
+      1 West Vancouver
+      1 Westminster Avenue
+      1 West Kootenay
+      1 West Africa
+      1 Victoria Green
+      1 Victoria GP
+      1 Vancouver Island
+      1 Vancouver East
+      1 United States/Japan
+      1 United Churches
+      1 Toronto Beaches
+      1 Swanwick Avenue
+      1 Suriname
+      1 Sunshine Coast
+      1 Sudan
+      1 St. West
+      1 St. Thomas/London
+      1 Stratford
+      1 St. Leonard
+      1 St. John 's
+      1 St. Jacques Ouest
+      1 St. Brantford
+      1 Stanley Park
+      1 Slave Lake
+      1 Sherwood Drive
+      1 Sherbrooke St.
+      1 Shediac
+      1 Senegal
+      1 Saanich-Gulf Islands
+      1 Russia
+      1 Rio de Janeiro
+      1 Riel Drive
+      1 Richmond
+      1 René-Levasseur Island
+      1 Red Earth Creek
+      1 Québec City
+      1 Port Moody-Westwood-Port Coquitlam
+      1 Pitt St
+      1 Parry
+      1 Paris
+      1 Pape Ave.
+      1 Orangeville
+      1 Opportunity Kingston
+      1 Ont.
+      1 Old Ottawa South
+      1 Okanagan Highlands
+      1 Okanagan
+      1 Norway
+      1 Northwest Territories
+      1 Northern India
+      1 NorthCom
+      1 North Americans
+      1 Niagara Region
+      1 Niagara Falls
+      1 Niagara
+      1 New Zealand
+      1 Nebraska
+      1 Nanaimo
+      1 Muskoka District Road 118W Port Carling
+      1 Muskoka
+      1 Morocco
+      1 Moosejaw
+      1 Montana
+      1 Missouri
+      1 Mississauga-Streetsville
+      1 Middle East
+      1 Meaford
+      1 Massachusetts
+      1 Markham
+      1 Manicouagan
+      1 Malaysia
+      1 Loreto
+      1 London West
+      1 Little Italy
+      1 Lasalle
+      1 Ladakh
+      1 Kensington
+      1 Kelowna
+      1 Kashechewan
+      1 Kandahar
+      1 Juan de Fuca Strait
+      1 Jasper Avenue
+      1 Iquitos
+      1 Howe St.
+      1 Health Canada
+      1 Haida Arsenault-Antolick.
+      1 Green Green
+      1 Great White North
+      1 Granville Street
+      1 GMOs
+      1 Gleneagles
+      1 Fort McMurray
+      1 Fort Henry
+      1 Fort Erie
+      1 Flin Flon
+      1 Fairmont Royal York
+      1 Fairfield Plaza
+      1 European
+      1 EU
+      1 Ethiopia
+      1 East York Community Centre
+      1 Eastern Europe
+      1 Eastern Canada
+      1 Douglas Street
+      1 Deux-Montagnes
+      1 Detroit
+      1 Darfur
+      1 Danforth Ave.
+      1 Dallas Road
+      1 Cow Bay
+      1 Côte Saint-Luc
+      1 Columbus Park
+      1 Columbia
+      1 Cochrane
+      1 Charles River
+      1 Central Ave.
+      1 Cartagena
+      1 Canada Place
+      1 Canada Nat'l Green
+      1 Canada Bank
+      1 Cambridge
+      1 Calling Lake
+      1 Calgary Alberta
+      1 Brampton
+      1 Boston Gardens
+      1 Bonn
+      1 Big Lake
+      1 Beaverdell
+      1 Bay St.
+      1 Bay Room
+      1 Baie-Comeau
+      1 Amazonian River
+      1 Amazon
+      1 Africa

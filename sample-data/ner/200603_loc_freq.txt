@@ -1,0 +1,294 @@
+    791 Canada
+    476 Ottawa
+    104 Kyoto
+     82 Ontario
+     76 Montreal
+     68 U.S.
+     67 China
+     61 Tibet
+     51 Alberta
+     49 US
+     44 Quebec
+     43 Toronto
+     39 Saskatchewan
+     37 Vancouver
+     35 United States
+     30 Taiwan
+     29 Guatemala
+     28 Victoria
+     27 Kingston
+     25 Manitoba
+     22 Cana
+     21 Newfoundland
+     20 Charlottetown
+     18 New Brunswick
+     17 Japan
+     17 Haiti
+     15 Europe
+     15 Afghanistan
+     14 Edmonton
+     14 Calgary
+     14 Atlantic Canada
+     13 North America
+     13 Iqaluit
+     12 Armour Township
+     11 Moncton
+     11 Beaches-East York
+     10 Québec
+     10 Guelph
+     10 Central America
+     10 British Columbia
+     10 Boston
+      9 Iraq
+      8 Peterborough
+      8 Lanark Highlands
+      7 U.S
+      7 N.S. CBC Nova Scotia
+      7 New Zealand
+      7 Labrador
+      7 Canada Quebec
+      6 South America
+      6 OTTAWA
+      6 Ireland
+      6 Halifax
+      6 Finland
+      6 El Salvador
+      6 Denmark
+      6 California
+      5 Winnipeg
+      5 Sweden
+      5 Penticton
+      5 Paris
+      5 Nova Scotia
+      5 London
+      5 Germany
+      5 Earth
+      5 Brampton
+      5 Algeria
+      4 Sudbury
+      4 Sherwood Park
+      4 Perth
+      4 Ottawa-Centre
+      4 Mexico
+      4 Meadowbrook
+      4 Lanark
+      4 Esquimalt
+      4 Australia
+      4 Asia
+      4 America
+      3 Windsor
+      3 West Vancouver
+      3 Walkerton
+      3 Wabasca
+      3 United States/Japan
+      3 Southeast Asia
+      3 Saskatoon
+      3 Quebec City
+      3 Ottawa Centre
+      3 Norway
+      3 North American
+      3 Montréal
+      3 Mississauga
+      3 Middle East
+      3 GMOs
+      3 Gatineau Park
+      3 Decima
+      3 Chinese
+      3 Cartagena
+      3 B.C.
+      3 Africa
+      2 Yates Street
+      2 West Bank
+      2 Wales
+      2 Victoria GP
+      2 Vancouver Island
+      2 Vancouver East
+      2 USA
+      2 U.K.
+      2 UK
+      2 Turner Valley
+      2 Tasmania
+      2 Sydney
+      2 Sunshine Coast
+      2 St. Leon
+      2 St. John 's
+      2 Spain
+      2 South
+      2 Singapore
+      2 Saparno
+      2 Saanich-Gulf Islands
+      2 Royal York
+      2 Rio de Janeiro
+      2 Queen 's Park
+      2 Québec City
+      2 Portugal
+      2 Port Sydney
+      2 Portsmouth
+      2 Portage Lisgar
+      2 Parks Canada
+      2 Pape Ave.
+      2 Palestine
+      2 Pacific Basin
+      2 Ottawa Citizen
+      2 Old Ottawa South
+      2 Nunavut
+      2 North Sherbrooke
+      2 North
+      2 New Orleans
+      2 Netherlands
+      2 Nanaimo
+      2 Moncton-Riverview-Dieppe
+      2 Métis
+      2 Malpeque PEI
+      2 Lanark-Frontenac-Lennox
+      2 Lachine
+      2 Kentucky
+      2 Kelowna
+      2 Kearney
+      2 Jerusalem
+      2 Israel
+      2 Humankind
+      2 Hebron
+      2 Green P.A. Sévigny
+      2 Gower Street
+      2 Geneva
+      2 France
+      2 Fenway
+      2 European Union
+      2 Emery
+      2 EL Salvador
+      2 El Salv
+      2 Edmonton-Sherwood Park Green
+      2 East York Community Centre
+      2 Deux-Montagnes
+      2 Congo
+      2 Columbia
+      2 Chandler
+      2 Caribbean
+      2 Canberra
+      2 Canada Canada
+      2 Calgary West
+      2 Burk 's Falls
+      2 Bruce Grey Owen Sound
+      2 Britain
+      2 Belledune
+      2 Beijing
+      2 Australian
+      2 Atlantic
+      2 Almaguin Highlands
+      1 Zoocheck Canada
+      1 Zambia
+      1 Winchester Ontario
+      1 White Rock
+      1 Wheatley River
+      1 West Vancouver-Sunshine Coast-Sea
+      1 Westminster Avenue
+      1 West Kootenay
+      1 West Africa
+      1 Victoria Green
+      1 Vancouver Kingsway
+      1 United Churches
+      1 Sydney-Victoria
+      1 Surrey South
+      1 Suriname
+      1 Sudan
+      1 St. Thomas/London
+      1 Stratford
+      1 Stonewall Manitoba
+      1 St. Leonard
+      1 Stanley Park
+      1 Slave Lake
+      1 Sherbrooke St.
+      1 Senegal
+      1 Scotland
+      1 Saltsprings
+      1 Saanich Gulf Islands
+      1 Russian
+      1 Richmond East
+      1 Richmond
+      1 René-Levasseur Island
+      1 Red Earth Creek
+      1 Psychosynthesis Pathways of Montreal
+      1 Port Moody-Westwood-Port Coquitlam
+      1 Port Carling
+      1 Plateau
+      1 Pictou County
+      1 Parry Sound
+      1 Parry
+      1 Orangeville
+      1 Opportunity Kingston
+      1 Ontario Grain
+      1 Ont.
+      1 Okanagan Highlands
+      1 Okanagan
+      1 Northwest Territories
+      1 Northern Ontario
+      1 Northern Ireland
+      1 Northern India
+      1 NorthCom
+      1 North Americans
+      1 Niagara Falls
+      1 Niagara
+      1 New Zealander
+      1 New York City
+      1 New Westminster
+      1 Nebraska
+      1 Morocco
+      1 MONTREAL
+      1 Missouri
+      1 Mississauga-Streetsville
+      1 Meaford
+      1 Massachusetts
+      1 Markham
+      1 Manicouagan
+      1 Malaysia
+      1 London West
+      1 Little Italy
+      1 Liberalese
+      1 Lasalle
+      1 Ladakh
+      1 Kitchener-Waterloo
+      1 Kitchener
+      1 Kettle River
+      1 Kensington
+      1 Kashechewan
+      1 Kandahar
+      1 Juan de Fuca Strait
+      1 Howe St.
+      1 High Park
+      1 Health Canada
+      1 Haida Arsenault-Antolick.
+      1 Gordon Head
+      1 Gleneagles
+      1 Fraser River
+      1 Fort McMurray
+      1 Fort Henry
+      1 Fort Erie
+      1 Flin Flon
+      1 Fairfield Plaza
+      1 European
+      1 EU
+      1 Ethiopia
+      1 England
+      1 Eastern Europe
+      1 Eastern Canada
+      1 Detroit
+      1 Delta-Richmond East Richard Mathias
+      1 Darfur
+      1 Dallas Road
+      1 Dalhousie
+      1 Côte Saint-Luc
+      1 Columbus Park
+      1 Cochrane
+      1 Charles River
+      1 Cape Breton
+      1 Canada Nat'l Green
+      1 Canada Bank
+      1 Canada Aetearoa New Zealand Green
+      1 Calling Lake
+      1 Burnaby
+      1 Boston Gardens
+      1 Bonn
+      1 Beaverdell
+      1 Bay St.
+      1 Baie-Comeau
