@@ -1,7 +1,9 @@
 # Setting up Termite Visualizations on OS X
+By Shawn Dickinson (University of Waterloo)
 
 ## Step One: Setting up Termite Data Server
 Adapted from [https://github.com/uwdata/termite-data-server](https://github.com/uwdata/termite-data-server).
+
 ###Clone termite-data-server
 
 In the directory where you want to use Termite, use:
@@ -17,7 +19,7 @@ Run the following commands to prepare the necessary tools:
 	bin/setup_mallet.sh
 	make -C utils/corenlp
 
-It is also recommended to run the following:
+It is also recommended to run the following, in case the `make -C utils/corenlp` command does not work.
 
 	cd utils/corenlp
 	make clean all
@@ -25,10 +27,16 @@ It is also recommended to run the following:
 
 ###Additional Functions
 
+You will find the additional files in the `./Termite-Files` directory.
+
 Move the file *start_server_nogui.sh* to the root of the repository. Move the files *prepare_corpus.py* and *process_file.sh* to /bin/ .
 
 ## Step Two: Adding a Corpus to Termite
-To create a new corpus in Termite using a plaintext (.txt) file it is only necessary to run *process_file.sh*. Note that each line in the text file will be treated as a separate document in the corpus. An example usage of *process_file.sh*:
+To create a new corpus in Termite using a plaintext (.txt) file it is only necessary to run *process_file.sh*. Note that each line in the text file will be treated as a separate document in the corpus. 
+
+If using warcbase output, you will want to `cat` or otherwise combine the output. Each line of the text file should be the plain text of a webpage, or otherwise.
+
+An example usage of *process_file.sh*:
 
 `./bin/process_file.sh "The Corpus" ~/Desktop/thecorpus.txt`
 
@@ -40,10 +48,10 @@ Simply run `./bin/start_server_nogui.sh` to start the Termite server. It will as
 ## Notes
 
 ### Functions in /bin/
-- prepare_corpus.py => Accepts a raw .txt file and a location to create a directory for output (this directory must have a subdirectory /corpus/). Produces a properly formatted *corpus.txt* file and a blank *corpus.db* file in /corpus/.
-- import_corpus.py => Accepts a *corpus.txt* file and the directory of a blank *corpus.db* file. Sets up the database based on the corpus.txt file.
-- train_mallet.py => Accepts a *corpus.txt* file and a location to create a directory for output. Creates the output directory and prepares the necessary MALLET data from the *corpus.txt* file.
-- read_mallet.py => Accepts a corpus name, the directory of MALLET data, the directory of a *corpus.txt* file, and the directory of a *corpus.db* file. Imports the corpus into the Termite data server.
+- `prepare_corpus.py`: Accepts a raw .txt file and a location to create a directory for output (this directory must have a subdirectory /corpus/). Produces a properly formatted *corpus.txt* file and a blank *corpus.db* file in /corpus/.
+- `import_corpus.py`: Accepts a *corpus.txt* file and the directory of a blank *corpus.db* file. Sets up the database based on the corpus.txt file.
+- `train_mallet.py`: Accepts a *corpus.txt* file and a location to create a directory for output. Creates the output directory and prepares the necessary MALLET data from the *corpus.txt* file.
+- `read_mallet.py`: Accepts a corpus name, the directory of MALLET data, the directory of a *corpus.txt* file, and the directory of a *corpus.db* file. Imports the corpus into the Termite data server.
 
 ### process_file.sh Step-By-Step
 
