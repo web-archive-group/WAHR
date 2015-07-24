@@ -38,9 +38,9 @@ If using warcbase output, you will want to `cat` or otherwise combine the output
 
 An example usage of *process_file.sh*:
 
-`./bin/process_file.sh "The Corpus" ~/Desktop/thecorpus.txt`
+`./bin/process_file.sh "Test_Corpus" ~/Desktop/thecorpus.txt`
 
-*process_file.sh* takes three arguments: the name of the corpus, the location of the text file that the corpus will be made from, and (optional) a directory for temporary output. If no directory for output is specified, `/data/[corpus_name]/` will be used. The output directory can be safely deleted once the corpus is added to Termite.
+*process_file.sh* takes three arguments: the name of the corpus (no spaces/use underscores), the location of the text file that the corpus will be made from, and (optional) a directory for temporary output. If no directory for output is specified, `/data/[corpus_name]/` will be used. The output directory can be safely deleted once the corpus is added to Termite.
 
 ## Step Three: Using Termite
 Simply run `./bin/start_server_nogui.sh` to start the Termite server. It will ask you to set a password for the server. It will then be accessible at `http://127.0.0.1:8075`.
@@ -55,7 +55,7 @@ Simply run `./bin/start_server_nogui.sh` to start the Termite server. It will as
 
 ### process_file.sh Step-By-Step
 
-`./bin/process_file.sh "Test Corpus" ~/Desktop/test.txt ~/Desktop/data`
+`./bin/process_file.sh "Test_Corpus" ~/Desktop/test.txt ~/Desktop/data`
 
 1. Creates `~/Desktop/data`, if it does not exist.
 2. All tabs (\t) are removed from *test.txt*. Zero-padded line numbers are added.
