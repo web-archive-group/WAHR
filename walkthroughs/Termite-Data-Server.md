@@ -45,7 +45,7 @@ cat *.txt > all-text.txt
 And then use `process_file.sh` to add it to Termite (if it was a text file on my desktop).
 
 ```
-`./bin/process_file.sh "TestCorpus" ~/Desktop/all-text.txt`
+./bin/process_file.sh "TestCorpus" ~/Desktop/all-text.txt
 ```
 
 `process_file.sh` takes three arguments: the name of the corpus (no spaces/use underscores), the location of the text file that the corpus will be made from, and (optional) a directory for temporary output. If no directory for output is specified, `/data/[corpus_name]/` will be used. The output directory can be safely deleted once the corpus is added to Termite.
