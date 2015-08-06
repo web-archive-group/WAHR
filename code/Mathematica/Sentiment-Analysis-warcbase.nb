@@ -1,0 +1,627 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     35172,        618]
+NotebookOptionsPosition[     34286,        582]
+NotebookOutlinePosition[     34640,        598]
+CellTagsIndexPosition[     34597,        595]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"text", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{
+    "\"\</users/ianmilligan1/Dropbox/WAHR-Private/sample-text/200510-\
+greenparty.txt\>\"", ",", "\"\<Lines\>\""}], "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.647881288208625*^9, 3.647881303411607*^9}, {
+  3.6478816728737497`*^9, 3.6478816733288403`*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"positive", "=", 
+    RowBox[{"TextCases", "[", 
+     RowBox[{"text", ",", "\"\<PositiveSentiment\>\""}], "]"}]}], ";"}], "//",
+   "Timing"}]], "Input",
+ CellChangeTimes->{{3.647881369726824*^9, 3.647881382235499*^9}, {
+  3.6478841244403677`*^9, 3.647884126927244*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"{", 
+   RowBox[{"477.121068`", ",", "Null"}], "}"}], " ", 
+  RowBox[{"(*", " ", 
+   RowBox[{"timing", " ", "information", " ", "here"}], " ", "*)"}]}]], \
+"Input",
+ CellChangeTimes->{{3.6478847049389343`*^9, 3.647884709489732*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"negative", "=", 
+    RowBox[{"TextCases", "[", 
+     RowBox[{"text", ",", "\"\<NegativeSentiment\>\""}], "]"}]}], ";"}], "//",
+   "Timing"}]], "Input",
+ CellChangeTimes->{{3.6478823438560543`*^9, 3.647882352620926*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"473.101185`", ",", "Null"}], "}"}]], "Output",
+ CellChangeTimes->{3.647882700601007*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"neutral", "=", 
+    RowBox[{"TextCases", "[", 
+     RowBox[{"text", ",", "\"\<NeutralSentiment\>\""}], "]"}]}], ";"}], "//", 
+  "Timing"}]], "Input",
+ CellChangeTimes->{{3.647883512338791*^9, 3.647883515688467*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"476.940165`", ",", "Null"}], "}"}]], "Output",
+ CellChangeTimes->{3.6478838670945044`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"DeleteDuplicates", "[", 
+  RowBox[{"Cases", "[", 
+   RowBox[{"neutral", ",", 
+    RowBox[{"{", "_", "}"}]}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.6478841212001266`*^9, 3.64788412168686*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", "}"}]], "Output",
+ CellChangeTimes->{3.647884121969296*^9, 3.647884533768805*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"DeleteDuplicates", "[", 
+  RowBox[{"Cases", "[", 
+   RowBox[{"positive", ",", 
+    RowBox[{"{", "_", "}"}]}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.647883380844805*^9, 3.647883431503407*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tTo all Metro Toronto Green Supporters: \
+Join us for our monthly \\\"meet and greet\\\" at the Jester Pub, back room. \
+When: Wednesday, Aug 3 2005 at 7:00 PM Where: \[NonBreakingSpace]Jester Pub \
+and Grill 1427 Yonge Street @ St. Clair SE corner (south a few doors on \
+Yonge) Toronto, ON M4T 1Y7 \[NonBreakingSpace](416) 323-3421 Looking forward \
+to seeing you there. ......Dan King 416-595-1782 Authorized         by Chief  \
+Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tHello, The next meeting of the Montreal \
+Association has been moved to next Monday, July 18th at 19h00 at the Pub \
+St-Ciboire (1693 St-Denis St.) We will be discussing strategy for the Benefit \
+Concert on the 31st of August. There will be tickets to sell and we need your \
+help to make sure the event is a success. We will also determine what remains \
+to be done to have functional university associations before classes start in \
+september. Cheers! For more information: Authorized         by Chief  Agent, \
+Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tm\[EAcute]tro Place des arts All \
+members, sympathizers and friends are invited! Come learn how to build your \
+own green political association for a better future while having fun at the \
+same time! For more info and to confirm your presence: Christopher Coggan \
+Authorized         by Chief  Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tJuly 18th, 7pm Hello, The next meeting \
+of the Montreal Association has been moved to next Monday, July 18th at 19h00 \
+at the Pub St-Ciboire (1693 St-Denis St.) We will be discussing strategy for \
+the Benefit Concert on the 31st of August. There will be tickets to sell and \
+we need your help to make sure the event is a success. We will also determine \
+what remains to be done to have functional university associations before \
+classes start in september. Cheers! For more information: Authorized         \
+by Chief  Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tShow your Green Spirit by joining us \
+for a fun filled day of: Live music & entertainment Vegetarian BBQ Arts & \
+crafts Interactive exhibits Come and enjoy a day in the park with friends and \
+family! Entrance is FREE for everyone! Featured guests: Jim Harris, leader of \
+the Green Party of Canada greenparty.ca , electjim.ca Steve and Chris - \
+steveandchris.ca Evergreen Community Gardens Taps Partnership Program This \
+event is being hosted by: Green Party of Canada - Toronto Centre EDA and The \
+Ryerson Greens . Donations Welcome. Please contact James O'Grady at (416) \
+473-7386 or jamesogrady@rogers.com for more information. You have received \
+this e-mail because you requested to receive information from The Green Party \
+Of Canada - Toronto Centre EDA. If you no longer wish to receive e-mail \
+notifications from The Green Party Of Canada - Toronto Centre EDA, click here \
+. If you have received this e-mail in error, or would like to report e-mail \
+abuse, please contact abuse@inbox-advertising.com . Please do not reply to \
+this message. Search\[NonBreakingSpace]Events Authorized         by Chief  \
+Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tContact: Caroline King, 905-627-5496 \
+Again, all are welcome to drop by and meet us! 08/19/2005 to 08/21/2005 All \
+Day Event Authorized         by Chief  Agent, Green Party of Canada\"\>", 
+    "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tFor more information: 05:30 PM involved \
+to create a better more viable world. New flyers will be available to get the \
+word out that it's time for a green Quebec! You're all invited to celebrate \
+St-Jean-Baptiste this Thursday, June 23rd, at 5:30PM. The Greens' meeting \
+point will be in the parking facing 5334 Park Avenue. The Party needs all his \
+supporters in order to get known and to explain its ideas. Therefore we \
+should all gather on Thursday. You'll get a chance to look at the new \
+election material and to meet our candidate in Outremont, Fran\[CCedilla]ois \
+Pilon, who will celebrate with us. Audiomat (rock francophone), Labess \
+(France-Algeria) and Jean-Fran\[CCedilla]ois Dumas (folk) will follow. We'll \
+finally hear Marcelo Padre (Brazil) and enjoy the traditional fire. If it's \
+rainy... No, we've had enough rain. So we'll see you on Thursday. To help us \
+organize this gathering, we would appreciate if you would notify by email \
+whether you'll participate or not. Thanks. Authorized         by Chief  \
+Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tCome meet the Outremont candidate, Fran\
+\[CCedilla]ois Pilon and other Greens!  Get involved to create a better more \
+viable world. New flyers will be available to get the word out that it's time \
+for a green Quebec! You're all invited to celebrate St-Jean-Baptiste this \
+Thursday, June 23rd, at 5:30PM. The Greens' meeting point will be in the \
+parking facing 5334 Park Avenue. The Party needs all his supporters in order \
+to get known and to explain its ideas. Therefore we should all gather on \
+Thursday. You'll get a chance to look at the new election material and to \
+meet our candidate in Outremont, Fran\[CCedilla]ois Pilon, who will celebrate \
+with us. Audiomat (rock francophone), Labess (France-Algeria) and Jean-Fran\
+\[CCedilla]ois Dumas (folk) will follow. We'll finally hear Marcelo Padre \
+(Brazil) and enjoy the traditional fire. If it's rainy... No, we've had \
+enough rain. So we'll see you on Thursday. To help us organize this \
+gathering, we would appreciate if you would notify by email whether you'll \
+participate or not. Thanks. Authorized         by Chief  Agent, Green Party \
+of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe leader of the Green Party of \
+Canada, Jim Harris, and the deputy leader, Lynette Tremblay, will be in the \
+Outaouais during the Eco march to celebrate the Saint-Jean-Baptiste this \
+Friday the 24th!  They therefore invite you all to join them in large \
+numbers!  The greens will be meeting up next to the doors of the Jean Coutu \
+at the Galeries d'Aylmer at 12:45 to be ready for the march that will be \
+starting at 1:00pm.  The march will be going all the way to des \
+c\[EGrave]dres Park.  I will be bringing a large Green Party banner, many \
+membership recruitment flyers, ads for the next Outaouais meeting as well as \
+t-shirts for all volunteers desiring to wear them.  I can't wait to see you \
+there! Julie Baribeau, QC org Authorized         by Chief  Agent, Green Party \
+of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tWhere: Pavillon \
+Alexandre-Tach\[EAcute], local A0111 When: 16th March 2005 7pm-8pm All \
+members, sympathizers and friends are invited! Comme learn how to build and \
+participate in your own green political association for a better future while \
+having fun at the same time! For more info and to confirm your presence: \
+Simon Lapointe, Authorized         by Chief  Agent, Green Party of \
+Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tPavillon Alexandre-Tach\[EAcute], local \
+A0111 When: 16th March 2005 7pm-8pm All members, sympathizers and friends are \
+invited! Comme learn how to build and participate in your own green political \
+association for a better future while having fun at the same time! For more \
+info and to confirm your presence: Simon Lapointe, Authorized         by \
+Chief  Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tSaint-Jean-Baptiste with the Outaouais \
+Greens Dear greens of the Outaouais, The leader of the Green Party of Canada, \
+Jim Harris, and the deputy leader, Lynette Tremblay, will be in the Outaouais \
+during the Eco march to celebrate the Saint-Jean-Baptiste this Friday the \
+24th!  They therefore invite you all to join them in large numbers!  The \
+greens will be meeting up next to the doors of the Jean Coutu at the Galeries \
+d'Aylmer at 12:45 to be ready for the march that will be starting at 1:00pm.  \
+The march will be going all the way to des c\[EGrave]dres Park.  I will be \
+bringing a large Green Party banner, many membership recruitment flyers, ads \
+for the next Outaouais meeting as well as t-shirts for all volunteers \
+desiring to wear them.  I can't wait to see you there! Julie Baribeau, QC org \
+Authorized         by Chief  Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tToronto Metro Greens pub night The \
+Toronto Metro Greens will be having our regular pub night first Wednesday of \
+the month, 7pm. After savouring our successes over the year so far we will be \
+celebrating a cluster of Green birthdays lined up right around this date! Dan \
+King 416-595-1782 Where: The Jester Pub & Grill 1427 Yonge St \
+\[NonBreakingSpace] \[NonBreakingSpace] >>> Back Room Toronto ON M4T 1Y7 \
+\[NonBreakingSpace] \[NonBreakingSpace] 416-323-3421 South East Corner of \
+Yonge and St. Clair  (St Clair Subway) a few doors south of St. Clair on \
+Yonge. 07/06/2005 Authorized         by Chief  Agent, Green Party of Canada\"\
+\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe Halton Federal EDA is hosting a \
+Fall Fun Day Oct. 16th from 11:30am-3:30pm at Lowville Park on Guelph line \
+just south of Derry Road. We will have pumpkin decorating, corn on the cob, \
+scavenger hunt and back pack safety tips to save your posture and your back. \
+We welcome greens to attend this fun afternoon with us. This is the first \
+event for this newly formed association which is showing its strength with an \
+event so soon after its assiciations creation on August 25 2005. On Nov. 8th \
+we will be holding our nomination contest at Hugh Foster Hall in Milton, ON. \
+Dr. Kyle Grice CEO Halton Greens Authorized         by Chief  Agent, Green \
+Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe Green Party has a new proposition \
+for Canadians. The Green Party has a new proposition for Canadians. We're \
+asking voters to redefine progress and take a more active role in their \
+government. If we spend less time on partisan bickering, we can spend more \
+time on planning where we want to be in twenty years. We need a plan for \
+tomorrow, today. ...\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe leader of the Green Party of \
+Canada, Jim Harris, and the deputy leader, Lynette Tremblay, will be in the \
+Outaouais during the Eco march to celebrate the Saint-Jean-Baptiste this \
+Friday the 24th!  They therefore invite you all to join them in large \
+numbers!  The greens will be meeting up next to the doors of the Jean Coutu \
+at the Galeries d'Aylmer at 12:45 to be ready for the march that will be \
+starting at 1:00pm.  The march will be going all the way to des \
+c\[EGrave]dres Park.  I will be bringing a large Green Party banner, many \
+membership recruitment flyers, ads for the next Outaouais meeting as well as \
+t-shirts for all volunteers desiring to wear them.  I can't wait to see you \
+there! Julie Baribeau, QC org PO Box 997, Station B, Ottawa ON K1P 5R1     \
+Toll-free: 1-866-VOTE-4-GPC Authorized         by Chief  Agent, Green Party \
+of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tShow your Green Spirit by joining us \
+for a fun filled day of: Live music & entertainment Vegetarian BBQ Arts & \
+crafts Interactive exhibits Come and enjoy a day in the park with friends and \
+family! Entrance is FREE for everyone! Featured guests: Jim Harris, leader of \
+the Green Party of Canada greenparty.ca , electjim.ca Steve and Chris - \
+steveandchris.ca Evergreen Community Gardens Taps Partnership Program This \
+event is being hosted by: Green Party of Canada - Toronto Centre EDA and The \
+Ryerson Greens . Donations Welcome. Please contact James O'Grady at (416) \
+473-7386 or jamesogrady@rogers.com for more information. You have received \
+this e-mail because you requested to receive information from The Green Party \
+Of Canada - Toronto Centre EDA. If you no longer wish to receive e-mail \
+notifications from The Green Party Of Canada - Toronto Centre EDA, click here \
+. If you have received this e-mail in error, or would like to report e-mail \
+abuse, please contact abuse@inbox-advertising.com . Please do not reply to \
+this message. Search\[NonBreakingSpace]Events PO Box 997, Station B, Ottawa \
+ON K1P 5R1     Toll-free: 1-866-VOTE-4-GPC Authorized by Chief  Agent, Green \
+Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tHello, The next meeting of the Montreal \
+Association has been moved to next Monday, July 18th at 19h00 at the Pub \
+St-Ciboire (1693 St-Denis St.) We will be discussing strategy for the Benefit \
+Concert on the 31st of August. There will be tickets to sell and we need your \
+help to make sure the event is a success. We will also determine what remains \
+to be done to have functional university associations before classes start in \
+september. Cheers! For more information: PO Box 997, Station B, Ottawa ON K1P \
+5R1     Toll-free: 1-866-VOTE-4-GPC Authorized         by Chief  Agent, Green \
+Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tGreen leader at Divers/Cit\[EAcute] \
+Parade (Montreal, Thursday, July 21st, 2005) -- Green Party of Canada leader \
+Jim Harris will participate at Divers/Cit\[EAcute]'s parade on Monday, July \
+25th, 2005 alongside the Montreal Association of the Green Party. The Greens \
+will celebrate with much fanfare and pride the sexual diversity of Montreal \
+and Qu\[EAcute]bec. Mr. Harris will be available for interviews starting at \
+5pm on Monday, July 25th, 2005. The parade will begin at 9pm. Jim Harris will \
+be attending a French language immersion course from the 1st to the 21st of \
+August at the Centre Linguistique du Coll\[EGrave]ge de Jonqui\[EGrave]re. \
+The Green Party of Canada is the only federal political party to have had an \
+openly gay leader in Chris Lea. The Green Party of Canada wishes to \
+congratulate the gay and lesbian communities for their struggle to obtain the \
+right to marriage. For more information:\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tFor more information: 05:30 PM involved \
+to create a better more viable world. New flyers will be available to get the \
+word out that it's time for a green Quebec! You're all invited to celebrate \
+St-Jean-Baptiste this Thursday, June 23rd, at 5:30PM. The Greens' meeting \
+point will be in the parking facing 5334 Park Avenue. The Party needs all his \
+supporters in order to get known and to explain its ideas. Therefore we \
+should all gather on Thursday. You'll get a chance to look at the new \
+election material and to meet our candidate in Outremont, Fran\[CCedilla]ois \
+Pilon, who will celebrate with us. Audiomat (rock francophone), Labess \
+(France-Algeria) and Jean-Fran\[CCedilla]ois Dumas (folk) will follow. We'll \
+finally hear Marcelo Padre (Brazil) and enjoy the traditional fire. If it's \
+rainy... No, we've had enough rain. So we'll see you on Thursday. To help us \
+organize this gathering, we would appreciate if you would notify by email \
+whether you'll participate or not. Thanks. PO Box 997, Station B, Ottawa ON \
+K1P 5R1     Toll-free: 1-866-VOTE-4-GPC Authorized         by Chief  Agent, \
+Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tSaint-Jean-Baptiste with the Outaouais \
+Greens Dear greens of the Outaouais, The leader of the Green Party of Canada, \
+Jim Harris, and the deputy leader, Lynette Tremblay, will be in the Outaouais \
+during the Eco march to celebrate the Saint-Jean-Baptiste this Friday the \
+24th!  They therefore invite you all to join them in large numbers!  The \
+greens will be meeting up next to the doors of the Jean Coutu at the Galeries \
+d'Aylmer at 12:45 to be ready for the march that will be starting at 1:00pm.  \
+The march will be going all the way to des c\[EGrave]dres Park.  I will be \
+bringing a large Green Party banner, many membership recruitment flyers, ads \
+for the next Outaouais meeting as well as t-shirts for all volunteers \
+desiring to wear them.  I can't wait to see you there! Julie Baribeau, QC org \
+PO Box 997, Station B, Ottawa ON K1P 5R1     Toll-free: 1-866-VOTE-4-GPC \
+Authorized         by Chief  Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tm\[EAcute]tro Place des arts All \
+members, sympathizers and friends are invited! Come learn how to build your \
+own green political association for a better future while having fun at the \
+same time! For more info and to confirm your presence: Christopher Coggan PO \
+Box 997, Station B, Ottawa ON K1P 5R1     Toll-free: 1-866-VOTE-4-GPC \
+Authorized         by Chief  Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tJuly 18th, 7pm Hello, The next meeting \
+of the Montreal Association has been moved to next Monday, July 18th at 19h00 \
+at the Pub St-Ciboire (1693 St-Denis St.) We will be discussing strategy for \
+the Benefit Concert on the 31st of August. There will be tickets to sell and \
+we need your help to make sure the event is a success. We will also determine \
+what remains to be done to have functional university associations before \
+classes start in september. Cheers! For more information: PO Box 997, Station \
+B, Ottawa ON K1P 5R1     Toll-free: 1-866-VOTE-4-GPC Authorized         by \
+Chief  Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tCome meet the Outremont candidate, Fran\
+\[CCedilla]ois Pilon and other Greens!  Get involved to create a better more \
+viable world. New flyers will be available to get the word out that it's time \
+for a green Quebec! You're all invited to celebrate St-Jean-Baptiste this \
+Thursday, June 23rd, at 5:30PM. The Greens' meeting point will be in the \
+parking facing 5334 Park Avenue. The Party needs all his supporters in order \
+to get known and to explain its ideas. Therefore we should all gather on \
+Thursday. You'll get a chance to look at the new election material and to \
+meet our candidate in Outremont, Fran\[CCedilla]ois Pilon, who will celebrate \
+with us. Audiomat (rock francophone), Labess (France-Algeria) and Jean-Fran\
+\[CCedilla]ois Dumas (folk) will follow. We'll finally hear Marcelo Padre \
+(Brazil) and enjoy the traditional fire. If it's rainy... No, we've had \
+enough rain. So we'll see you on Thursday. To help us organize this \
+gathering, we would appreciate if you would notify by email whether you'll \
+participate or not. Thanks. PO Box 997, Station B, Ottawa ON K1P 5R1     \
+Toll-free: 1-866-VOTE-4-GPC Authorized         by Chief  Agent, Green Party \
+of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tContact: Caroline King, 905-627-5496 \
+Again, all are welcome to drop by and meet us! 08/19/2005 to 08/21/2005 All \
+Day Event PO Box 997, Station B, Ottawa ON K1P 5R1     Toll-free: \
+1-866-VOTE-4-GPC Authorized         by Chief  Agent, Green Party of \
+Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tGreen leader at Divers/Cit\[EAcute] \
+Parade (Montreal, Thursday, July 21st, 2005) -- Green Party of Canada leader \
+Jim Harris will participate at Divers/Cit\[EAcute]'s parade on Monday, July \
+25th, 2005 alongside the Montreal Association of the Green Party. The Greens \
+will celebrate with much fanfare and pride the sexual diversity of Montreal \
+and Qu\[EAcute]bec. Mr. Harris will be available for interviews starting at \
+5pm on Monday, July 25th, 2005. The parade will begin at 9pm. Jim Harris will \
+be attending a French language immersion course from the 1st to the 21st of \
+August at the Centre Linguistique du Coll\[EGrave]ge de Jonqui\[EGrave]re. \
+The Green Party of Canada is the only federal political party to have had an \
+openly gay leader in Chris Lea. The Green Party of Canada wishes to \
+congratulate the gay and lesbian communities for their struggle to obtain the \
+right to marriage. For more information: PO Box 997, Station B, Ottawa ON K1P \
+5R1     Toll-free: 1-866-VOTE-4-GPC Authorized         by Chief  Agent, Green \
+Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tMembers get to do fun stuff! Login or \
+Register today! Search\[NonBreakingSpace]Platform PO Box 997, Station B, \
+Ottawa ON K1P 5R1     Toll-free: 1-866-VOTE-4-GPC Authorized         by Chief \
+ Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tVolunteer Volunteering to help us give \
+every Canadian the opportunity to vote for a party they truly believe in is a \
+rewarding experience. You will work with a diverse group people who are \
+committed, creative and fun. We are organizing to run a candidate in all 308 \
+electoral districts in the next federal election. When we succeed we will be \
+only the fourth party in Canadian history to achieve that goal!\"\>", "}"}], 
+   ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tHealthy Eating Made Easy Today, \
+supermarkets are bigger and food is cheaper than ever before. But are we \
+eating well? Not so long ago, most families had a small garden nearby, and \
+homegrown food was an important part of our diet. Today, processed foods from \
+factory farms dominate our kitchens. While fast foods are convenient and \
+inexpensive, they come with a long-term cost. A healthy diet should be easy \
+and affordable. The Green Party will: Provide more education on nutrition, \
+healthy diets and lifestyles in schools and community centers. Enhance \
+pre-natal and early-years nutrition support programs in all communities. \
+Support a nation-wide \\\"healthy lunch and snacks\\\" program from \
+Kindergarten, through to Grade 12.\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe Green Party is committed to \
+developing a national childcare strategy - one that includes non-profit and \
+professional daycare, increased support for at-home parents and greater focus \
+on family education, health and basic nutrition. A Foundation For Our Future \
+Parents are doing their best to give their children opportunities to be \
+successful, happy and healthy. The Green Party is committed to developing a \
+national childcare strategy - one that includes non-profit and professional \
+daycare, increased support for at-home parents and greater focus on family \
+education, health and basic nutrition. The Green Party will: Create \
+tax-incentives for businesses to implement flexible schedules and on-site \
+childcare. Create a national network that links childcare services across all \
+three levels of government and funds local childcare initiatives and \
+facilities. Enforce pay equity for women in the workplace.\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tWe don't really think of ourselves as \
+politicians, just as ordinary citizens making an extraordinary commitment. \
+Accordingly, we don't measure success the same way politicians do. Here's \
+what winning looks like to us... When we introduce innovative ideas to \
+voters, we win. When we nurture a new generation of citizens to take up \
+political activism, we win. When other parties \\\"borrow\\\" our ideas and \
+start thinking green, we win. When we stand up for grassroots democracy, we \
+win. When we stay true to our principles, we win. When our candidates speak \
+from the heart, we win.\"\>", "}"}], ",", 
+   RowBox[{"{", "\<\"200510\\tgreenparty.ca\\tOttawa ON K2P 2H7\"\>", "}"}], 
+   ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tShow your Green Spirit by joining us \
+for a fun filled day of: Live music & entertainment Vegetarian BBQ Arts & \
+crafts Interactive exhibits Come and enjoy a day in the park with friends and \
+family! Entrance is FREE for everyone! Featured guests: Jim Harris, leader of \
+the Green Party of Canada greenparty.ca , electjim.ca Steve and Chris - \
+steveandchris.ca Evergreen Community Gardens Taps Partnership Program This \
+event is being hosted by: Green Party of Canada - Toronto Centre EDA and The \
+Ryerson Greens . Donations Welcome. Please contact James O'Grady at (416) \
+473-7386 or jamesogrady@rogers.com for more information. You have received \
+this e-mail because you requested to receive information from The Green Party \
+Of Canada - Toronto Centre EDA. If you no longer wish to receive e-mail \
+notifications from The Green Party Of Canada - Toronto Centre EDA, click here \
+. If you have received this e-mail in error, or would like to report e-mail \
+abuse, please contact abuse@inbox-advertising.com . Please do not reply to \
+this message. 10:00 AM - 04:00 PM Authorized         by Chief  Agent, Green \
+Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tSaturday, September 24th The School of \
+Community and Public Affairs is at 2149 Mackay on Concordia's downtown \
+campus. For more information: Free admission The Agenda Introductions 10:00 \
+AM Edith Smeesters Break Lunch 12:45 PM - Continued open discussions \
+Facilitators: Barbara Dalziel, David Fletcher, Peter Graham You are welcome \
+to come for sessions of particular interest or the whole day. 09/24/2005 \
+Authorized         by Chief  Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe Halton Federal EDA is hosting a \
+Fall Fun Day Oct. 16th from 11:30am-3:30pm at Lowville Park on Guelph line \
+just south of Derry Road. We will have pumpkin decorating, corn on the cob, \
+scavenger hunt and back pack safety tips to save your posture and your back. \
+We welcome greens to attend this fun afternoon with us. This is the first \
+event for this newly formed association which is showing its strength with an \
+event so soon after its assiciations creation on August 25 2005. On Nov. 8th \
+we will be holding our nomination contest at Hugh Foster Hall in Milton, ON. \
+Dr. Kyle Grice CEO Halton Greens PO Box 997, Station B, Ottawa ON K1P 5R1     \
+Toll-free: 1-866-VOTE-4-GPC Authorized         by Chief  Agent, Green Party \
+of Canada\"\>", "}"}], ",", 
+   RowBox[{"{", "\<\"200510\\tgreenparty.ca\\tSomeday is Now\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tMore to come on GPC's design contest \
+soon. For more information:\"\>", "}"}]}], "}"}]], "Output",
+ CellChangeTimes->{3.647883431853291*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"DeleteDuplicates", "[", 
+  RowBox[{"Cases", "[", 
+   RowBox[{"negative", ",", 
+    RowBox[{"{", "_", "}"}]}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.647883380844805*^9, 3.647883418577373*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tInternal Server Error The server \
+encountered an internal error or misconfiguration and was unable to complete \
+your request. Please contact the server administrator,  \
+webadmin@greenparty.ca and inform them of the time the error occurred, and \
+anything you might have done that may have caused the error. More information \
+about this error may be available in the server error log. Apache/2.0.50 \
+(Fedora) Server at www.main.greenparty.ca Port 80\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tSomebody is Us The greatest mistake we \
+can make is to think that we have no power How can we create change if we are \
+standing on the sidelines? When we promote our ideas and hold the other \
+parties accountable for their actions, we bring about change. Many people are \
+cynical about politics. They think that nothing will ever change. They say we \
+can never have the government we really want. The Green Party understands \
+that frustration \[LongDash] we are frustrated too. But cynicism and \
+frustration will not solve our problem \[LongDash] we can curse the darkness, \
+or light a candle. Will we ever have a better choice than the lesser of two \
+evils? Yes, if we vote for a party who will not settle for the status quo. \
+What will we do when our lands, our waters and our ecosystems can no longer \
+support the demands we make of them? If we manage our resources well, they \
+will sustain us. The greatest mistake we can make is to think that we have no \
+power. History is not going to be made somewhere else, by somebody else. We \
+make history. Somebody is us. Someday is now.       ... PO Box 997, Station \
+B, Ottawa ON K1P 5R1     Toll-free: 1-866-VOTE-4-GPC Authorized         by \
+Chief  Agent, Green Party of Canada\"\>", "}"}], ",", 
+   RowBox[{"{", "\<\"200510\\tgreenparty.ca\\tMy World\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tSomebody is Us The greatest mistake we \
+can make is to think that we have no power How can we create change if we are \
+standing on the sidelines? When we promote our ideas and hold the other \
+parties accountable for their actions, we bring about change. Many people are \
+cynical about politics. They think that nothing will ever change. They say we \
+can never have the government we really want. The Green Party understands \
+that frustration \[LongDash] we are frustrated too. But cynicism and \
+frustration will not solve our problem \[LongDash] we can curse the darkness, \
+or light a candle. Will we ever have a better choice than the lesser of two \
+evils? Yes, if we vote for a party who will not settle for the status quo. \
+What will we do when our lands, our waters and our ecosystems can no longer \
+support the demands we make of them? If we manage our resources well, they \
+will sustain us. The greatest mistake we can make is to think that we have no \
+power. History is not going to be made somewhere else, by somebody else. We \
+make history. Somebody is us. Someday is now.       ...\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe requested URL /images/style.css was \
+not found on this server. Apache/2.0.50 (Fedora) Server at \
+www.main.greenparty.ca Port 80\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe requested URL /robots.txt was not \
+found on this server. Apache/2.0.50 (Fedora) Server at www.main.greenparty.ca \
+Port 80\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe requested URL /your@emailhere.ca \
+was not found on this server. Apache/2.0.50 (Fedora) Server at \
+www.main.greenparty.ca Port 80\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tThe requested URL \
+/themes/GPC/images/boxheadbg.gif was not found on this server. Apache/2.0.50 \
+(Fedora) Server at www.main.greenparty.ca Port 80\"\>", "}"}], ",", 
+   RowBox[{
+   "{", "\<\"200510\\tgreenparty.ca\\tFor more information:\"\>", "}"}]}], 
+  "}"}]], "Output",
+ CellChangeTimes->{3.6478833871889963`*^9, 3.647883418908753*^9}]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{72, Automatic}, {Automatic, 81}},
+FrontEndVersion->"10.2 for Mac OS X x86 (32-bit, 64-bit Kernel) (July 29, \
+2015)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 348, 8, 63, "Input"],
+Cell[909, 30, 315, 8, 28, "Input"],
+Cell[1227, 40, 266, 7, 28, InheritFromParent],
+Cell[CellGroupData[{
+Cell[1518, 51, 266, 7, 28, "Input"],
+Cell[1787, 60, 128, 3, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1952, 68, 262, 7, 28, "Input"],
+Cell[2217, 77, 130, 3, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2384, 85, 223, 5, 28, "Input"],
+Cell[2610, 92, 109, 2, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2756, 99, 223, 5, 28, "Input"],
+Cell[2982, 106, 26908, 396, 5554, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[29927, 507, 223, 5, 28, "Input"],
+Cell[30153, 514, 4117, 65, 811, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
