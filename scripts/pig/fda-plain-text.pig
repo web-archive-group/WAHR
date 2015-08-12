@@ -9,7 +9,7 @@ raw = load 'fda.collection/ian-fda/' using WarcLoader as
   (url: chararray, date: chararray, mime: chararray, content: bytearray);
 
 a = filter raw by mime == 'text/html' and date is not null;
-b = foreach a generate SUBSTRING(date, 0, 6) as date,
+b = foreach a generate SUBSTRING(date, 0, 8) as date,
                        REPLACE(ExtractTopLevelDomain(url), '^\\s*www\\.', '') as url, content;
 c = foreach b generate date, url, ExtractRawText((chararray) content) as text;
 
