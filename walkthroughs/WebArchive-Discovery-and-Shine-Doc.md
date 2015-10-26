@@ -7,7 +7,7 @@ Do you have a lot of WARCs that you want to discover? The [UK Web Archive's Shin
 Check out Shine in action below:
 
 ![Shine in action]
-(images/screenshot1.png)
+(https://raw.githubusercontent.com/ianmilligan1/WAHR/master/images/screenshot1.png)
 
 ## Step One: Setting up WebArchive-Discovery
 
