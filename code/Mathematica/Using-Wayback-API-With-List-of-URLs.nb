@@ -1,0 +1,130 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      4089,        120]
+NotebookOptionsPosition[      3723,        103]
+NotebookOutlinePosition[      4081,        119]
+CellTagsIndexPosition[      4038,        116]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[{
+ StyleBox["Using the Wayback API to Check Coverage in List of URLs\n", 
+  "Title"],
+ StyleBox["Ian Milligan (University of Waterloo)", "Subchapter"]
+}], "Text",
+ CellChangeTimes->{{3.6570212764939747`*^9, 3.657021290479538*^9}, {
+  3.657022714053226*^9, 3.657022717139382*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"urllist", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{
+    "\"\</users/ianmilligan1/Dropbox/WAHR-Private/elxn42/elxn42-tweets-urls-\
+uniq-no-count.txt\>\"", ",", "\"\<Lines\>\""}], "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.6570213014457417`*^9, 3.657021316620089*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+  "SetDirectory", "[", 
+   "\"\</Users/ianmilligan1/desktop/elxn42-wayback-api\>\"", "]"}], ";", " ", 
+  
+  RowBox[{"(*", " ", 
+   RowBox[{"an", " ", "output", " ", "directory"}], " ", "*)"}]}]], "Input",
+ CellChangeTimes->{{3.65702224217885*^9, 3.657022244615139*^9}, {
+  3.657022589631466*^9, 3.657022596021738*^9}}],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"counter", "=", "1"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Do", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"response", "=", 
+      RowBox[{"Import", "[", 
+       RowBox[{
+       "\"\<http://archive.org/wayback/available?url=\>\"", "<>", "x"}], 
+       "]"}]}], ";", " ", 
+     RowBox[{"(*", " ", 
+      RowBox[{
+       RowBox[{"feeds", " ", "in", " ", "from", " ", "each", " ", "line"}], 
+       ",", " ", 
+       RowBox[{"queries", " ", "the", " ", "API"}]}], "*)"}], 
+     "\[IndentingNewLine]", 
+     RowBox[{"Pause", "[", "1", "]"}], ";", " ", 
+     RowBox[{"(*", " ", 
+      RowBox[{"respectful", " ", "delay"}], " ", "*)"}], 
+     "\[IndentingNewLine]", 
+     RowBox[{"filename", "=", 
+      RowBox[{
+       RowBox[{"ToString", "[", "counter", "]"}], "<>", "\"\<.json\>\""}]}], 
+     ";", " ", 
+     RowBox[{"(*", " ", 
+      RowBox[{"generating", " ", "output", " ", "file", " ", "name"}], "*)"}],
+      "\[IndentingNewLine]", 
+     RowBox[{"Export", "[", 
+      RowBox[{"filename", ",", "response", ",", "\"\<JSON\>\""}], "]"}], ";", 
+     " ", 
+     RowBox[{"(*", " ", 
+      RowBox[{"outputing", " ", "the", " ", "file"}], " ", "*)"}], 
+     "\[IndentingNewLine]", 
+     RowBox[{"counter", "=", 
+      RowBox[{"counter", "+", "1"}]}], ";"}], " ", 
+    RowBox[{"(*", " ", 
+     RowBox[{
+      RowBox[{"increases", " ", "a", " ", "counter"}], ",", " ", 
+      RowBox[{
+      "both", " ", "for", " ", "monitoring", " ", "and", " ", "file", " ", 
+       "name", " ", "generation"}]}], " ", "*)"}], "\[IndentingNewLine]", ",", 
+    RowBox[{"{", 
+     RowBox[{"x", ",", 
+      RowBox[{"Take", "[", 
+       RowBox[{"urllist", ",", "2"}], "]"}]}], "}"}]}], "\[IndentingNewLine]",
+    "]"}], ";"}]}], "Input",
+ CellChangeTimes->{{3.657021637102722*^9, 3.657021702062572*^9}, {
+  3.657021776382819*^9, 3.6570217797278843`*^9}, {3.6570219574262323`*^9, 
+  3.6570219825188932`*^9}, {3.657022016101919*^9, 3.657022074010153*^9}, {
+  3.657022135799795*^9, 3.657022161270257*^9}, {3.657022210043318*^9, 
+  3.657022212354946*^9}, {3.6570222504314423`*^9, 3.657022425115752*^9}, {
+  3.657022599454175*^9, 3.657022624949898*^9}}]
+},
+WindowSize->{808, 905},
+WindowMargins->{{Automatic, 78}, {Automatic, 26}},
+FrontEndVersion->"10.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (September 9, \
+2014)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 293, 6, 158, "Text"],
+Cell[854, 28, 310, 7, 80, "Input"],
+Cell[1167, 37, 353, 9, 46, "Input"],
+Cell[1523, 48, 2196, 53, 199, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
