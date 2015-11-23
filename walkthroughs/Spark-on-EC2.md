@@ -22,7 +22,7 @@ It is a bit bare boned as it assumes some knowledge of a command line environmen
 - try `ping $HOSTNAME`: if it responds with something like `ping: unknown host milligan-wahr-05` you need to add an entry to your `/etc/hosts` file
 - `sudo vim /etc/hosts`
 - replace the `localhost` entry with your hostname - in my case, the first line now reads: `127.0.0.1 milligan-wahr-05`
-` now try to `ping $HOSTNAME`: if you begin to see packet transmission/receipt information, you're golden.
+- now try to `ping $HOSTNAME`: if you begin to see packet transmission/receipt information, you're golden.
 
 ### Step Four: Install Spark
 - download spark 1.5.1 from [here](http://spark.apache.org/downloads.html). I used [this version for direct download](http://d3kbcqa49mib13.cloudfront.net/spark-1.5.1-bin-hadoop2.6.tgz).
