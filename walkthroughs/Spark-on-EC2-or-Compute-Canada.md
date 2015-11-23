@@ -7,7 +7,7 @@ This is a walkthrough for installing Warcbase and Spark on a Ubuntu_14.04_Trusty
 It is a bit bare boned as it assumes some knowledge of a command line environment.
 
 ### Step One: SSH to the server 
-- For me on a Compute Canada instance, it's `ssh -i macpro.key ubuntu@206.12.25.124`.
+- For me on a Compute Canada instance, it's `ssh -i macpro.key ubuntu@IPADDRESS`.
 
 ### Step Two: Install dependencies
 - `sudo apt-get update`
