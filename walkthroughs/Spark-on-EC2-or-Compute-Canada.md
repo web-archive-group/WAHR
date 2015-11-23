@@ -36,7 +36,7 @@ It is a bit bare boned as it assumes some knowledge of a command line environmen
 - change to the warcbase directory: `cd warcbase`
 - build warcbase: `mvn clean package appassembler:assemble -DskipTests`
 
-### Step Six: Test
+### Step Six: Test that Warcbase and Spark are working
 - verify that the shell works by navigating to your spark-shell directory and running: `./bin/spark-shell`
 - if you don't get a bunch of errors, try: `./bin/spark-shell --jars /home/ubuntu/warcbase/target/warcbase-0.1.0-SNAPSHOT-fatjar.jar` to initalize warcbase
 - Try this following script. In order to paste code, type `paste` and then Ctrl+D when you finish it up.
@@ -55,4 +55,11 @@ If you receive the following output:
 r: Array[(String, Int)] = Array((www.archive.org,132), (deadlists.com,2), (www.hideout.com.br,1))
 ```
 
-Then you're golden! Fist pump.
+Then you're working.
+
+### Step Seven: Getting the Spark Notebook working
+- download it with this command: `wget https://s3.eu-central-1.amazonaws.com/spark-notebook/tgz/spark-notebook-master-scala-2.10.4-spark-1.5.1-hadoop-2.6.0-cdh5.4.2.tgz`
+- unzip it: `tar -xvf spark-notebook-master-scala-2.10.4-spark-1.5.1-hadoop-2.6.0-cdh5.4.2.tgz`
+- test that it works: `./bin/spark-notebook`
+
+The catch is that you'll want to view it on a browser, but you're working on a server. There are almost certainly better ways to do it, but `ngrok` is a quick way around this. To be continued. (`wget https://dl.ngrok.com/ngrok_2.0.19_linux_amd64.zip` for starters)
