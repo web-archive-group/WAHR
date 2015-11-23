@@ -26,7 +26,7 @@ It is a bit bare boned as it assumes some knowledge of a command line environmen
 
 ### Step Four: Install Spark
 - download spark 1.5.1 from [here](http://spark.apache.org/downloads.html). I used [this version for direct download](http://d3kbcqa49mib13.cloudfront.net/spark-1.5.1-bin-hadoop2.6.tgz).
-	- for the lazier among us: `http://d3kbcqa49mib13.cloudfront.net/spark-1.5.1-bin-hadoop2.6.tgz`
+	- for the lazier among us: `wget http://d3kbcqa49mib13.cloudfront.net/spark-1.5.1-bin-hadoop2.6.tgz`
 	- `tar -xvf spark-1.5.1-bin-hadoop2.6.tgz`
 	- remove the tar file: `rm spark-1.5.1-bin-hadoop2.6.tgz`
 
