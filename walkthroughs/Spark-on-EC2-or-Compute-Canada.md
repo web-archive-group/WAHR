@@ -11,6 +11,7 @@ It is a bit bare boned as it assumes some knowledge of a command line environmen
 
 ### Step Two: Install dependencies
 - `sudo apt-get update`
+- `sudo apt-get install htop`
 - `sudo apt-get install git`
 - `sudo apt-get install maven`
 - `sudo apt-get install scala`
@@ -62,4 +63,31 @@ Then you're working.
 - unzip it: `tar -xvf spark-notebook-master-scala-2.10.4-spark-1.5.1-hadoop-2.6.0-cdh5.4.2.tgz`
 - test that it works: `./bin/spark-notebook`
 
-The catch is that you'll want to view it on a browser, but you're working on a server. There are almost certainly better ways to do it, but `ngrok` is a quick way around this. To be continued. (`wget https://dl.ngrok.com/ngrok_2.0.19_linux_amd64.zip` for starters)
+The catch is that you'll want to view it on a browser, but you're working on a server. 
+
+### Step Eight: Deployment
+While it is easy to deploy, at least for quick testing purposes, with `sudo ./bin/spark-notebook -Dhttp.port=80`, this will leave your Spark Notebook wide open to the world. As you've got read/write privileges, unless you really don't care about your machine or your data, this isn't the best way.
+
+Instead, open an SSH tunnel to your instance. You'll need to reconnect using `ssh`. The following command should establish a tunnel from the remote localhost:9000 to your local localhost:9000.
+
+`ssh -i macpro.key ubuntu@MYIPADDRESS -L 9000:127.0.0.1:9000`
+
+Once in, deploy your Spark Notebook by running
+
+`sudo ./bin/spark-notebook -Dhttp.port=9000` from your spark-notebook directory (in my case, that is `~/spark-notebook-0.6.2-SNAPSHOT-scala-2.10.4-spark-1.5.1-hadoop-2.6.0-cdh5.4.2`).
+
+On your local browser, point it to `localhost:9000`. You should see your spark-notebook!
+
+![the spark notebook in action](https://raw.githubusercontent.com/ianmilligan1/WAHR/master/images/Spark-Notebook-Cluster.png)
+
+### Step Nine: Tweaking
+You might find that your jobs are taking too long. This might because you don't have enough executors set. 
+
+Find how many CPU cores you have free by running `htop`. On a lightweight cloud machine, you might see:
+
+![four cores in action](https://raw.githubusercontent.com/ianmilligan1/WAHR/master/images/four-cores.png)
+
+This shows four cores in action. So when you run your `spark-shell` as in Step Six above, you might want to pass `--num-executors 4`. Tweak and refine as needed.
+
+### Step Ten: Have Fun
+You've now got warcbase running in the cloud. What more could a person want?
