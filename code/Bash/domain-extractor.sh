@@ -7,4 +7,12 @@
 
 while read p; do
 	echo $p | awk -F/ '{print $3}'
-done < cdx-failure.txt > domains-failed.txt
+done < elxn42-tweets-urls-uniq-no-count.txt > domains-all.txt
+
+# we may subsequently want to normalize domains by removing
+# sub-domains, so that m.youtube.com and youtube.com are
+# the same (or m.globeandmail.com and globeandmail.com
+
+while read l; do
+	(sed 's/.*\.\(.*\..*\)/\1/' <<< ${l%/*})
+done < domains-all.txt > normalized-domains-all.txt
