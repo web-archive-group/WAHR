@@ -1,0 +1,13 @@
+import org.warcbase.spark.matchbox.RecordTransformers._
+import org.warcbase.spark.matchbox.{ExtractTopLevelDomain, ExtractLinks, RecordLoader, WriteGDF}
+import org.warcbase.spark.rdd.RecordRDD._
+
+val links = RecordLoader.loadArc("/mnt/vol1/data_sets/cpp_arcs", sc)
+  .keepValidPages()
+  .map(r => (r.getCrawldate, ExtractLinks(r.getUrl, r.getContentString)))
+  .flatMap(r => r._2.map(f => (r._1, ExtractTopLevelDomain(f._1).replaceAll("^\\s*www\\.", ""), ExtractTopLevelDomain(f._2).replaceAll("^\\s*www\\.", ""))))
+  .filter(r => r._2 != null && r._2 != "" && r._3 != null && r._3 != "")
+  .countItems()
+  .filter(r => r._2 > 5)
+
+WriteGDF(links, "/mnt/vol1/derivative_data/gdf/all-cpp-arc-links.gdf")
