@@ -1,0 +1,23 @@
+import org.warcbase.spark.matchbox.RecordTransformers._
+import org.warcbase.spark.matchbox.{ExtractTopLevelDomain, ExtractLinks, RecordLoader}
+import org.warcbase.spark.rdd.RecordRDD._
+
+RecordLoader.loadArc("/mnt/vol1/data_sets/cpp_arcs", sc)
+  .discardDate(null)
+  .keepMimeTypes(Set("text/html"))
+  .map(r => (r.getCrawldate, ExtractLinks(r.getUrl, r.getContentString)))
+  .flatMap(r => r._2.map(f => (r._1, ExtractTopLevelDomain(f._1).replaceAll("^\\s*www\\.", ""), ExtractTopLevelDomain(f._2).replaceAll("^\\s*www\\.", ""))))
+  .filter(r => r._2 != null && r._3 != null)
+  .countItems()
+  .filter(r => r._2 > 5)
+  .saveAsTextFile("/mnt/vol1/derivative_data/cpp_arc_links")
+
+RecordLoader.loadWarc("/mnt/vol1/data_sets/cpp_warcs", sc)
+  .discardDate(null)
+  .keepMimeTypes(Set("text/html"))
+  .map(r => (r.getCrawldate, ExtractLinks(r.getUrl, r.getContentString)))
+  .flatMap(r => r._2.map(f => (r._1, ExtractTopLevelDomain(f._1).replaceAll("^\\s*www\\.", ""), ExtractTopLevelDomain(f._2).replaceAll("^\\s*www\\.", ""))))
+  .filter(r => r._2 != null && r._3 != null)
+  .countItems()
+  .filter(r => r._2 > 5)
+  .saveAsTextFile("/mnt/vol1/derivative_data/cpp_warc_links")
