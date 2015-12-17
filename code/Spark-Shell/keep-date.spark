@@ -1,0 +1,10 @@
+import org.warcbase.spark.matchbox._ 
+import org.warcbase.spark.rdd.RecordRDD._ 
+
+val r = 
+RecordLoader.loadArc(arc,sc)
+.keepValidPages()
+.keepDate("20051004")
+.map(r => ExtractTopLevelDomain(r.getUrl)) 
+.countItems()
+.take(10)

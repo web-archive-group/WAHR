@@ -1,0 +1,5 @@
+import org.warcbase.spark.matchbox.ExtractEntities
+
+sc.addFile("/home/i2millig/warcbase-resources/NER/english.all.3class.distsim.crf.ser.gz")
+
+ExtractEntities.extractFromRecords("english.all.3class.distsim.crf.ser.gz", "/mnt/vol1/data_sets/fda/warcs", "/mnt/vol1/derivative_data/fda_ner", sc)
