@@ -3,11 +3,11 @@
 # and compresses them down to domain. So a URL like 
 # http://15andfairness.org/latest/federal-election-alert-lets-ramp-up-the-fight-for-decent-work/
 # becomes just http://15andfairness.org.
-
+# if using Twitter corpus, use non-unique URLs!
 
 while read p; do
 	echo $p | awk -F/ '{print $3}'
-done < elxn42-tweets-urls-uniq-no-count.txt > domains-all.txt
+done < elxn42-tweets-urls-fixed.txt > domains-all.txt
 
 # we may subsequently want to normalize domains by removing
 # sub-domains, so that m.youtube.com and youtube.com are
