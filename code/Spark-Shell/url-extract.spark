@@ -1,0 +1,9 @@
+import org.warcbase.spark.matchbox._
+import org.warcbase.spark.rdd.RecordRDD._
+
+// swap loadArc to be a directory of ARC, change loadArc to loadWarc for WARCs
+
+val r = RecordLoader.loadArc("/home/i2millig/WAHR/sample-data/arc-warc/ARCHIVEIT-227-UOFTORONTO-CANPOLPINT-20060622205612-00009-crawling025.archive.org.arc.gz", sc)
+.keepValidPages()
+.map(r => r.getUrl)
+.saveAsTextFile("/home/i2millig/cpp-url-extract-test.txt")
