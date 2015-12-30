@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      2391,         87]
-NotebookOptionsPosition[      1853,         63]
-NotebookOutlinePosition[      2209,         79]
-CellTagsIndexPosition[      2166,         76]
+NotebookDataLength[      4668,        142]
+NotebookOptionsPosition[      3795,        106]
+NotebookOutlinePosition[      4303,        128]
+CellTagsIndexPosition[      4219,        123]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -59,7 +59,50 @@ Cell[BoxData[
 
 Cell[BoxData["500000"], "Output",
  CellChangeTimes->{3.659614685828308*^9}]
-}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"?", " ", "Export"}]], "Input",
+ CellChangeTimes->{{3.659621489996605*^9, 3.659621491194891*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox["\<\"\\!\\(\\*RowBox[{\\\"Export\\\", \\\"[\\\", RowBox[{StyleBox[\
+\\\"\\\\\\\"\\\\!\\\\(\\\\*StyleBox[\\\\\\\"file\\\\\\\",\\\\\\\"TI\\\\\\\"]\\\
+\\).\\\\!\\\\(\\\\*StyleBox[\\\\\\\"ext\\\\\\\",\\\\\\\"TI\\\\\\\"]\\\\)\\\\\\\
+\"\\\",ShowStringCharacters->True], \\\",\\\", StyleBox[\\\"expr\\\", \
+\\\"TI\\\"]}], \\\"]\\\"}]\\) exports data to a file, converting it to the \
+format corresponding to the file extension \\!\\(\\*StyleBox[\\\"ext\\\", \
+\\\"TI\\\"]\\). \\n\\!\\(\\*RowBox[{\\\"Export\\\", \\\"[\\\", \
+RowBox[{StyleBox[\\\"file\\\", \\\"TI\\\"], \\\",\\\", StyleBox[\\\"expr\\\", \
+\\\"TI\\\"], \\\",\\\", \
+StyleBox[\\\"\\\\\\\"\\\\!\\\\(\\\\*StyleBox[\\\\\\\"format\\\\\\\",\\\\\\\"\
+TI\\\\\\\"]\\\\)\\\\\\\"\\\", ShowStringCharacters->True]}], \\\"]\\\"}]\\) \
+exports data in the specified format.\\n\\!\\(\\*RowBox[{\\\"Export\\\", \
+\\\"[\\\", RowBox[{StyleBox[\\\"file\\\", \\\"TI\\\"], \\\",\\\", StyleBox[\\\
+\"exprs\\\", \\\"TI\\\"], \\\",\\\", StyleBox[\\\"elems\\\", \\\"TI\\\"]}], \
+\\\"]\\\"}]\\) exports data by treating \\!\\(\\*StyleBox[\\\"exprs\\\", \
+\\\"TI\\\"]\\) as elements specified by \\!\\(\\*StyleBox[\\\"elems\\\", \
+\\\"TI\\\"]\\).\"\>", "MSG"], "\[NonBreakingSpace]", 
+  ButtonBox[
+   StyleBox["\[RightSkeleton]", "SR"],
+   Active->True,
+   BaseStyle->"Link",
+   ButtonData->"paclet:ref/Export"]}]], "Print", "PrintUsage",
+ CellChangeTimes->{3.6596214913689327`*^9},
+ CellTags->"Info3659603491-4292502"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Export", "[", 
+   RowBox[{
+   "\"\</users/ianmilligan1/dropbox/cpp-url-list-500k-sample.txt\>\"", ",", 
+    "sample"}], "]"}], ";"}]], "Input",
+ CellChangeTimes->{{3.6596214918319273`*^9, 3.65962153667382*^9}, {
+  3.659621568745338*^9, 3.659621572304264*^9}}]
 },
 WindowSize->{806, 647},
 WindowMargins->{{4, Automatic}, {Automatic, 4}},
@@ -71,10 +114,16 @@ StyleDefinitions->"Default.nb"
 
 (* Internal cache information *)
 (*CellTagsOutline
-CellTagsIndex->{}
+CellTagsIndex->{
+ "Info3659603491-4292502"->{
+  Cell[1997, 69, 1485, 25, 74, "Print",
+   CellTags->"Info3659603491-4292502"]}
+ }
 *)
 (*CellTagsIndex
-CellTagsIndex->{}
+CellTagsIndex->{
+ {"Info3659603491-4292502", 4115, 117}
+ }
 *)
 (*NotebookFileOutline
 Notebook[{
@@ -88,10 +137,15 @@ Cell[1384, 46, 216, 5, 28, "Input"],
 Cell[CellGroupData[{
 Cell[1625, 55, 134, 2, 28, "Input"],
 Cell[1762, 59, 75, 1, 28, "Output"]
-}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1874, 65, 120, 2, 28, "Input"],
+Cell[1997, 69, 1485, 25, 74, "Print",
+ CellTags->"Info3659603491-4292502"]
+}, Open  ]],
+Cell[3497, 97, 294, 7, 28, "Input"]
 }
 ]
 *)
 
 (* End of internal cache information *)
-
