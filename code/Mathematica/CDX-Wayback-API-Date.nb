@@ -1,0 +1,135 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      4255,        126]
+NotebookOptionsPosition[      3852,        108]
+NotebookOutlinePosition[      4210,        124]
+CellTagsIndexPosition[      4167,        121]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[{
+ StyleBox["Datestamps in the Wayback CDX API\n", "Title"],
+ StyleBox["Ian Milligan - 30 December 2015", "Chapter"]
+}], "Text",
+ CellChangeTimes->{{3.660494568928823*^9, 3.66049457830348*^9}}],
+
+Cell[TextData[{
+ "Just adapting Nick\[CloseCurlyQuote]s ia_cdx_checker.py \
+(https://github.com/ianmilligan1/WAHR/blob/master/scripts/ia_cdx_checker/ia_\
+cdx_checker.py) in ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ ", mostly out of boredom."
+}], "Text",
+ CellChangeTimes->{{3.660495383321616*^9, 3.660495400367494*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"tocheck", "=", 
+   RowBox[{"Take", "[", 
+    RowBox[{"urllist", ",", "10"}], "]"}]}], ";", " ", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{
+      "import", " ", "list", " ", "of", " ", "variables", " ", "here"}], " ", 
+      "-", " ", 
+      RowBox[{"i", ".", "e", ".", " ", "tocheck"}]}], "=", 
+     RowBox[{"Import", "[", "\"\<list/of/urls.txt\>\"", "]"}]}], ";"}], " ", 
+   "*)"}]}]], "Input",
+ CellChangeTimes->{{3.660488253909103*^9, 3.660488260995637*^9}, {
+  3.660493977968575*^9, 3.6604939938624563`*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"export", "=", 
+   RowBox[{"{", "}"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.6604946406467333`*^9, 3.6604946420622377`*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     RowBox[{"If", "[", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"Length", "[", 
+         RowBox[{"Import", "[", 
+          RowBox[{
+           RowBox[{"\"\<http://web.archive.org/cdx/search/cdx?url=\>\"", "<>", 
+            RowBox[{"ToString", "[", "#", "]"}], "<>", 
+            "\"\<&output=json&limit=-2\>\""}], ",", "\"\<Data\>\""}], "]"}], 
+         "]"}], "<", "1"}], ",", 
+       RowBox[{"AppendTo", "[", 
+        RowBox[{"export", ",", "\"\<Null\>\""}], "]"}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"AppendTo", "[", 
+        RowBox[{"export", ",", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"data", "=", 
+            RowBox[{
+             RowBox[{"StringSplit", "[", 
+              RowBox[{
+               RowBox[{
+               "response", "\[LeftDoubleBracket]", "2", 
+                "\[RightDoubleBracket]"}], ",", "\"\<,\>\""}], "]"}], 
+             "\[LeftDoubleBracket]", "2", "\[RightDoubleBracket]"}]}], ",", 
+           RowBox[{"data", "=", 
+            RowBox[{
+             RowBox[{"StringSplit", "[", 
+              RowBox[{
+               RowBox[{
+               "response", "\[LeftDoubleBracket]", "2", 
+                "\[RightDoubleBracket]"}], ",", "\"\<,\>\""}], "]"}], 
+             "\[LeftDoubleBracket]", "4", "\[RightDoubleBracket]"}]}]}], 
+          "}"}]}], "]"}]}], "\[IndentingNewLine]", "]"}], ";"}], "&"}], "/@", 
+   "tocheck"}], ";"}]], "Input",
+ CellChangeTimes->{{3.66049404909949*^9, 3.660494059177855*^9}, {
+   3.660494098060782*^9, 3.6604941531850033`*^9}, {3.660494193675707*^9, 
+   3.6604942525452013`*^9}, {3.660494302681675*^9, 3.6604944029526873`*^9}, 
+   3.660494555617671*^9, {3.660494643558774*^9, 3.660494688722534*^9}, {
+   3.6604948525110188`*^9, 3.660494853054641*^9}, {3.660494938460762*^9, 
+   3.6604949456896973`*^9}, {3.6604951821805773`*^9, 3.660495209960019*^9}, {
+   3.660495261292671*^9, 3.660495349354692*^9}}]
+},
+WindowSize->{689, 515},
+WindowMargins->{{20, Automatic}, {Automatic, 44}},
+FrontEndVersion->"10.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (September 9, \
+2014)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 207, 4, 166, "Text"],
+Cell[768, 26, 330, 8, 68, "Text"],
+Cell[1101, 36, 581, 16, 63, "Input"],
+Cell[1685, 54, 161, 4, 28, "Input"],
+Cell[1849, 60, 1999, 46, 131, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
