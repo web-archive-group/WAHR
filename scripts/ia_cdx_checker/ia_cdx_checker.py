@@ -22,6 +22,7 @@ def check_ia_cdx(line):
     e = None
     d = None
     f = None
+    g = None
     try:
         url = 'http://web.archive.org/cdx/search/cdx?url=' + elx42_url + '&output=json&limit=-2'
         request = Request(url, headers={'User-Agent': "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)"})
@@ -50,13 +51,13 @@ def check_ia_cdx(line):
         if second_date.startswith('201512'):
             print(elx42_url)
     except HTTPError as e:
-        logging.error("http error: %s when looking up %s", e, elx42_url)
+        logging.error("HTTPError: %s when looking up %s", e, elx42_url)
     except IndexError as d:
-        logging.error("index error: %s when looking up %s", d, elx42_url)
+        logging.error("IndexError: %s when looking up %s", d, elx42_url)
     except ValueError as f:
-        logging.error("value error: %s when looking up %s", f, elx42_url)
-    #except BadStatusLine as g:
-    #    bad_status_line = g
+        logging.error("ValueError: %s when looking up %s", f, elx42_url)
+    except httplib.BadStatusLine as g:
+        logging.error("BadStatusLine: %s when looking up %s", g, elx42_url)
 
 def main():
     pool = multiprocessing.Pool(POOL_SIZE)
