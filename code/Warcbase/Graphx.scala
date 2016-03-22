@@ -1,3 +1,7 @@
+/** This script works on the graphx branch of warcbase, currently accessible
+  * at https://github.com/lintool/warcbase/tree/graphx.
+  */
+
 import org.warcbase.spark.rdd.RecordRDD._
 import org.warcbase.spark.matchbox.RecordLoader
 import org.warcbase.spark.matchbox.ExtractGraph
