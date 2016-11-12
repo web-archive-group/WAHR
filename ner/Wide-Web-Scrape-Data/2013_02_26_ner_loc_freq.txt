@@ -1,0 +1,291 @@
+  48 Canada 
+  31 WordPress.com 
+  24 US 
+  20 Rio de Janeiro 
+  20 Buenos Aires 
+  19 U.S. 
+  18 Ontario 
+  15 Toronto 
+  14 Canada , 
+  13 New York 
+  13 Hamilton 
+  12 Reddit 
+  11 Amazon 
+  10 United States 
+  10 America 
+   9 UK 
+   9 Ontario , 
+   8 USA 
+   8 Nietzsche 
+   8 California 
+   7 Texas 
+   7 Saskatchewan 
+   7 Kansas 
+   6 Virginia 
+   6 US , 
+   6 Oxford 
+   6 Ohio 
+   6 Colorado Springs , 
+   5 Toronto , 
+   5 Timbuktu 
+   5 Rodopi 
+   5 Pittsburgh 
+   5 Idaho 
+   5 England 
+   5 Connecticut 
+   4 Washington 
+   4 Vermont 
+   4 UT 
+   4 UK , 
+   4 Silver City , New Mexico 
+   4 Silver City , 
+   4 Rikers Island 
+   4 Northampton , 
+   4 Newfoundland 
+   4 Newcastle 
+   4 New York City 
+   4 New Orleans 
+   4 New Haven , Connecticut , 
+   4 New Haven , 
+   4 Minneapolis , 
+   4 Minneapolis 
+   4 Middle East 
+   4 Massachusetts 
+   4 London 
+   4 Hennepin County , 
+   4 Dickinson 
+   4 Cleveland , 
+   4 CANADA 
+   4 Burlington 
+   4 Bloomington , 
+   3 australia 
+   3 Wyoming 
+   3 Washington , D.C. 
+   3 Utah 
+   3 United States , 
+   3 United Kingdom 
+   3 Shadyside 
+   3 Pennsylvania 
+   3 Pacific 
+   3 Oxford , Cambridge , 
+   3 Ottawa 
+   3 Oregon 
+   3 New Jersey 
+   3 Michigan 
+   3 Maryland 
+   3 Lethbridge 
+   3 Hawaii 
+   3 Hamilton , Ontario 
+   3 Hale Library , 
+   3 Guelph 
+   3 Germany 
+   3 Georgia 
+   3 Gainesville , 
+   3 Egypt 
+   3 Australia 
+   3 American 
+   2 kalba 
+   2 Wisconsin 
+   2 West Virginia 
+   2 United States License 
+   2 Tennessee 
+   2 TORONTO , CANADA 
+   2 South Dakota 
+   2 South Carolina 
+   2 Santiago 
+   2 San Diego County Library 
+   2 Riverdale 
+   2 Rhode Island 
+   2 REDDIT 
+   2 Ontario , Canada 
+   2 Oklahoma 
+   2 North Dakota 
+   2 North Carolina 
+   2 New Mexico 
+   2 New Hampshire 
+   2 Nevada 
+   2 Nederlands 
+   2 Nebraska 
+   2 Mozilla 
+   2 Mount Kilimanjaro 
+   2 Montana 
+   2 Missouri 
+   2 Mississippi 
+   2 Minnesota 
+   2 Maine 
+   2 Louisiana 
+   2 Lewiston N.Y. 
+   2 Kanada 
+   2 Japan 
+   2 Italy 
+   2 Iowa 
+   2 Indiana 
+   2 IANAL , 
+   2 Hamilton , 
+   2 Florida 
+   2 Euskara 
+   2 Ellensburg , 
+   2 Delaware 
+   2 Condorcet 
+   2 China 
+   2 Canada Library 
+   2 Cambridge 
+   2 Britain , 
+   2 Belaruskaya 
+   2 Bahasa Indonesia 
+   2 Askey , 
+   2 Arizona 
+   2 Alaska 
+   2 Alabama 
+   1 s College , 
+   1 iowa 
+   1 germany 
+   1 florida 
+   1 canada 
+   1 american 
+   1 america 
+   1 amazon 
+   1 Yugoslavia 
+   1 YARMOUTH , 
+   1 Wonderopolis 
+   1 Windsor , Ontario , 
+   1 Wilson , North Carolina , 
+   1 Westhues 
+   1 West 
+   1 Wellington Street East , 
+   1 Weissensee 
+   1 Wales , 
+   1 WA 
+   1 Vietnam 
+   1 Victorian Britain 
+   1 Victoria , 
+   1 Vandil 
+   1 Utah , 
+   1 United States , Web Logs , 
+   1 U.S. , 
+   1 Turkey 
+   1 Tunisia 
+   1 Toronto , Canada , 
+   1 Sydney , 
+   1 St. Peter , 
+   1 St. Michaels Road Portsmouth 
+   1 St. Michael 
+   1 Spain 
+   1 South Africa 
+   1 Silicon Valley 
+   1 Seattle WA 
+   1 Seattle , WA , 
+   1 Santa Clara County 
+   1 Russia 
+   1 Romania 
+   1 Rittenhouse 
+   1 Quebec 
+   1 Puerto Rico 
+   1 Princeton 
+   1 Palm Springs , California 
+   1 Palm 
+   1 Ontario Canada 
+   1 Old Hartford 
+   1 OTTAWA , CANADA 
+   1 North American 
+   1 North America 
+   1 Nkomazi 
+   1 Nigeria 
+   1 Niagara Falls , 
+   1 New York state , 
+   1 New York Public Library 
+   1 New York County District Attorney 
+   1 New York , NY The City College of New York 
+   1 New York , NY 
+   1 New York , 
+   1 New Jack Librarian 
+   1 New Hamphsire 
+   1 NEWMARKET , CANADA 
+   1 Montreal 
+   1 Miami 
+   1 Mexico 
+   1 Mellenâs 
+   1 Massachusetts , 
+   1 Massachusettes 
+   1 Manoa , 
+   1 Mankind 
+   1 Malaysia , 
+   1 MORGANTOWN , 
+   1 Loon 
+   1 Livres 
+   1 Lewiston , N.Y. , 
+   1 Les Green 
+   1 Lampeter , 
+   1 Kline , 
+   1 Kingston , Jamaica 
+   1 Khalakovo 
+   1 Kentucky 
+   1 Kaplanoff Librarian 
+   1 Kansas State 
+   1 Kansas , USA 
+   1 KITCHENER , CANADA 
+   1 Jonestown 
+   1 Ireland 
+   1 Iran 
+   1 Indian Ocean 
+   1 Illinois 
+   1 Iceland 
+   1 Hollywood 
+   1 Hawai 
+   1 Hamilton Used 
+   1 Hamilton Spectator A Hamilton 
+   1 Hamilton Spectator 
+   1 Hamilton Ontario 
+   1 Hamilton Nolan 
+   1 Hamilton Jobs 
+   1 Hamilton Area 
+   1 Haiti 
+   1 Guelph Mercury 
+   1 Guantanamo Bay 
+   1 Great White North , 
+   1 Gainsville , Florida , USA , 
+   1 Fresno , 
+   1 Fraser Valley 
+   1 France 
+   1 Flora 
+   1 European Union 
+   1 Europe , Africa 
+   1 Europe , 
+   1 Europe 
+   1 England , 
+   1 Edmonton 
+   1 Ecuador New York 
+   1 Ecuador 
+   1 Dublin 
+   1 Downtown Miami 
+   1 Denver , 
+   1 Cuba 
+   1 Cortland , NY SUNY Cortland 
+   1 Colorado 
+   1 Chicago , IL 
+   1 Chester Beatty Library 
+   1 Caribbean , 
+   1 Caribbean 
+   1 Canadian 
+   1 Cambridge , Massachusetts 
+   1 Cambridge , MA 
+   1 Cambodia 
+   1 California , 
+   1 CHICAGO 
+   1 CAPAL , 
+   1 Brooklyn 
+   1 Brock Bookstore 
+   1 British 
+   1 Britian 
+   1 Britain , Canada , 
+   1 Atlantic 
+   1 Askeyâs 
+   1 Asia , 
+   1 Arkansas 
+   1 Albuquerque 
+   1 Africa , Alachua County 
+   1 Africa 
+   1 Academia 
+   1 Academe , 
+   1 About.Com 
+   1 ALBANY , 

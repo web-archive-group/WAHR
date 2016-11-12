@@ -1,0 +1,389 @@
+ 187 Canada 
+  51 WordPress.com 
+  38 US 
+  28 Reddit 
+  25 North America 
+  24 New York 
+  21 Saskatchewan 
+  20 Canada , 
+  19 UK 
+  19 Hamilton 
+  17 Oxford 
+  17 Ontario 
+  16 U.S. 
+  16 Toronto 
+  16 Nietzsche 
+  16 London 
+  15 United States 
+  15 Texas 
+  15 Ontario , 
+  15 America 
+  13 Ottawa 
+  12 Washington , D.C. 
+  12 Sky River 
+  11 Kansas 
+  10 CAPAL , 
+   9 USA 
+   9 St. Louis 
+   9 Middle East 
+   9 California 
+   9 CANADA 
+   8 Wellington Street 
+   8 Wellington 
+   8 United States License 
+   8 UT 
+   8 US , 
+   8 UK , 
+   8 Newcastle 
+   8 Michigan 
+   8 Lethbridge 
+   8 Guelph 
+   7 Utah 
+   6 Wales 
+   6 United States , 
+   6 Toronto , 
+   6 Europe 
+   6 England 
+   6 DPLA Midwest 
+   6 Chicago 
+   6 Cambridge 
+   6 Boston 
+   6 Amazon 
+   6 Africa 
+   5 Rodopi 
+   5 Oxford , Cambridge , 
+   5 Ohio 
+   5 Libraryland 
+   5 Japan 
+   5 Georgia 
+   5 Egypt 
+   5 Alberta 
+   5 Alaska 
+   4 Williston 
+   4 Washington , DC 
+   4 Washington 
+   4 Vermont 
+   4 Timbuktu 
+   4 St. Michael 
+   4 Silicon Valley 
+   4 Pennsylvania 
+   4 Newfoundland 
+   4 New Jersey 
+   4 Manoa , 
+   4 Manhattan 
+   4 Italy 
+   4 Hawai 
+   4 Germany 
+   4 France 
+   4 China 
+   4 Canada Library 
+   4 Australia 
+   4 American 
+   4 Academe , 
+   3 Yemen 
+   3 Wyoming 
+   3 San Diego County Library 
+   3 Parkersburg Parkersburg , 
+   3 Oregon 
+   3 Ontario , Canada 
+   3 North Carolina 
+   3 New Mexico 
+   3 Montreal 
+   3 Maryland 
+   3 MA 
+   3 Lewiston , N.Y. 
+   3 Iowa 
+   3 Indiana 
+   3 Hawaii 
+   3 Hamilton Mountain 
+   3 Hamilton , Ontario 
+   3 Hamilton , 
+   3 Hale Library , 
+   3 Florida 
+   3 Connecticut 
+   3 Condorcet 
+   3 Alliston , 
+   2 kalba 
+   2 York 
+   2 Wisconsin 
+   2 West Virginia 
+   2 Watertown , Mass. 
+   2 WA 
+   2 Virginia 
+   2 United Kingdom 
+   2 Turin 
+   2 Toronto , Canada , 
+   2 Tennessee 
+   2 Steubenville , 
+   2 Stanford 
+   2 South Dakota 
+   2 South Carolina 
+   2 Santiago 
+   2 Santa Clara County 
+   2 San Francisco 
+   2 Russian 
+   2 Rhode Island 
+   2 REDDIT 
+   2 Quebec 
+   2 Oklahoma 
+   2 North Dakota 
+   2 Niagara Falls 
+   2 New York , 
+   2 New Hampshire 
+   2 New Burma 
+   2 Nevada 
+   2 Nederlands 
+   2 Nebraska 
+   2 Montana 
+   2 Missouri 
+   2 Mississippi 
+   2 Minnesota 
+   2 Miami 
+   2 Massachusetts 
+   2 Mann Library 
+   2 Malibu 
+   2 Maine 
+   2 MA , MA 
+   2 Louisiana 
+   2 London , UK 
+   2 LibraryThing 
+   2 Lewiston , N.Y. , 
+   2 Kobo 
+   2 Kanada 
+   2 Idaho 
+   2 IANAL , 
+   2 Houston 
+   2 Gavia Libraria 
+   2 Euskara 
+   2 Edmonton 
+   2 Ecuador 
+   2 Delaware 
+   2 Colorado 
+   2 Canadian 
+   2 Cambridge , 
+   2 CHICAGO 
+   2 Burnaby , 
+   2 Burnaby 
+   2 Britain , 
+   2 Berlin 
+   2 Belaruskaya 
+   2 Bahasa Indonesia 
+   2 Australia UK 
+   2 Askeyâs 
+   2 Askey , 
+   2 Askey 
+   2 Asia 
+   2 Arizona 
+   2 Americas 
+   2 Alabama 
+   1 s College , 
+   1 s , 
+   1 iowa 
+   1 germany 
+   1 florida 
+   1 canada 
+   1 australia 
+   1 american 
+   1 america 
+   1 amazon 
+   1 Zurich 
+   1 Zotero 
+   1 Yugoslavia 
+   1 Ya 
+   1 Xian 
+   1 Wonderopolis 
+   1 Winnipeg 
+   1 Westhues 
+   1 West Burton 
+   1 West 
+   1 Wesleyan , Iowa , 
+   1 Wellington Street East , 
+   1 Weissensee 
+   1 Weber 
+   1 Washington , 
+   1 Wales , 
+   1 Victorian Britain 
+   1 Victoria , 
+   1 Venezuela 
+   1 Vandil 
+   1 Utah , 
+   1 Upstate New York 
+   1 United States , Web Logs , 
+   1 U.S. , 
+   1 Tunisia 
+   1 Tuebingen , Quebec , 
+   1 Tuebingen 
+   1 Trondheim , Norway 
+   1 Town America 
+   1 Toronto U.S. Winnipeg 
+   1 Too Long 
+   1 Tasmania 
+   1 Syria 
+   1 Sydney , 
+   1 Suburbia 
+   1 St. Peter , 
+   1 St. Lawrence River Valley 
+   1 Spokane , WA 
+   1 Spain 
+   1 Southwest 
+   1 South Wales , 
+   1 South Asia 
+   1 South America 
+   1 South Africa 
+   1 Sorbonne 
+   1 Seattle WA 
+   1 Seattle 
+   1 Scotland 
+   1 Saskatoon 
+   1 Sask 
+   1 Santa Fe 
+   1 Santa 
+   1 San Francisco , 
+   1 Salina 
+   1 Salem 
+   1 Russia 
+   1 Roy Tennant 
+   1 Rittenhouse 
+   1 Richmond Street London , Ontario , Canada , 
+   1 Reformation Britain 
+   1 Puerto Rico 
+   1 Princeton 
+   1 Prenda , 
+   1 Pickens County 
+   1 Paris 
+   1 Palo Alto , 
+   1 Palm Springs , California 
+   1 Palm 
+   1 Ontario Ottawa 
+   1 Ontario Canada 
+   1 Olin Library 
+   1 Olin 
+   1 Old Hartford 
+   1 OLA Superconference , 
+   1 North Korea 
+   1 North Country 
+   1 North Central Texas 
+   1 North American 
+   1 North America , 
+   1 Nkomazi 
+   1 Niagara Falls , 
+   1 New Zealand 
+   1 New York state , 
+   1 New York Public Library 
+   1 New York County District Attorney 
+   1 New York , NY 
+   1 New Jack Librarian 
+   1 New Hamphsire 
+   1 Munich 
+   1 Mothership 
+   1 Moscow 
+   1 Montreal , Quebec 
+   1 Middenin 
+   1 Mexico 
+   1 Merced 
+   1 Menu Skip 
+   1 Mellenâs 
+   1 Massachusetts , 
+   1 Massachusettes 
+   1 Marineland 
+   1 Mankind 
+   1 Manhattan , KS 
+   1 MOONEY , 
+   1 Library Loon The Loon 
+   1 Libraians 
+   1 Lewiston 
+   1 Lampeter , 
+   1 Labrador West 
+   1 Kreuzberg , Berlin 
+   1 Kline , 
+   1 Kingston , Jamaica 
+   1 Kentucky 
+   1 Kansas State 
+   1 Kansas , USA 
+   1 Kansas , 
+   1 Kahnawake 
+   1 KS 
+   1 Jonestown 
+   1 Johnson County 
+   1 Israel 
+   1 Ireland 
+   1 Iraq 
+   1 Indonesia 
+   1 India 
+   1 Illinois 
+   1 Idaho , 
+   1 Iceland 
+   1 IL 
+   1 Houston , Texas 
+   1 Houghton 
+   1 Hamilton Used 
+   1 Hamilton Spectator A Hamilton 
+   1 Hamilton Spectator 
+   1 Hamilton Jobs 
+   1 Hamilton Area 
+   1 Hamartia , 
+   1 Haiti 
+   1 Gwyneth Paltrow 
+   1 Guelph Mercury 
+   1 Guatemala 
+   1 Guantanamo Bay 
+   1 Great White North , 
+   1 Glenridge Ave. , St. Catharines , Ont. , 
+   1 GOLLNICK , 
+   1 GIBBS , 
+   1 Flora 
+   1 European Union 
+   1 Europe , Africa 
+   1 Europe , 
+   1 England , 
+   1 Earth 
+   1 Dublin 
+   1 Don Cherry 
+   1 Dodge City , Kan. , 
+   1 Denver , 
+   1 Delhi Delhi , 
+   1 Cuba 
+   1 Council WLUFA Waterloo , 
+   1 Columbia , 
+   1 Colorado Springs , Colorado , 
+   1 Chicago , IL 
+   1 Caribbean , 
+   1 Caribbean 
+   1 Cape Town , South Africa , 
+   1 Cambridge , Massachusetts 
+   1 Cambodia 
+   1 California , 
+   1 Caicos Islands 
+   1 CISPA , 
+   1 Buffalo , 
+   1 Buffalo 
+   1 Brooklyn 
+   1 British 
+   1 Britian 
+   1 Britain George Monbiot 
+   1 Britain , Canada , 
+   1 Britain 
+   1 Boston Marathon 
+   1 Borrego Springs , Calif. , 
+   1 Bondi 
+   1 Birmingham 
+   1 Bintan Island , Indonesia Monkey 
+   1 Bintan Island , Indonesia 
+   1 Berkeley 
+   1 Baltimore 
+   1 BERKELEY , CA , United States Librarian , 
+   1 Austria 
+   1 Australasia 
+   1 Atlantic 
+   1 Asia , 
+   1 Arkansas 
+   1 Argentina 
+   1 Amsterdam 
+   1 Allegany County 
+   1 Albuquerque 
+   1 Alberta Library 
+   1 Afghanistan , 
+   1 Afghanistan 
+   1 Adirondack Mountains 
+   1 Academia 
+   1 About.Com 

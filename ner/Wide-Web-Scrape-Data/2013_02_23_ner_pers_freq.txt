@@ -1,0 +1,679 @@
+ 268 Askey 
+ 199 Dale Askey 
+ 137 McMaster 
+ 135 Edwin Mellen 
+ 131 Mellen 
+ 102 Edwin Mellen Press 
+  56 Richardson 
+  47 Dale 
+  40 Martha Reineke 
+  33 Herbert Richardson 
+  33 Brian Leiter 
+  19 Lingua Franca 
+  18 Beall 
+  14 Leiter 
+  13 Peter Lang 
+  13 Ed 
+  12 Wayne 
+  12 Nietzsche 
+  11 Tatum 
+  11 Routledge 
+  11 Phil 
+  10 Turk 
+  10 Timothy A. Lepczyk 
+  10 Hamilton 
+  10 Coward 
+   9 Rick Anderson 
+   9 Gary Price 
+   8 Thomas Anthony Kelly 
+   8 Sam Trosow 
+   8 Dean 
+   8 Daniel Muñoz 
+   7 Toekneesan 
+   7 Mary 
+   7 James Turk 
+   7 Edwin Mellon 
+   7 Colleen Flaherty 
+   7 Anika 
+   6 Stephen 
+   6 Scott 
+   6 Morse 
+   6 Leslie Green 
+   6 John Dupuis 
+   6 Jeffrey Beall 
+   6 Hazel McCallion 
+   6 Green 
+   5 Tim 
+   5 Palgrave Macmillan 
+   5 Matti Kamppinen 
+   5 John 
+   5 Jake New 
+   5 Greenwood 
+   5 Gawker 
+   5 Chris 
+   4 Wordshore 
+   4 William Edmundson 
+   4 Watson 
+   4 Thomas Nadelhoffer 
+   4 Thom Brooks 
+   4 Susan Feldman 
+   4 Steven J. Bell 
+   4 Steven Bell 
+   4 Stephen Downes 
+   4 Springer 
+   4 Serife Tekin 
+   4 Scott Prudham 
+   4 Sarah Fedko 
+   4 Ruchira Paul 
+   4 Richard Posner 
+   4 Rebecca Kukla 
+   4 Quentin Skinner 
+   4 Queen 
+   4 Paul Gowder 
+   4 Neil Sinhababu 
+   4 Nate Charlow Smart 
+   4 Naomi House 
+   4 Michael S. 
+   4 Michael Geist 
+   4 Melinda Ludwiczak 
+   4 Maurice Leiter 
+   4 Luc Bovens 
+   4 Larry Solum 
+   4 Kieran Healy 
+   4 Jonathan Wolff 
+   4 John Whitehead 
+   4 Jessamyn West 
+   4 Jeff McMahan 
+   4 Jason Stanley 
+   4 Jack Dixon 
+   4 Hellie 
+   4 Haab 
+   4 Gordon 
+   4 Gord Arbeau 
+   4 Farhang Erfani 
+   4 Elizabeth 
+   4 Eduhacker 
+   4 Ed Jump 
+   4 David Chalmers 
+   4 David 
+   4 Dale Askley 
+   4 Clayton Littlejohn 
+   4 Chris Brooke 
+   4 Chomsky 
+   4 Cheryl LaGuardia 
+   4 Bruce Janz 
+   4 Barbara Fister 
+   4 Atwood 
+   4 Askey Martha Reineke 
+   4 Ariel Katz 
+   4 Amy Ferrer 
+   4 Adrienne Prettyman 
+   4 Adams 
+   3 edwin mellen 
+   3 Will Edwin Mellen 
+   3 Whitehead Coun 
+   3 Warren St. John 
+   3 Vartika Sharma 
+   3 Themify 
+   3 Terry Whitehead 
+   3 Terry Pratchett 
+   3 Steve Strongman 
+   3 Stephn M. Lilienthal 
+   3 Stephen Roberts 
+   3 Stephanie 
+   3 Spong 
+   3 Sonne de Torrens 
+   3 Slashdot 
+   3 Shelley 
+   3 Sarah 
+   3 Salisbury 
+   3 Reineke 
+   3 Pubstar 
+   3 Philip Nel 
+   3 Peter Winkler 
+   3 Pereyaslavska 
+   3 Paul Wouters 
+   3 Paul Wilson 
+   3 Paul R. Pival 
+   3 Papadopoulos 
+   3 Nate Hoffelder 
+   3 Michael E. Smith 
+   3 Michael Douglas 
+   3 Merv 
+   3 McGravitas 
+   3 Maureen Sullivan 
+   3 Martha J. Reineke 
+   3 Marc 
+   3 Maha 
+   3 LinkWithin 
+   3 Lily Tomlin 
+   3 Leona 
+   3 Larry Hodgson 
+   3 Kumaran 
+   3 Kristine Hunt 
+   3 Katya 
+   3 Kathryn 
+   3 Kandiuk 
+   3 Juliya 
+   3 Jennifer 
+   3 Jeff Young 
+   3 Jane Pyper 
+   3 Jacobs 
+   3 Jack Nicholson 
+   3 Hudson 
+   3 Harriet 
+   3 Giustini 
+   3 Gary Roberts 
+   3 Fox 
+   3 Elsevier 
+   3 Ed mcmaster 
+   3 Douglas 
+   3 Diana Panton 
+   3 David Fahey 
+   3 Dave 
+   3 Darren Wagner 
+   3 Cory Ruf 
+   3 Constance 
+   3 Chris Bowman 
+   3 Chris Bourg 
+   3 Chelsey Mori 
+   3 Borie 
+   3 Betsy McKenzie 
+   3 Bell 
+   3 Askeyâs 
+   3 Arbeau 
+   3 Andy 
+   3 Andrys 
+   3 Andrew Wiggins 
+   3 Adamson 
+   2 Zontar 
+   2 William Pannapacker 
+   2 Whitehead 
+   2 Westhues 
+   2 Victoria Skelton 
+   2 Vernon Wormer 
+   2 Timothy A. Lepczyk Tim 
+   2 Tim Haab 
+   2 Tara Coomans 
+   2 T.X. Watson 
+   2 Suzanne Meyers Sawa 
+   2 Strawson 
+   2 Steve 
+   2 Stephen Michael Kellat 
+   2 St Michael 
+   2 Spiros 
+   2 Simon Fodden 
+   2 Shelley Hawrychuk 
+   2 Seuss 
+   2 Scott Stratten 
+   2 Sandra Bullock 
+   2 Ryerson 
+   2 Ruth Sherman 
+   2 Roy Tennant 
+   2 Righteous Bubba 
+   2 Peter Suber 
+   2 Patrick Deane 
+   2 Obama 
+   2 Noel McFerran 
+   2 Noam 
+   2 Newman 
+   2 Neil Gaiman 
+   2 Nate 
+   2 Moridineas 
+   2 Mike Taylor 
+   2 Mike S. 
+   2 Michelle Spence 
+   2 Michael Steeleworthy 
+   2 Meredith Schwartz 
+   2 Mellon 
+   2 McConnell 
+   2 Maura Smale 
+   2 Matti 
+   2 Margaret Atwood 
+   2 Marcel Fortin 
+   2 Mann 
+   2 MIchael Stephens 
+   2 M.J. Tooey 
+   2 Luna Allison 
+   2 Lulu 
+   2 Lisa Sherlock 
+   2 Lewis 
+   2 Lee Iacocca 
+   2 Kaz Kylheku 
+   2 Joseph Kraus 
+   2 John N. Berry III 
+   2 John Kirriemuir 
+   2 John H. Daniels 
+   2 John DuPuis 
+   2 Jessamyn 
+   2 Jenny Arbuckle 
+   2 Jennifer Howard 
+   2 Jeff Newman 
+   2 Jeff 
+   2 Jason 
+   2 Jane Blumenthal 
+   2 James Moore 
+   2 Jake 
+   2 Jacques Bolo 
+   2 Jack 
+   2 J. Willard Marriott Library 
+   2 HuronBob 
+   2 Humphrey 
+   2 Huang 
+   2 Houghton 
+   2 Holly Pedit 
+   2 Herbert Richardson III 
+   2 Harriet Sonne de Torrens 
+   2 Gerd Hacker 
+   2 George W. Bush 
+   2 Felix 
+   2 Fabiano Rocha 
+   2 Evan Hadkins 
+   2 Ellynika 
+   2 Doug Sarver 
+   2 Diana Brydon 
+   2 Deutsch 
+   2 Dean Giustini 
+   2 De Keijzer 
+   2 David Wojick 
+   2 Burstein 
+   2 Brown 
+   2 Brock MacDonald 
+   2 Brill 
+   2 Brent Roe 
+   2 Brandon Butler 
+   2 Brad Duguid 
+   2 Bloomsbury 
+   2 Blatant Berry 
+   2 Bibliothekar 
+   2 Backtalk 
+   2 Andrea Shier 
+   2 Alison Circle 
+   2 Aissa 
+   2 Abe Lincoln 
+   2 Aaron Swartz 
+   2 Aaron Schmidt 
+   1 evalyn parry 
+   1 dale askey 
+   1 charles Dean 
+   1 WooThemes 
+   1 William Walsh 
+   1 William Smith Colleges Hobart 
+   1 William Smith 
+   1 William Leddy 
+   1 William Denton 
+   1 William Badke 
+   1 Whyte Appleby 
+   1 Westbrook 
+   1 Warren Arbogast 
+   1 Warren 
+   1 Ward Churchill 
+   1 Valery Fabrikant 
+   1 Türen Öffnen Sich Zur Stadt 
+   1 Tyler Hurst I 
+   1 Tracy Ware 
+   1 Tommy Landry 
+   1 Tom Waits 
+   1 Tom 
+   1 Todd Gilman 
+   1 Tim Baker Great 
+   1 Thomas Anthony kelly 
+   1 Thomas Anthony Kelly February 
+   1 Tatum Wayne 
+   1 Suzanne Sink 
+   1 Suzanne 
+   1 Susan 
+   1 Sullivan 
+   1 Suivre Souscrire 
+   1 Sue Carter Flinn 
+   1 Stewart Wills 
+   1 Steve Milton 
+   1 Steve Locy 
+   1 Steve Kolowich 
+   1 Stephen Downes Stephen 
+   1 Stephanie L. Gross 
+   1 St. John 
+   1 Sparkle Pony 
+   1 Soriah 
+   1 Sophia Kanaouti Said 
+   1 Slashdot Slashdot 
+   1 Simone Jérôme 
+   1 Simon Richardson 
+   1 Simon Lewis 
+   1 Sherlock Holmes 
+   1 Sheldon Levy 
+   1 Sheila Dalton 
+   1 Sheikh Zayed bin Sultan Al Nahyan 
+   1 Sharon Tan 
+   1 Sharon 
+   1 Shane Koyczan 
+   1 Shakespeare 
+   1 Selena Horner 
+   1 Scott McCloud 
+   1 Sandy Thatcher 
+   1 Samuel Trosow 
+   1 Sally Field 
+   1 Sahlins 
+   1 Ryan Gosling 
+   1 Ryan Deschamps 
+   1 Ryan Claringbole 
+   1 Ruth Krauss Seuss Syd Hoff 
+   1 Roscoe 
+   1 Rogers 
+   1 Roger Ailes 
+   1 Roger 
+   1 Rodger Cragun 
+   1 Roberts 
+   1 Robert Wall Angelique 
+   1 Robert Lamb 
+   1 Robert Cox 
+   1 Ridley Crawl 
+   1 Richardson Press 
+   1 Richard Alway 
+   1 Rich Sweeney 
+   1 Ricahrdson 
+   1 Reilly 
+   1 Reid 
+   1 Reginald Roy 
+   1 Randall Parker 
+   1 Ralph Spoilsport 
+   1 Quvenzhané Wallis 
+   1 Quill 
+   1 Queenston 
+   1 Preska 
+   1 Powell Said 
+   1 Powell 
+   1 Pie Philip Nel 
+   1 Phyllis Rippeyoung 
+   1 Philippe Cloutier 
+   1 Philip Nel Said 
+   1 Philip G. Altbach 
+   1 Peter Shankman 
+   1 Peter Binkley 
+   1 Pavane 
+   1 Paul Kurtz 
+   1 Paul H. 
+   1 Paul DeBock 
+   1 Patti Ryan 
+   1 Patrick McKenna 
+   1 Parinoia 
+   1 Palgrave Econolog 
+   1 P.P.S. 
+   1 Ollustrator 
+   1 OSVALDO SALAZAR 
+   1 Noam Chomsky 
+   1 Newmark 
+   1 Nel 
+   1 Nazir Hausawa 
+   1 Natalie Portman 
+   1 Murray Miles 
+   1 Mr Swadron 
+   1 Mona 
+   1 Molly Hayes 
+   1 Mo Willems Doodles 
+   1 Mitreya 
+   1 Mitch Joel 
+   1 Miriam Posner 
+   1 Minsky 
+   1 Mike Mongo 
+   1 Mike Cane 
+   1 Mike 
+   1 Mick Aston 
+   1 Michael Reynolds 
+   1 Michael Porter 
+   1 Michael Linnington 
+   1 Michael Kellat 
+   1 Michael Giberson 
+   1 Michael DiTommaso 
+   1 Michael Berubé 
+   1 Merv Rowlinson Southampton 
+   1 Merv Rowlinson 
+   1 Meredith Schwartz Meredith Schwartz 
+   1 Mellenâs 
+   1 Mellen Press 
+   1 Meghan Ecclestone 
+   1 McMasters 
+   1 McMasterUniversity 
+   1 McMaster Martha Reineke 
+   1 Maurice Sendak 
+   1 Matthew Hi Hardy 
+   1 Matthew C. Keegan 
+   1 Matthew 
+   1 Marvin Gaye 
+   1 Martin Kratz 
+   1 Martha 
+   1 Marta Hewson 
+   1 Marshall Swadron 
+   1 Mark Coakley 
+   1 Mark C R 
+   1 Margaret Williams 
+   1 Marc Parry 
+   1 Maow 
+   1 Malcolm Mercer 
+   1 Malcolm Gladwell 
+   1 Malcolm 
+   1 Maggie Niemi 
+   1 MacMillan 
+   1 Lucian E. Marin 
+   1 Louise Bourgeois 
+   1 Louis Mirando 
+   1 Lorcan Dempsey 
+   1 Lisa Margonelli 
+   1 Linga Franca 
+   1 Library Victoria Skelton 
+   1 Lia Said 
+   1 Lia 
+   1 Lexum 
+   1 Lessig 
+   1 Leider 
+   1 Leegsma 
+   1 Leah Petersen 
+   1 Lea Green 
+   1 Lawrence Lessig 
+   1 Laurie Taylor 
+   1 LJ 
+   1 Kristin Hoffmann 
+   1 KraftyLibrarian 
+   1 Kline 
+   1 Kimberly Silk 
+   1 Kim Nayyer February 
+   1 Kevin Smith 
+   1 Kevin Mitnick 
+   1 Kevin Ayers 
+   1 Kenneth Westhues 
+   1 Kenneth Noisewater 
+   1 Kaz 
+   1 Kathy GaynorÂ 
+   1 Kathy Gaynor 
+   1 Kathleen Monks Micah Erwin Sara 
+   1 Kathleen Monks 
+   1 Kathleen 
+   1 Katelyn Andrew 
+   1 Kate Wagner 
+   1 Kate Upton 
+   1 Karen Webb 
+   1 Kahn 
+   1 Justinian 
+   1 Jussi Keinonen 
+   1 Junot Diaz 
+   1 Junot 
+   1 Julie Harrison 
+   1 Juli Monroe 
+   1 Judy Blume 
+   1 Judith Bishop 
+   1 Josh Brolin 
+   1 John Morgan 
+   1 John F. Barnes 
+   1 John Dupois Martha Reineke 
+   1 Joe 
+   1 Jesus Christ 
+   1 Jessified 
+   1 Jessica Olin View 
+   1 Jessica Olin 
+   1 Jessamyn West Said 
+   1 Jerry Springer 
+   1 Jerrold Nadler Justin Amash 
+   1 Jeremy Nicoll 
+   1 Jeremy Erwin 
+   1 Jennifer Summers Arriola 
+   1 Jennifer Boettcher 
+   1 Jeffrey Minucci 
+   1 Jeff Treziak 
+   1 Jeff Ogden 
+   1 Jay Shogren 
+   1 Jay Lebo 
+   1 Jay Baer 
+   1 Jason Rapert 
+   1 Jason Falls 
+   1 Janna Hoglund 
+   1 Jane Schmidt 
+   1 James Rappold 
+   1 James Peck 
+   1 James L. Turk 
+   1 James Franco 
+   1 J.D. 
+   1 Issac Adams 
+   1 Irma LaDuce 
+   1 Ideefixe 
+   1 Ian McCullough 
+   1 IVOR WYNNE 
+   1 Howard Knopf February 
+   1 Howard 
+   1 Horace Rumpole 
+   1 Hope 
+   1 Hjalmar 
+   1 Hines 
+   1 Herb Richardson 
+   1 Herb 
+   1 Henry Barschall 
+   1 Hellman 
+   1 Heike Yates 
+   1 Hebert Richardson 
+   1 Harry Nailed 
+   1 Hammond 
+   1 Hamilton Nolan 
+   1 Gwen Bird 
+   1 Greene 
+   1 Graham Rowlands 
+   1 Gish 
+   1 Giorgio Moroder 
+   1 Ginger Goodwin 
+   1 Germano 
+   1 George Jacob Holyoake 
+   1 Gene Kannenberg 
+   1 Garza Brittney Thomas 
+   1 Fumblin 
+   1 Frye 
+   1 Fritz 
+   1 François Renaville 
+   1 François 
+   1 Francheteau Brecken John Steffler evalyn parry 
+   1 Flaherty 
+   1 Fister 
+   1 Felicia Slattery 
+   1 Faust Arp 
+   1 Ezra Levant 
+   1 Esther 
+   1 Erica KG 
+   1 Enfin 
+   1 Emerson 
+   1 Elliott Shore 
+   1 Ellen Gilchrist 
+   1 Elaine Conradi 
+   1 Einstein 
+   1 Edwin Mellon Press 
+   1 Edwin Mellen Pressâs 
+   1 Edwin Mellen Pressâ 
+   1 Edwin Mellen Press Edwin Mellen 
+   1 Edwin Drood 
+   1 EduHacker 
+   1 Eddie 
+   1 Ed Radio 
+   1 Dupuis 
+   1 Disqus 
+   1 Dirk Felleman 
+   1 Digg 
+   1 Dickson 
+   1 Dickens 
+   1 Diane Lane 
+   1 Derek Punsalan 
+   1 Debora Miller 
+   1 Dear Suzanne 
+   1 Dear Dale 
+   1 Deans 
+   1 De Gruyter 
+   1 David Solomon 
+   1 David Lowry 
+   1 David Gruber 
+   1 David Gerard 
+   1 David Eaves 
+   1 David Cheifetz 
+   1 David Bowie 
+   1 Dave Fleet Smart 
+   1 Danke Gerd 
+   1 Dan Cohen 
+   1 Damian Park 
+   1 Dale Edwin Mellen Press 
+   1 Dale Askey Martha Reineke 
+   1 Dale Askey Blog 
+   1 Cressida Bonas 
+   1 Craig Burley 
+   1 Cory Doctorow 
+   1 Cornelia Bargmann 
+   1 Cordelia Perry 
+   1 Codes 
+   1 Chris Pearson Switch 
+   1 Chris Pearson 
+   1 Chris Moody 
+   1 Chewbacon 
+   1 Change.org 
+   1 Cathy Aster 
+   1 Caro Pinto 
+   1 C.C. Chapman 
+   1 Butler 
+   1 Brig C. McCoy 
+   1 Brian Rogers 
+   1 Brian MacLeod Rogers 
+   1 Brian 
+   1 Brendan Tripp Scott 
+   1 Brendan 
+   1 Brando 
+   1 Bradley P. Beaulieu 
+   1 Boone 
+   1 Booker T. Washington 
+   1 Bon Iver 
+   1 Boing Boing 
+   1 Bob Murphy 
+   1 Blog 
+   1 Bill Everett 
+   1 Bill 
+   1 Bernie Sloan 
+   1 Berger 
+   1 Ben Ho 
+   1 Beatriz Hausner Beatriz Hausner Beatriz Hausner rob mclennan rob mclennan Liam 
+   1 Bastard 
+   1 Bart Beaty Said 
+   1 Barschall 
+   1 Barrie 
+   1 Barbara J. Hopkins 
+   1 Barbara Fister Barbara Fister 
+   1 Barbara 
+   1 Baccar Wozat 
+   1 B Madsen 
+   1 Automattic 
+   1 Arthur Bodson 
+   1 Anne What 
+   1 Ann Coulter 
+   1 Anita Silvey 
+   1 Angie 
+   1 Andrys Onsman 
+   1 Andreas Viklund 
+   1 Andi Beckendorf 
+   1 Amon Amarth 
+   1 Amanda Izenstark 
+   1 Allison Render 
+   1 Alex 
+   1 Adam Carolla 
+   1 Adalia Rose 
+   1 A. J. 
+   1  Dale 
